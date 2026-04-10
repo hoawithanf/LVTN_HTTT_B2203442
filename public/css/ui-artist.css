@@ -1,0 +1,127 @@
+/* ===== HERO ===== */
+.artist-hero {
+    height: 480px;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+}
+
+.artist-hero-overlay {
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(to bottom, rgba(0,0,0,.35), #000);
+}
+
+.artist-hero-content {
+    position: relative;
+    z-index: 2;
+    text-align: center;
+    padding-top: 140px;
+    color: #fff;
+}
+
+.artist-avatar {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 4px solid #fff;
+    object-fit: cover;
+}
+
+.artist-hero h1 {
+    font-size: 3rem;
+    font-weight: 800;
+    margin-top: 15px;
+}
+
+.artist-bio {
+    max-width: 700px;
+    margin: 10px auto;
+    opacity: .9;
+}
+
+.btn-follow {
+    margin-top: 15px;
+    padding: 10px 26px;
+    background: #1db954;
+    border-radius: 50px;
+    border: none;
+    color: #fff;
+    font-weight: 600;
+}
+
+.btn-follow.following {
+    background: #555;
+}
+
+/* ===== MAIN ===== */
+.artist-main {
+    margin-top: 50px;
+    margin-bottom: 80px;
+}
+
+.section-title {
+    font-weight: 700;
+    margin-bottom: 20px;
+}
+
+/* SONGS */
+.song-row {
+    display: flex;
+    align-items: center;
+    margin-bottom: 15px;
+}
+
+.song-row .rank {
+    width: 24px;
+    font-weight: bold;
+    opacity: .6;
+}
+
+.song-row img {
+    width: 60px;
+    height: 60px;
+    border-radius: 8px;
+    margin-right: 12px;
+    object-fit: cover;
+}
+
+.song-row a {
+    font-weight: 600;
+    color: #111;
+    text-decoration: none;
+}
+
+/* ALBUMS */
+.album-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill,minmax(160px,1fr));
+    gap: 20px;
+}
+
+.album-card {
+    cursor: pointer;
+    text-align: center;
+}
+
+.album-card img {
+    width: 100%;
+    border-radius: 8px;
+}
+
+.album-card .title {
+    font-weight: 600;
+    margin-top: 6px;
+}
+
+.album-card .year {
+    font-size: 13px;
+    opacity: .6;
+}
+
+/* INFO */
+.info-box {
+    background: #fafafa;
+    border-radius: 10px;
+    padding: 20px;
+}

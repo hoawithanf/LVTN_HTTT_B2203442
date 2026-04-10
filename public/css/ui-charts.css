@@ -1,0 +1,58 @@
+.charts-header {
+    background-image: url('../assets/img/home-bg.jpg');
+    padding: 160px 0 80px;
+    margin-top: 110px;
+    color: white;
+}
+
+.charts-title {
+    font-size: 56px;
+    font-weight: 700;
+}
+
+.charts-wrapper {
+    display: flex;
+    margin-top: 50px;
+}
+
+.charts-left {
+    flex: 3;
+    padding-right: 40px;
+}
+
+.charts-right {
+    flex: 1;
+}
+
+.song-row, .artist-row {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.rank-num {
+    width: 30px;
+    font-size: 22px;
+    font-weight: bold;
+}
+
+.song-cover {
+    width: 70px;
+    height: 70px;
+    border-radius: 6px;
+    margin-right: 15px;
+    object-fit: cover;
+}
+
+.artist-avatar {
+    width: 55px;
+    height: 55px;
+    border-radius: 50%;
+    margin-right: 12px;
+    object-fit: cover;
+}
+
+.artist-name {
+    font-weight: bold;
+    font-size: 18px;
+}
