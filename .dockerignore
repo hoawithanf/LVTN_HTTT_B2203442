@@ -1,0 +1,7 @@
+.git
+.gitignore
+.env
+api_key.txt
+docker/mysql/data
+node_modules
+vendor/.cache

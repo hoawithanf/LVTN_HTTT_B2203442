@@ -36,6 +36,12 @@ Kiểu tổ chức source:
 - các API nội bộ nhỏ trong `public/includes/`
 - không dùng framework MVC hoàn chỉnh
 
+Project hiện đã có thêm cấu hình Docker tối giản để phục hồi trên máy khác:
+
+- `Dockerfile`
+- `docker-compose.yml`
+- `docker/mysql/init/`
+
 ## 3. Trạng thái database live đã chốt
 
 Schema live được xác minh từ DB local `nln_lyrics`.
@@ -323,7 +329,7 @@ Project không bắt buộc phải chạy bằng XAMPP. Có thể phục hồi t
 
 - PHP built-in server + MySQL/MariaDB local
 - Laragon
-- Docker compose tự viết
+- Docker Compose có sẵn trong repo
 
 Cách nhanh nhất nếu máy đã có PHP:
 
@@ -336,7 +342,52 @@ Lưu ý:
 - cách này chỉ phù hợp để demo/dev nhanh
 - cần sửa cấu hình DB host/user/password trong file kết nối nếu môi trường mới khác máy cũ
 
-### 9.5. Các file cấu hình DB cần kiểm tra
+### 9.5. Cách chạy bằng Docker Compose
+
+Repo đã có sẵn cấu hình Docker cho:
+
+- `web`: PHP 8.2 + Apache
+- `mysql`: MySQL 8.0
+
+Các file liên quan:
+
+- `Dockerfile`
+- `docker-compose.yml`
+- `docker/mysql/init/README.md`
+
+Luồng chạy đề xuất:
+
+1. đặt file SQL backup vào `docker/mysql/init/` nếu cần import database khi khởi tạo lần đầu
+2. chạy:
+
+```bash
+docker compose up --build
+```
+
+Sau khi chạy:
+
+- web: `http://127.0.0.1:8080/public/`
+- mysql host từ máy ngoài container: `127.0.0.1:3307`
+
+Biến DB trong Docker hiện tại:
+
+- `DB_HOST=mysql`
+- `DB_PORT=3306`
+- `DB_DATABASE=nln_lyrics`
+- `DB_USERNAME=nln_user`
+- `DB_PASSWORD=nln_password`
+
+Lưu ý:
+
+- script init MySQL chỉ chạy khi volume DB chưa tồn tại
+- nếu cần import lại DB từ đầu:
+
+```bash
+docker compose down -v
+docker compose up --build
+```
+
+### 9.6. Các file cấu hình DB cần kiểm tra
 
 - `public/includes/database.php`
 - `config/database.php`

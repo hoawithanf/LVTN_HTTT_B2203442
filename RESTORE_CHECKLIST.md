@@ -16,7 +16,7 @@ Chọn một trong các phương án:
 - `PHP built-in server` + MySQL/MariaDB
 - `Laragon`
 - `XAMPP`
-- `Docker` nếu muốn đóng gói kỹ hơn
+- `Docker Compose`
 
 Khuyến nghị nhanh nhất để phục hồi:
 
@@ -95,7 +95,43 @@ Sau đó mở:
 
 - `http://127.0.0.1:8000`
 
-## 8. Kiểm tra các route quan trọng
+## 8. Chạy bằng Docker Compose
+
+Repo đã có sẵn:
+
+- `Dockerfile`
+- `docker-compose.yml`
+- `docker/mysql/init/`
+
+Các bước:
+
+1. nếu có file SQL backup, đặt vào:
+   - `docker/mysql/init/`
+2. chạy:
+
+```bash
+docker compose up --build
+```
+
+Sau khi container lên:
+
+- web:
+  - `http://127.0.0.1:8080/public/`
+- mysql từ máy host:
+  - host `127.0.0.1`
+  - port `3307`
+  - db `nln_lyrics`
+  - user `nln_user`
+  - password `nln_password`
+
+Nếu cần reset DB Docker từ đầu:
+
+```bash
+docker compose down -v
+docker compose up --build
+```
+
+## 9. Kiểm tra các route quan trọng
 
 Sau khi chạy, kiểm tra lần lượt:
 
@@ -110,7 +146,7 @@ Sau khi chạy, kiểm tra lần lượt:
 - `admin/login.php`
 - `admin/index.php`
 
-## 9. Kiểm tra các chức năng trọng tâm
+## 10. Kiểm tra các chức năng trọng tâm
 
 ### Public
 
@@ -137,7 +173,7 @@ Sau khi chạy, kiểm tra lần lượt:
 - danh sách user / artist / song / news
 - add/edit/delete cơ bản
 
-## 10. Kiểm tra AI/API ngoài
+## 11. Kiểm tra AI/API ngoài
 
 Nếu có dùng:
 
@@ -152,7 +188,7 @@ Hãy xác nhận:
 - server có mạng
 - request không bị firewall chặn
 
-## 11. Các điểm cần nhớ khi tiếp tục phát triển
+## 12. Các điểm cần nhớ khi tiếp tục phát triển
 
 - route bài hát chính thức là `public/post.php`
 - `public/song.php` chỉ là redirect compatibility
@@ -161,7 +197,7 @@ Hãy xác nhận:
 - không commit `.env`
 - không để AI bịa entity mới ngoài DB
 
-## 12. Nếu phục hồi để viết báo cáo
+## 13. Nếu phục hồi để viết báo cáo
 
 Đọc theo thứ tự:
 
@@ -170,7 +206,7 @@ Hãy xác nhận:
 3. `REFACTOR_PRIORITY_PLAN.md`
 4. `CHATGPT_REPORT_HANDOVER.md`
 
-## 13. Nếu phục hồi để tiếp tục code
+## 14. Nếu phục hồi để tiếp tục code
 
 Ưu tiên đọc:
 
