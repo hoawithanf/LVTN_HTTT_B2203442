@@ -8,7 +8,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>SB Admin 2 - Dashboard</title>
+    <title>Musics-Admin</title>
 
     <!-- Custom fonts -->
     <link href="vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">

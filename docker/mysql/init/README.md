@@ -1,23 +1,18 @@
 # MySQL Init Folder
 
-Nếu cần khởi tạo database khi chạy Docker lần đầu, hãy đặt file `.sql` hoặc `.sql.gz` vào thư mục này.
+Docker Compose is configured to auto-import the root dump file:
 
-Ví dụ:
+- `./nln_lyrics.sql` -> `/docker-entrypoint-initdb.d/00_nln_lyrics.sql`
 
-- `nln_lyrics.sql`
+This import only runs when the MySQL data volume is created for the first time.
 
-Khi chạy:
+Run:
 
 ```bash
 docker compose up --build
 ```
 
-MySQL container sẽ tự import các file trong thư mục này nếu volume dữ liệu chưa được tạo trước đó.
-
-Lưu ý:
-
-- nếu `mysql_data` đã tồn tại, script init sẽ không chạy lại
-- khi cần import lại từ đầu, xóa volume cũ rồi chạy lại:
+If you need MySQL to re-import from `nln_lyrics.sql`, remove the existing volume first:
 
 ```bash
 docker compose down -v

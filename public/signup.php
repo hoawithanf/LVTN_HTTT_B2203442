@@ -49,7 +49,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
             <span class="auth-kicker">Create Account</span>
             <h1>Đăng ký</h1>
             <span class="subheading auth-subheading">
-                Tạo tài khoản để lưu album yêu thích, nhận gợi ý cá nhân và tham gia tương tác trên NLN Lyrics.
+                Tạo tài khoản để lưu album yêu thích, nhận gợi ý cá nhân và tham gia tương tác trên Musicalisation.
             </span>
         </div>
     </div>

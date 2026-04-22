@@ -45,7 +45,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
             <span class="auth-kicker">Welcome Back</span>
             <h1>Đăng nhập</h1>
             <span class="subheading auth-subheading">
-                Tiếp tục khám phá lời nhạc, gợi ý cá nhân và các nội dung bạn đã lưu trên NLN Lyrics.
+                Tiếp tục khám phá lời nhạc, gợi ý cá nhân và các nội dung bạn đã lưu trên Musicalisation.
             </span>
         </div>
     </div>

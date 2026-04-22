@@ -1,6 +1,7 @@
 <?php
 require_once __DIR__ . '/../config/database.php';
 require_once __DIR__ . '/includes/admin_auth.php';
+require_once __DIR__ . '/../config/lyric_request_helpers.php';
 
 /* ================= HELPERS ================= */
 function tableExists($conn, $table)
@@ -45,6 +46,7 @@ $totalUsers   = safeCount($conn, 'users');
 $totalSongs   = safeCount($conn, 'songs');
 $totalArtists = safeCount($conn, 'artists');
 $totalGenres  = safeCount($conn, 'genres');
+$pendingLyricRequests = nln_lyric_request_pending_count($conn);
 
 /* ================= NOTIFICATIONS ================= */
 $unreadNotifications = 0;
@@ -211,12 +213,12 @@ $cards = [
         'caption' => 'Hồ sơ nghệ sĩ đang quản lý'
     ],
     [
-        'title'   => 'Thông báo chưa đọc',
-        'value'   => $unreadNotifications,
+        'title'   => 'Yêu cầu lyrics',
+        'value'   => $pendingLyricRequests,
         'color'   => 'warning',
-        'link'    => 'news.php',
-        'icon'    => 'fa-bell',
-        'caption' => 'Thông báo cần kiểm tra'
+        'link'    => 'lyric_requests.php',
+        'icon'    => 'fa-file-signature',
+        'caption' => 'Yêu cầu người dùng đang chờ xử lý'
     ]
 ];
 ?>

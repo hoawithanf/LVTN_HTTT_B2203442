@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1300" viewBox="0 0 900 1300">
+  <style>
+    .title {
+      font-family: "Times New Roman", "Liberation Serif", "DejaVu Serif", serif;
+      font-size: 32px;
+      font-weight: 700;
+      fill: #1f1f1f;
+    }
+    .step-text {
+      font-family: "Times New Roman", "Liberation Serif", "DejaVu Serif", serif;
+      font-size: 20px;
+      font-weight: 700;
+      fill: #1f1f1f;
+    }
+    .box { fill: #ffffff; stroke: #111111; stroke-width: 5; }
+    .arrow { fill: #c7d8ff; stroke: #c7d8ff; stroke-width: 8; stroke-linecap: round; }
+  </style>
+
+  <rect x="0" y="0" width="900" height="1300" fill="#ffffff" />
+  <text class="title" x="450" y="60" text-anchor="middle">Quy trình phân tích ý nghĩa bài hát bằng AI</text>
+
+  <g transform="translate(40,100)">
+    <rect class="box" x="0" y="0" width="820" height="120" rx="22" ry="22" />
+    <text class="step-text" x="410" y="50" text-anchor="middle">
+      <tspan x="410" dy="0">Người dùng truy cập</tspan>
+      <tspan x="410" dy="30">trang chi tiết bài hát</tspan>
+    </text>
+  </g>
+
+  <g class="arrow" transform="translate(450,235)">
+    <line x1="0" y1="0" x2="0" y2="28" />
+    <polygon points="-10,28 10,28 0,42" />
+  </g>
+
+  <g transform="translate(40,290)">
+    <rect class="box" x="0" y="0" width="820" height="120" rx="22" ry="22" />
+    <text class="step-text" x="410" y="50" text-anchor="middle">
+      <tspan x="410" dy="0">Người dùng chọn chức năng</tspan>
+      <tspan x="410" dy="30">phân tích ý nghĩa bằng AI</tspan>
+    </text>
+  </g>
+
+  <g class="arrow" transform="translate(450,425)">
+    <line x1="0" y1="0" x2="0" y2="28" />
+    <polygon points="-10,28 10,28 0,42" />
+  </g>
+
+  <g transform="translate(40,480)">
+    <rect class="box" x="0" y="0" width="820" height="120" rx="22" ry="22" />
+    <text class="step-text" x="410" y="50" text-anchor="middle">
+      <tspan x="410" dy="0">Hệ thống gửi nội dung bài hát</tspan>
+      <tspan x="410" dy="30">đến dịch vụ AI</tspan>
+    </text>
+  </g>
+
+  <g class="arrow" transform="translate(450,615)">
+    <line x1="0" y1="0" x2="0" y2="28" />
+    <polygon points="-10,28 10,28 0,42" />
+  </g>
+
+  <g transform="translate(40,670)">
+    <rect class="box" x="0" y="0" width="820" height="120" rx="22" ry="22" />
+    <text class="step-text" x="410" y="50" text-anchor="middle">
+      <tspan x="410" dy="0">AI xử lý và trả về</tspan>
+      <tspan x="410" dy="30">kết quả phân tích</tspan>
+    </text>
+  </g>
+
+  <g class="arrow" transform="translate(450,805)">
+    <line x1="0" y1="0" x2="0" y2="28" />
+    <polygon points="-10,28 10,28 0,42" />
+  </g>
+
+  <g transform="translate(40,860)">
+    <rect class="box" x="0" y="0" width="820" height="120" rx="22" ry="22" />
+    <text class="step-text" x="410" y="50" text-anchor="middle">
+      <tspan x="410" dy="0">Hệ thống hiển thị</tspan>
+      <tspan x="410" dy="30">nội dung phân tích cho người dùng</tspan>
+    </text>
+  </g>
+</svg>

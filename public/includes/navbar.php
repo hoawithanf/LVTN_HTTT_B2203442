@@ -1,11 +1,14 @@
 <?php
 include_once(__DIR__ . '/session.php');
 include_once(__DIR__ . '/database.php');
+require_once __DIR__ . '/../../config/lyric_request_helpers.php';
 
 $user_id = $_SESSION['user_id'] ?? null;
+nln_lyric_request_ensure_schema($conn);
 
 $notifications = [];
 $unreadCount = 0;
+$readCount = 0;
 $recentSearches = [];
 
 if ($user_id) {
@@ -15,9 +18,12 @@ if ($user_id) {
             n.news_id,
             n.is_read,
             n.created_at,
-            ne.title
+            n.custom_title,
+            n.custom_message,
+            n.redirect_url,
+            ne.title AS news_title
         FROM notifications n
-        INNER JOIN news ne ON ne.news_id = n.news_id
+        LEFT JOIN news ne ON ne.news_id = n.news_id
         WHERE n.user_id = ?
         ORDER BY n.created_at DESC
         LIMIT 5
@@ -29,9 +35,15 @@ if ($user_id) {
     $res = $stmt->get_result();
 
     while ($row = $res->fetch_assoc()) {
+        $row['display_title'] = (string) ($row['custom_title'] ?? $row['news_title'] ?? 'Thông báo');
+        $row['display_url'] = trim((string) ($row['redirect_url'] ?? '')) !== ''
+            ? (string) $row['redirect_url']
+            : ('news.php?id=' . (int) ($row['news_id'] ?? 0));
         $notifications[] = $row;
         if ((int) $row['is_read'] === 0) {
             $unreadCount++;
+        } else {
+            $readCount++;
         }
     }
 
@@ -98,7 +110,7 @@ if ($user_id) {
 
 <nav class="navbar navbar-expand-lg navbar-light" id="mainNav">
     <div class="container px-4 px-lg-5">
-        <a class="navbar-brand" href="index.php">NLN Lyrics</a>
+        <a class="navbar-brand" href="index.php">Musicalisation</a>
 
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive">
             Menu <i class="fas fa-bars"></i>
@@ -110,18 +122,13 @@ if ($user_id) {
                     <a class="nav-link px-lg-3 py-3 py-lg-4" href="index.php">Trang chủ</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link px-lg-3 py-3 py-lg-4" href="charts.php">Charts</a>
+                    <a class="nav-link px-lg-3 py-3 py-lg-4" href="charts.php">BXH</a>
                 </li>
-                <?php if ($user_id): ?>
-                    <li class="nav-item">
-                        <a class="nav-link px-lg-3 py-3 py-lg-4" href="recap.php">Recap</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link px-lg-3 py-3 py-lg-4" href="persona.php">Persona</a>
-                    </li>
-                <?php endif; ?>
                 <li class="nav-item">
                     <a class="nav-link px-lg-3 py-3 py-lg-4" href="news_list.php">Tin tức</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link px-lg-3 py-3 py-lg-4" href="contact.php">Liên hệ</a>
                 </li>
             </ul>
 
@@ -166,15 +173,21 @@ if ($user_id) {
                                 <span class="navbar-popover-kicker">Inbox</span>
                                 <strong>Thông báo</strong>
                             </li>
+                            <?php if ($readCount > 0): ?>
+                                <li class="navbar-notification-actions">
+                                    <button type="button" class="navbar-clear-read-btn" id="clearReadNotificationsBtn">Xóa tất cả</button>
+                                </li>
+                            <?php endif; ?>
                             <?php if ($notifications): ?>
                                 <?php foreach ($notifications as $notification): ?>
                                     <li>
                                         <a
-                                            class="dropdown-item navbar-noti-item <?= $notification['is_read'] ? '' : 'is-unread' ?>"
+                                            class="dropdown-item navbar-noti-item <?= $notification['is_read'] ? 'is-read' : 'is-unread' ?>"
                                             data-id="<?= (int) $notification['notification_id'] ?>"
-                                            href="news.php?id=<?= (int) $notification['news_id'] ?>"
+                                            href="<?= htmlspecialchars((string) $notification['display_url'], ENT_QUOTES, 'UTF-8') ?>"
+                                            title="<?= htmlspecialchars((string) $notification['display_title'], ENT_QUOTES, 'UTF-8') ?>"
                                         >
-                                            <span class="navbar-noti-title"><?= htmlspecialchars((string) $notification['title'], ENT_QUOTES, 'UTF-8') ?></span>
+                                            <span class="navbar-noti-title"><?= htmlspecialchars((string) $notification['display_title'], ENT_QUOTES, 'UTF-8') ?></span>
                                             <small class="navbar-noti-time"><?= date('d/m/Y H:i', strtotime((string) $notification['created_at'])) ?></small>
                                         </a>
                                     </li>
@@ -310,6 +323,10 @@ if ($user_id) {
     padding: .7rem .85rem .65rem;
 }
 
+.navbar-notification-actions {
+    padding: 0 .85rem .55rem;
+}
+
 .navbar-popover-kicker {
     color: #2563eb;
     font-family: "Open Sans", sans-serif;
@@ -324,6 +341,26 @@ if ($user_id) {
     color: #162033;
     font-size: .95rem;
     line-height: 1.28;
+}
+
+.navbar-clear-read-btn {
+    width: 100%;
+    padding: .48rem .8rem;
+    border: 1px solid rgba(148, 163, 184, .26);
+    border-radius: 999px;
+    background: #fff;
+    color: #64748b;
+    font-size: .74rem;
+    font-weight: 800;
+    line-height: 1.2;
+    transition: background-color .16s ease, color .16s ease, border-color .16s ease;
+}
+
+.navbar-clear-read-btn:hover,
+.navbar-clear-read-btn:focus {
+    border-color: rgba(37, 99, 235, .22);
+    background: #f8fbff;
+    color: #2563eb;
 }
 
 .navbar-noti-item,
@@ -358,6 +395,9 @@ if ($user_id) {
     font-size: .92rem;
     font-weight: 700;
     line-height: 1.42;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
 }
 
 .navbar-noti-time {
@@ -627,5 +667,72 @@ if ($user_id) {
             });
         });
     });
+
+    const clearReadNotificationsBtn = document.getElementById('clearReadNotificationsBtn');
+    if (clearReadNotificationsBtn) {
+        clearReadNotificationsBtn.addEventListener('click', function () {
+            fetch('includes/api_clear_read_notifications.php', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/x-www-form-urlencoded; charset=UTF-8' },
+                body: 'clear_read=1'
+            })
+                .then((response) => response.json())
+                .then((data) => {
+                    if (!data || !data.success) {
+                        return;
+                    }
+
+                    document.querySelectorAll('.navbar-noti-item.is-read').forEach((item) => {
+                        const row = item.closest('li');
+                        if (row) {
+                            row.remove();
+                        }
+                    });
+
+                    const actionsRow = clearReadNotificationsBtn.closest('.navbar-notification-actions');
+                    if (actionsRow) {
+                        actionsRow.remove();
+                    }
+
+                    const notificationMenu = document.querySelector('.navbar-notification-menu');
+                    if (notificationMenu && !notificationMenu.querySelector('.navbar-noti-item')) {
+                        notificationMenu.insertAdjacentHTML(
+                            'beforeend',
+                            '<li class="navbar-empty-state"><i class="fas fa-bell-slash"></i><span>Chưa có thông báo nào.</span></li>'
+                        );
+                    }
+                })
+                .catch(() => {});
+        });
+    }
+
+    const brand = document.querySelector('.navbar-brand');
+    if (brand) {
+        brand.textContent = 'Musicalisation';
+    }
+
+    document.querySelectorAll('#navbarResponsive .nav-link').forEach((link) => {
+        const href = link.getAttribute('href') || '';
+        const label = (link.textContent || '').trim().toLowerCase();
+
+        if (href === 'charts.php') {
+            link.textContent = 'BXH';
+        }
+
+        if (href === 'recap.php' || href === 'persona.php' || label === 'recap' || label === 'persona') {
+            const navItem = link.closest('.nav-item');
+            if (navItem) {
+                navItem.remove();
+            }
+        }
+    });
+
+    const navList = document.querySelector('#navbarResponsive .navbar-nav.ms-auto');
+    if (navList && !navList.querySelector('a[href="contact.php"]')) {
+        const contactItem = document.createElement('li');
+        contactItem.className = 'nav-item';
+        contactItem.innerHTML = '<a class="nav-link px-lg-3 py-3 py-lg-4" href="contact.php">Liên hệ</a>';
+        navList.appendChild(contactItem);
+    }
 })();
 </script>

@@ -36,17 +36,30 @@ if ($parent_comment_id !== null) {
     }
 }
 
-$q = $conn->prepare("
+$sql = "
     INSERT INTO comments (song_id, user_id, parent_comment_id, content, created_at, updated_at)
     VALUES (?, ?, ?, ?, NOW(), NOW())
-");
+";
+
+if ($parent_comment_id === null) {
+    $sql = "
+        INSERT INTO comments (song_id, user_id, parent_comment_id, content, created_at, updated_at)
+        VALUES (?, ?, NULL, ?, NOW(), NOW())
+    ";
+}
+
+$q = $conn->prepare($sql);
 
 if (!$q) {
     echo json_encode(["success" => false, "error" => "prepare_failed"]);
     exit;
 }
 
-$q->bind_param("iiis", $song_id, $user_id, $parent_comment_id, $content);
+if ($parent_comment_id === null) {
+    $q->bind_param("iis", $song_id, $user_id, $content);
+} else {
+    $q->bind_param("iiis", $song_id, $user_id, $parent_comment_id, $content);
+}
 $ok = $q->execute();
 
 if (!$ok) {

@@ -194,7 +194,7 @@ $summaryCards = [
     <div class="container position-relative px-4 px-lg-5">
         <div class="site-heading text-center charts-heading-shell">
             <span class="charts-eyebrow">Music Ranking</span>
-            <h1>Charts</h1>
+            <h1>BXH</h1>
             <span class="subheading charts-subheading">
                 Bảng xếp hạng âm nhạc dựa trên mức độ quan tâm và lượt tìm kiếm của người dùng.
             </span>

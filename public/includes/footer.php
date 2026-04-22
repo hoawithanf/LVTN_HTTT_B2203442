@@ -2,7 +2,7 @@
 <footer class="footer-nln">
     <div class="container">
         <div class="footer-inner d-flex flex-column flex-md-row justify-content-between align-items-center py-4">
-            <div class="text-muted small">&copy; NLN Lyrics <?= date('Y') ?>. All rights reserved.</div>
+            <div class="text-muted small">&copy; Musicalisation <?= date('Y') ?>. All rights reserved.</div>
             <div class="social">
                 <a class="me-2" href="#"><i class="fab fa-twitter"></i></a>
                 <a class="me-2" href="#"><i class="fab fa-facebook-f"></i></a>

@@ -16,9 +16,9 @@ $BASE_URL = $protocol . $host . $folder . "/";
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
 
-    <meta name="description" content="NLN Lyrics - Lyrics & Meaning" />
-    <meta name="author" content="NLN Project Team" />
-    <title>NLN Lyrics</title>
+    <meta name="description" content="Musicalisation - Lyrics, meaning và trải nghiệm âm nhạc cá nhân hóa" />
+    <meta name="author" content="Musicalisation Team" />
+    <title>Musicalisation</title>
 
     <!-- Favicon -->
     <link rel="icon" type="image/x-icon" href="<?= $BASE_URL ?>assets/favicon.ico" />

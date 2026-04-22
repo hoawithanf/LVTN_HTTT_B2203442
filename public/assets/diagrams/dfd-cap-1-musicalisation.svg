@@ -1,0 +1,274 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1800" height="1250" viewBox="0 0 1800 1250">
+  <defs>
+    <marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="9" markerHeight="9" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#1976d2" />
+    </marker>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="3" stdDeviation="4" flood-color="#9eb9d5" flood-opacity="0.35" />
+    </filter>
+  </defs>
+
+  <style>
+    .title {
+      font-family: Arial, Tahoma, "Liberation Sans", "DejaVu Sans", sans-serif;
+      font-size: 34px;
+      font-weight: 700;
+      fill: #1f1f1f;
+    }
+    .subtitle {
+      font-family: Arial, Tahoma, "Liberation Sans", "DejaVu Sans", sans-serif;
+      font-size: 18px;
+      fill: #4d4d4d;
+    }
+    .section-label {
+      font-family: Arial, Tahoma, "Liberation Sans", "DejaVu Sans", sans-serif;
+      font-size: 20px;
+      font-weight: 700;
+      fill: #35506b;
+    }
+    .entity-label,
+    .process-label,
+    .store-label,
+    .line-label,
+    .note {
+      font-family: Arial, Tahoma, "Liberation Sans", "DejaVu Sans", sans-serif;
+      fill: #1f1f1f;
+    }
+    .entity-label {
+      font-size: 21px;
+      font-weight: 700;
+    }
+    .process-label {
+      font-size: 18px;
+      font-weight: 700;
+    }
+    .store-label {
+      font-size: 18px;
+      font-weight: 700;
+    }
+    .line-label {
+      font-size: 15px;
+    }
+    .note {
+      font-size: 15px;
+      fill: #4b657e;
+    }
+    .entity {
+      fill: #dce8ff;
+      stroke: #78a6d5;
+      stroke-width: 2.4;
+      filter: url(#shadow);
+    }
+    .process {
+      fill: #dff8fb;
+      stroke: #79b8d3;
+      stroke-width: 2.8;
+      rx: 30;
+      ry: 30;
+      filter: url(#shadow);
+    }
+    .store {
+      fill: #fff7dc;
+      stroke: #c99f48;
+      stroke-width: 2.4;
+      filter: url(#shadow);
+    }
+    .store-spine {
+      stroke: #c99f48;
+      stroke-width: 2.4;
+    }
+    .boundary {
+      fill: #fbfdff;
+      stroke: #7f8fa3;
+      stroke-width: 2.2;
+      stroke-dasharray: 10 8;
+    }
+    .layer-business {
+      fill: #eef7ff;
+      stroke: #bfd8f2;
+      stroke-width: 1.6;
+      rx: 22;
+      ry: 22;
+    }
+    .layer-data {
+      fill: #fff9ea;
+      stroke: #f0d49c;
+      stroke-width: 1.6;
+      rx: 22;
+      ry: 22;
+    }
+    .flow {
+      fill: none;
+      stroke: #1976d2;
+      stroke-width: 2.2;
+      marker-end: url(#arrow);
+    }
+  </style>
+
+  <rect x="0" y="0" width="1800" height="1250" fill="#ffffff" />
+
+  <text class="title" x="900" y="52" text-anchor="middle">DFD Cấp 1 - Hệ thống Musicalisation</text>
+  <text class="subtitle" x="900" y="84" text-anchor="middle">Phù hợp luồng dữ liệu hiện tại của project PHP thuần + MySQL, tách theo hướng 3 lớp: giao diện - nghiệp vụ - dữ liệu</text>
+
+  <rect class="boundary" x="330" y="115" width="1120" height="1070" rx="26" ry="26" />
+  <text class="section-label" x="370" y="148">Hệ thống Musicalisation tra cứu lời bài hát, ý nghĩa, gợi ý và quản trị nội dung</text>
+
+  <rect class="layer-business" x="360" y="175" width="1060" height="500" />
+  <text class="section-label" x="390" y="208">Lớp nghiệp vụ / xử lý dịch vụ</text>
+
+  <rect class="layer-data" x="360" y="720" width="1060" height="430" />
+  <text class="section-label" x="390" y="753">Lớp dữ liệu / truy cập dữ liệu</text>
+
+  <rect class="entity" x="40" y="180" width="250" height="110" />
+  <text class="entity-label" x="165" y="225" text-anchor="middle">Người dùng</text>
+  <text class="note" x="165" y="252" text-anchor="middle">đã đăng nhập</text>
+
+  <rect class="entity" x="40" y="560" width="250" height="110" />
+  <text class="entity-label" x="165" y="606" text-anchor="middle">Khách truy cập</text>
+  <text class="note" x="165" y="633" text-anchor="middle">chưa đăng nhập</text>
+
+  <rect class="entity" x="1500" y="240" width="250" height="120" />
+  <text class="entity-label" x="1625" y="288" text-anchor="middle">Quản trị viên</text>
+  <text class="note" x="1625" y="316" text-anchor="middle">quản lý dữ liệu và báo cáo</text>
+
+  <rect class="entity" x="1500" y="810" width="250" height="110" />
+  <text class="entity-label" x="1625" y="854" text-anchor="middle">Dịch vụ OpenAI</text>
+  <text class="note" x="1625" y="881" text-anchor="middle">phân tích lời bài hát / diễn giải persona</text>
+
+  <rect class="process" x="420" y="235" width="260" height="110" rx="30" ry="30" />
+  <text class="process-label" x="550" y="275" text-anchor="middle">1.1 Xác thực</text>
+  <text class="process-label" x="550" y="302" text-anchor="middle">&amp; phân quyền</text>
+
+  <rect class="process" x="770" y="205" width="320" height="150" rx="30" ry="30" />
+  <text class="process-label" x="930" y="252" text-anchor="middle">1.2 Tra cứu, xem bài hát</text>
+  <text class="process-label" x="930" y="279" text-anchor="middle">&amp; hiển thị nội dung</text>
+  <text class="note" x="930" y="309" text-anchor="middle">post.php, search.php, artist.php, album.php, news.php</text>
+
+  <rect class="process" x="420" y="430" width="335" height="150" rx="30" ry="30" />
+  <text class="process-label" x="587" y="478" text-anchor="middle">1.3 Tương tác cộng đồng,</text>
+  <text class="process-label" x="587" y="505" text-anchor="middle">theo dõi nghệ sĩ &amp; thông báo</text>
+  <text class="note" x="587" y="535" text-anchor="middle">comment API, follow API, notification API</text>
+
+  <rect class="process" x="825" y="430" width="330" height="170" rx="30" ry="30" />
+  <text class="process-label" x="990" y="478" text-anchor="middle">1.4 Cá nhân hóa, recap,</text>
+  <text class="process-label" x="990" y="505" text-anchor="middle">persona &amp; AI phân tích</text>
+  <text class="note" x="990" y="535" text-anchor="middle">recommendation_helpers, recap_helpers, persona_helpers</text>
+  <text class="note" x="990" y="560" text-anchor="middle">ajax_analyze_lyrics.php</text>
+
+  <rect class="process" x="770" y="620" width="330" height="110" rx="30" ry="30" />
+  <text class="process-label" x="935" y="663" text-anchor="middle">1.5 Quản trị nội dung, thống kê</text>
+  <text class="process-label" x="935" y="690" text-anchor="middle">&amp; xuất báo cáo</text>
+
+  <g>
+    <rect class="store" x="410" y="810" width="240" height="95" />
+    <line class="store-spine" x1="438" y1="810" x2="438" y2="905" />
+    <text class="store-label" x="530" y="845" text-anchor="middle">D1. Người dùng</text>
+    <text class="note" x="530" y="872" text-anchor="middle">users, role, thông tin đăng nhập</text>
+  </g>
+
+  <g>
+    <rect class="store" x="695" y="800" width="350" height="105" />
+    <line class="store-spine" x1="723" y1="800" x2="723" y2="905" />
+    <text class="store-label" x="870" y="837" text-anchor="middle">D2. Nội dung âm nhạc</text>
+    <text class="note" x="870" y="864" text-anchor="middle">songs, artists, albums, genres, news</text>
+  </g>
+
+  <g>
+    <rect class="store" x="1090" y="810" width="280" height="95" />
+    <line class="store-spine" x1="1118" y1="810" x2="1118" y2="905" />
+    <text class="store-label" x="1230" y="845" text-anchor="middle">D3. Tương tác</text>
+    <text class="note" x="1230" y="872" text-anchor="middle">comments, follows, notifications</text>
+  </g>
+
+  <g>
+    <rect class="store" x="520" y="975" width="330" height="105" />
+    <line class="store-spine" x1="548" y1="975" x2="548" y2="1080" />
+    <text class="store-label" x="685" y="1013" text-anchor="middle">D4. Hành vi &amp; cá nhân hóa</text>
+    <text class="note" x="685" y="1040" text-anchor="middle">search_logs, user_recommendations, album_favorites, playlists</text>
+  </g>
+
+  <g>
+    <rect class="store" x="915" y="975" width="355" height="105" />
+    <line class="store-spine" x1="943" y1="975" x2="943" y2="1080" />
+    <text class="store-label" x="1092" y="1013" text-anchor="middle">D5. Tệp media</text>
+    <text class="note" x="1092" y="1040" text-anchor="middle">ảnh bài hát, album, nghệ sĩ, tin tức</text>
+  </g>
+
+  <path class="flow" d="M 290 215 L 360 215 L 360 270 L 420 270" />
+  <text class="line-label" x="330" y="205">thông tin đăng nhập</text>
+  <path class="flow" d="M 420 305 L 345 305 L 345 245 L 290 245" />
+  <text class="line-label" x="320" y="295">kết quả xác thực / phiên truy cập</text>
+
+  <path class="flow" d="M 290 585 L 360 585 L 360 320 L 420 320" />
+  <text class="line-label" x="318" y="575">đăng ký tài khoản / đăng nhập</text>
+  <path class="flow" d="M 420 255 L 340 255 L 340 615 L 290 615" />
+  <text class="line-label" x="315" y="642">kết quả đăng ký / xác thực</text>
+
+  <path class="flow" d="M 290 235 L 690 235 L 770 235" />
+  <text class="line-label" x="470" y="225">từ khóa tìm kiếm, yêu cầu xem bài hát</text>
+  <path class="flow" d="M 770 325 L 660 325 L 660 265 L 290 265" />
+  <text class="line-label" x="460" y="315">chi tiết bài hát, lời bài hát, video, tin tức</text>
+
+  <path class="flow" d="M 290 640 L 730 640 L 730 315 L 770 315" />
+  <text class="line-label" x="420" y="630">từ khóa tìm kiếm, yêu cầu xem nội dung công khai</text>
+  <path class="flow" d="M 770 345 L 700 345 L 700 670 L 290 670" />
+  <text class="line-label" x="430" y="700">kết quả tìm kiếm, thông tin bài hát, nghệ sĩ, album, tin tức</text>
+
+  <path class="flow" d="M 290 255 L 365 255 L 365 505 L 420 505" />
+  <text class="line-label" x="307" y="410">bình luận, phản hồi, theo dõi, đọc thông báo</text>
+  <path class="flow" d="M 420 540 L 350 540 L 350 285 L 290 285" />
+  <text class="line-label" x="300" y="530">cây bình luận, trạng thái theo dõi, danh sách thông báo</text>
+
+  <path class="flow" d="M 290 275 L 380 275 L 380 565 L 825 565" />
+  <text class="line-label" x="430" y="555">yêu cầu recap, persona, gợi ý, phân tích ý nghĩa AI</text>
+  <path class="flow" d="M 825 595 L 395 595 L 395 305 L 290 305" />
+  <text class="line-label" x="455" y="585">gợi ý bài hát, recap tháng, music persona, ý nghĩa bài hát</text>
+
+  <path class="flow" d="M 1500 280 L 1320 280 L 1320 655 L 1100 655" />
+  <text class="line-label" x="1260" y="270">đăng nhập quản trị, yêu cầu CRUD, yêu cầu thống kê</text>
+  <path class="flow" d="M 1100 690 L 1325 690 L 1325 325 L 1500 325" />
+  <text class="line-label" x="1230" y="708">kết quả cập nhật, dashboard, file CSV/PDF</text>
+
+  <path class="flow" d="M 650 855 L 595 855 L 595 345" />
+  <text class="line-label" x="445" y="795">đọc thông tin tài khoản</text>
+  <path class="flow" d="M 505 345 L 505 810" />
+  <text class="line-label" x="430" y="380">ghi / cập nhật tài khoản</text>
+
+  <path class="flow" d="M 930 355 L 930 800" />
+  <text class="line-label" x="940" y="590">truy vấn bài hát, nghệ sĩ, album, news</text>
+  <path class="flow" d="M 850 800 L 850 355" />
+  <text class="line-label" x="700" y="395">dữ liệu nội dung</text>
+
+  <path class="flow" d="M 610 580 L 610 810 L 1090 810" />
+  <text class="line-label" x="705" y="770">ghi / đọc bình luận, theo dõi, thông báo</text>
+  <path class="flow" d="M 1180 810 L 1180 580 L 705 580" />
+  <text class="line-label" x="980" y="600">dữ liệu tương tác</text>
+
+  <path class="flow" d="M 990 600 L 990 800" />
+  <text class="line-label" x="1002" y="706">đọc lyrics, meaning, metadata</text>
+  <path class="flow" d="M 930 800 L 930 600" />
+  <text class="line-label" x="760" y="735">cập nhật meaning khi AI phân tích xong</text>
+
+  <path class="flow" d="M 880 600 L 880 975 L 685 975" />
+  <text class="line-label" x="710" y="960">ghi search logs / cache gợi ý</text>
+  <path class="flow" d="M 640 975 L 640 600 L 915 600" />
+  <text class="line-label" x="575" y="690">dữ liệu hành vi nghe nhạc</text>
+
+  <path class="flow" d="M 1155 525 L 1405 525 L 1405 845 L 1500 845" />
+  <text class="line-label" x="1275" y="515">gửi prompt phân tích / diễn giải</text>
+  <path class="flow" d="M 1500 885 L 1450 885 L 1450 555 L 1155 555" />
+  <text class="line-label" x="1290" y="905">kết quả AI</text>
+
+  <path class="flow" d="M 935 730 L 935 810 L 530 810" />
+  <text class="line-label" x="720" y="782">đọc người dùng &amp; phân quyền</text>
+  <path class="flow" d="M 970 730 L 970 800 L 870 800" />
+  <text class="line-label" x="978" y="770">đọc / cập nhật catalog</text>
+  <path class="flow" d="M 1010 730 L 1010 810 L 1230 810" />
+  <text class="line-label" x="1040" y="782">tạo thông báo, đọc bình luận</text>
+  <path class="flow" d="M 1045 730 L 1045 975 L 685 975" />
+  <text class="line-label" x="1060" y="948">đọc thống kê, top songs, search logs</text>
+  <path class="flow" d="M 1090 730 L 1090 975" />
+  <text class="line-label" x="1102" y="845">ghi / đọc ảnh upload</text>
+
+  <text class="note" x="360" y="1205">Nhận định kiến trúc: hệ thống hiện có tách lớp ở mức triển khai thực tế, gồm giao diện public/admin, lớp xử lý nghiệp vụ bằng PHP helper/API và lớp dữ liệu MySQL + media + dịch vụ AI bên ngoài.</text>
+</svg>

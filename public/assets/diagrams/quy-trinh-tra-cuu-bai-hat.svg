@@ -1,0 +1,108 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1500" viewBox="0 0 900 1500">
+  <style>
+    .title {
+      font-family: "Times New Roman", "Liberation Serif", "DejaVu Serif", serif;
+      font-size: 32px;
+      font-weight: 700;
+      fill: #1f1f1f;
+    }
+    .step-text {
+      font-family: "Times New Roman", "Liberation Serif", "DejaVu Serif", serif;
+      font-size: 20px;
+      font-weight: 700;
+      fill: #1f1f1f;
+    }
+    .box { fill: #ffffff; stroke: #111111; stroke-width: 5; }
+    .arrow { fill: #c7d8ff; stroke: #c7d8ff; stroke-width: 8; stroke-linecap: round; }
+  </style>
+
+  <rect x="0" y="0" width="900" height="1500" fill="#ffffff" />
+  <text class="title" x="450" y="60" text-anchor="middle">Quy trình tra cứu và xem thông tin bài hát</text>
+
+  <g transform="translate(40,100)">
+    <rect class="box" x="0" y="0" width="820" height="120" rx="22" ry="22" />
+    <text class="step-text" x="410" y="50" text-anchor="middle">
+      <tspan x="410" dy="0">Người dùng hoặc khách truy cập</tspan>
+      <tspan x="410" dy="30">truy cập vào hệ thống</tspan>
+    </text>
+  </g>
+
+  <g class="arrow" transform="translate(450,235)">
+    <line x1="0" y1="0" x2="0" y2="28" />
+    <polygon points="-10,28 10,28 0,42" />
+  </g>
+
+  <g transform="translate(40,290)">
+    <rect class="box" x="0" y="0" width="820" height="120" rx="22" ry="22" />
+    <text class="step-text" x="410" y="50" text-anchor="middle">
+      <tspan x="410" dy="0">Nhập từ khóa tìm kiếm</tspan>
+      <tspan x="410" dy="30">(tên bài hát hoặc nghệ sĩ)</tspan>
+    </text>
+  </g>
+
+  <g class="arrow" transform="translate(450,425)">
+    <line x1="0" y1="0" x2="0" y2="28" />
+    <polygon points="-10,28 10,28 0,42" />
+  </g>
+
+  <g transform="translate(40,480)">
+    <rect class="box" x="0" y="0" width="820" height="120" rx="22" ry="22" />
+    <text class="step-text" x="410" y="50" text-anchor="middle">
+      <tspan x="410" dy="0">Hệ thống tiếp nhận yêu cầu và</tspan>
+      <tspan x="410" dy="30">truy vấn dữ liệu từ cơ sở dữ liệu</tspan>
+    </text>
+  </g>
+
+  <g class="arrow" transform="translate(450,615)">
+    <line x1="0" y1="0" x2="0" y2="28" />
+    <polygon points="-10,28 10,28 0,42" />
+  </g>
+
+  <g transform="translate(40,670)">
+    <rect class="box" x="0" y="0" width="820" height="120" rx="22" ry="22" />
+    <text class="step-text" x="410" y="50" text-anchor="middle">
+      <tspan x="410" dy="0">Hệ thống hiển thị danh sách</tspan>
+      <tspan x="410" dy="30">kết quả phù hợp</tspan>
+    </text>
+  </g>
+
+  <g class="arrow" transform="translate(450,805)">
+    <line x1="0" y1="0" x2="0" y2="28" />
+    <polygon points="-10,28 10,28 0,42" />
+  </g>
+
+  <g transform="translate(40,860)">
+    <rect class="box" x="0" y="0" width="820" height="120" rx="22" ry="22" />
+    <text class="step-text" x="410" y="50" text-anchor="middle">
+      <tspan x="410" dy="0">Người dùng lựa chọn một bài hát</tspan>
+      <tspan x="410" dy="30">từ danh sách kết quả</tspan>
+    </text>
+  </g>
+
+  <g class="arrow" transform="translate(450,995)">
+    <line x1="0" y1="0" x2="0" y2="28" />
+    <polygon points="-10,28 10,28 0,42" />
+  </g>
+
+  <g transform="translate(40,1050)">
+    <rect class="box" x="0" y="0" width="820" height="120" rx="22" ry="22" />
+    <text class="step-text" x="410" y="38" text-anchor="middle">
+      <tspan x="410" dy="0">Hệ thống hiển thị chi tiết bài hát:</tspan>
+      <tspan x="410" dy="28">lời bài hát, ý nghĩa</tspan>
+      <tspan x="410" dy="28">và video (nếu có)</tspan>
+    </text>
+  </g>
+
+  <g class="arrow" transform="translate(450,1185)">
+    <line x1="0" y1="0" x2="0" y2="28" />
+    <polygon points="-10,28 10,28 0,42" />
+  </g>
+
+  <g transform="translate(40,1240)">
+    <rect class="box" x="0" y="0" width="820" height="120" rx="22" ry="22" />
+    <text class="step-text" x="410" y="50" text-anchor="middle">
+      <tspan x="410" dy="0">Người dùng có thể xem thêm</tspan>
+      <tspan x="410" dy="30">các bài hát liên quan (tùy chọn)</tspan>
+    </text>
+  </g>
+</svg>

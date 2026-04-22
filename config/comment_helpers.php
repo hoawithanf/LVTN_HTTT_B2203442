@@ -89,7 +89,9 @@ function nln_comment_fetch_tree(mysqli $conn, int $songId, int $currentUserId = 
             'content' => (string) $row['content'],
             'content_html' => nln_comment_safe_html((string) $row['content']),
             'content_input_html' => htmlspecialchars((string) $row['content'], ENT_QUOTES, 'UTF-8'),
+            'created_at' => $createdAt,
             'created_at_html' => htmlspecialchars($createdAt, ENT_QUOTES, 'UTF-8'),
+            'updated_at' => $updatedAt,
             'updated_at_html' => htmlspecialchars($updatedAt, ENT_QUOTES, 'UTF-8'),
             'is_edited' => $isEdited,
             'like_count' => (int) ($row['like_count'] ?? 0),
@@ -101,27 +103,41 @@ function nln_comment_fetch_tree(mysqli $conn, int $songId, int $currentUserId = 
         ];
     }
 
-    $tree = [];
-    foreach ($byId as $commentId => $comment) {
-        $parentId = $comment['parent_comment_id'];
+    $rootCommentIds = [];
+    foreach (array_keys($byId) as $commentId) {
+        $parentId = $byId[$commentId]['parent_comment_id'];
         if ($parentId !== null && isset($byId[$parentId])) {
-            $byId[$parentId]['replies'][] = $comment;
+            $byId[$parentId]['replies'][] = $byId[$commentId];
             continue;
         }
 
-        $tree[] = $comment;
+        $rootCommentIds[] = $commentId;
     }
 
-    foreach ($tree as &$comment) {
+    $tree = [];
+    foreach ($rootCommentIds as $commentId) {
+        $tree[] = $byId[$commentId];
+    }
+
+    return nln_comment_sort_tree($tree);
+}
+
+function nln_comment_sort_tree(array $comments): array
+{
+    usort($comments, function ($a, $b) {
+        $aCreatedAt = (string) ($a['created_at'] ?? '');
+        $bCreatedAt = (string) ($b['created_at'] ?? '');
+        return strtotime($bCreatedAt) <=> strtotime($aCreatedAt);
+    });
+
+    foreach ($comments as &$comment) {
         if (!empty($comment['replies'])) {
-            usort($comment['replies'], function ($a, $b) {
-                return strtotime($a['created_at_html']) <=> strtotime($b['created_at_html']);
-            });
+            $comment['replies'] = nln_comment_sort_tree($comment['replies']);
         }
     }
     unset($comment);
 
-    return $tree;
+    return $comments;
 }
 
 function nln_comment_delete(mysqli $conn, int $commentId): void

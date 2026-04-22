@@ -210,6 +210,18 @@ $userPlaylists = $currentUserId > 0 ? nln_playlist_fetch_user_playlists($conn, $
                     </p>
                 </div>
 
+                <div class="lyrics-toolbar">
+                    <div class="lyrics-language-switch" role="tablist" aria-label="Lyrics language switch">
+                        <button id="lyrics-lang-en" type="button" class="lyrics-lang-btn is-active" data-lang="en">
+                            <i class="fas fa-flag-usa me-2"></i>US
+                        </button>
+                        <button id="lyrics-lang-vi" type="button" class="lyrics-lang-btn" data-lang="vi" disabled>
+                            <i class="fas fa-flag me-2"></i>VN
+                        </button>
+                    </div>
+                    <div id="lyrics-translate-status" class="lyrics-translate-status" aria-live="polite"></div>
+                </div>
+
                 <div id="lyrics-box" class="lyrics-box text-dark">
                     <?php if (!$needAjaxFetch): ?>
                         <div class="lyrics-source">
@@ -443,12 +455,174 @@ $userPlaylists = $currentUserId > 0 ? nln_playlist_fetch_user_playlists($conn, $
 const CURRENT_USER_ID = <?= $currentUserId ?>;
 const SIMPLE_ADMIN_CAN_DELETE = <?= $isSimpleAdmin ? 'true' : 'false' ?>;
 const SONG_ID = <?= (int) $song['song_id'] ?>;
+const INITIAL_LYRICS_TEXT = <?= json_encode((string) ($song['lyrics'] ?? ''), JSON_UNESCAPED_UNICODE | JSON_UNESCAPED_SLASHES) ?>;
+const INITIAL_LYRICS_SOURCE = <?= json_encode($needAjaxFetch ? '' : 'database', JSON_UNESCAPED_UNICODE | JSON_UNESCAPED_SLASHES) ?>;
+const INITIAL_LYRICS_VI_TEXT = <?= json_encode((string) ($song['lyrics_vi'] ?? ''), JSON_UNESCAPED_UNICODE | JSON_UNESCAPED_SLASHES) ?>;
+
+const lyricsState = {
+    currentLang: "en",
+    englishText: INITIAL_LYRICS_TEXT,
+    englishSource: INITIAL_LYRICS_SOURCE,
+    vietnameseText: INITIAL_LYRICS_VI_TEXT,
+    translationLoading: false,
+    translationReady: INITIAL_LYRICS_VI_TEXT.trim() !== "",
+};
+
+function escapeHtml(value) {
+    return String(value ?? "")
+        .replace(/&/g, "&amp;")
+        .replace(/</g, "&lt;")
+        .replace(/>/g, "&gt;")
+        .replace(/"/g, "&quot;")
+        .replace(/'/g, "&#039;");
+}
+
+function buildLyricsHtml(text) {
+    const normalized = String(text || "").replace(/\r\n/g, "\n").trim();
+    if (!normalized) {
+        return `<p class="lyrics-loading">Lyrics hiện chưa sẵn sàng trong dữ liệu demo.</p>`;
+    }
+
+    const blocks = normalized.split(/\n{2,}/).map((block) => block.trim()).filter(Boolean);
+    if (!blocks.length) {
+        return `<p class="lyrics-loading">Lyrics hiện chưa sẵn sàng trong dữ liệu demo.</p>`;
+    }
+
+    return `<div class="lyrics-text">` + blocks.map((block) => {
+        const lines = block.split("\n").map((line) => line.trim()).filter((line) => line !== "");
+        return `<div class="lyrics-block">` + lines.map((line) =>
+            `<span class="lyrics-line">${escapeHtml(line)}</span>`
+        ).join("") + `</div>`;
+    }).join("") + `</div>`;
+}
+
+function setLyricsLanguageButtons() {
+    const englishButton = document.getElementById("lyrics-lang-en");
+    const vietnameseButton = document.getElementById("lyrics-lang-vi");
+
+    if (!englishButton || !vietnameseButton) {
+        return;
+    }
+
+    englishButton.classList.toggle("is-active", lyricsState.currentLang === "en");
+    vietnameseButton.classList.toggle("is-active", lyricsState.currentLang === "vi");
+    vietnameseButton.disabled = !lyricsState.translationReady;
+}
+
+function renderLyricsBox() {
+    const lyricsBox = document.getElementById("lyrics-box");
+    const statusBox = document.getElementById("lyrics-translate-status");
+
+    if (!lyricsBox || !statusBox) {
+        return;
+    }
+
+    const activeText = lyricsState.currentLang === "vi"
+        ? lyricsState.vietnameseText
+        : lyricsState.englishText;
+
+    const sourceLabel = lyricsState.currentLang === "en" && lyricsState.englishSource
+        ? `<div class="lyrics-source"><span class="lyrics-source-pill">(Nguồn: ${escapeHtml(lyricsState.englishSource)})</span></div>`
+        : "";
+
+    if (lyricsState.translationLoading) {
+        statusBox.innerHTML = `<span class="lyrics-status-pill is-loading"><i class="fas fa-spinner fa-spin me-2"></i>Đang xử lý bản dịch tiếng Việt...</span>`;
+    } else if (lyricsState.translationReady) {
+        statusBox.innerHTML = `<span class="lyrics-status-pill is-ready"><i class="fas fa-language me-2"></i>Đã sẵn sàng lyrics tiếng Việt</span>`;
+    } else {
+        statusBox.innerHTML = `<span class="lyrics-status-pill"><i class="fas fa-language me-2"></i>Ưu tiên hiển thị lyrics gốc tiếng Anh</span>`;
+    }
+
+    lyricsBox.innerHTML = sourceLabel + buildLyricsHtml(activeText);
+    lyricsBox.classList.add("show");
+    setLyricsLanguageButtons();
+}
+
+function prefetchVietnameseLyrics() {
+    if (lyricsState.translationReady || lyricsState.translationLoading || !lyricsState.englishText.trim()) {
+        renderLyricsBox();
+        return;
+    }
+
+    lyricsState.translationLoading = true;
+    renderLyricsBox();
+
+    fetch(`includes/ajax_translate_lyrics.php?song_id=${SONG_ID}`)
+        .then((r) => r.json())
+        .then((data) => {
+            if (!data.success || !data.lyrics_vi) {
+                return;
+            }
+
+            lyricsState.vietnameseText = data.lyrics_vi;
+            lyricsState.translationReady = true;
+        })
+        .catch(() => {
+        })
+        .finally(() => {
+            lyricsState.translationLoading = false;
+            renderLyricsBox();
+        });
+}
+
+function loadLyricsModern() {
+    const lyricsBox = document.getElementById("lyrics-box");
+    if (!lyricsBox) {
+        setTimeout(loadMeaning, 200);
+        return;
+    }
+
+    <?php if (!$needAjaxFetch): ?>
+        renderLyricsBox();
+        prefetchVietnameseLyrics();
+        setTimeout(loadMeaning, 200);
+        return;
+    <?php endif; ?>
+
+    fetch("includes/ajax_fetch_lyrics.php?song_id=<?= (int) $song['song_id'] ?>")
+        .then((r) => r.json())
+        .then((data) => {
+            if (data.success) {
+                lyricsState.englishText = data.lyrics || "";
+                lyricsState.englishSource = data.source || "";
+                renderLyricsBox();
+                prefetchVietnameseLyrics();
+                return;
+            }
+
+            lyricsBox.innerHTML = `<p class="lyrics-loading">${data.error || 'Lyrics hiện chưa sẵn sàng trong dữ liệu demo.'}</p>`;
+            lyricsBox.classList.add("show");
+        })
+        .catch(() => {
+            lyricsBox.innerHTML = `<p class="lyrics-loading">Không thể tải lyrics lúc này.</p>`;
+            lyricsBox.classList.add("show");
+        })
+        .finally(() => {
+            setTimeout(loadMeaning, 200);
+        });
+}
+
+function initLyricsLanguageSwitch() {
+    document.getElementById("lyrics-lang-en")?.addEventListener("click", () => {
+        lyricsState.currentLang = "en";
+        renderLyricsBox();
+    });
+
+    document.getElementById("lyrics-lang-vi")?.addEventListener("click", () => {
+        if (!lyricsState.translationReady) {
+            return;
+        }
+        lyricsState.currentLang = "vi";
+        renderLyricsBox();
+    });
+}
 
 function loadLyrics() {
     const lyricsBox = document.getElementById('lyrics-box');
 
     <?php if (!$needAjaxFetch): ?>
-        lyricsBox.classList.add("show");
+        renderLyricsBox();
+        prefetchVietnameseLyrics();
         loadMeaning();
         return;
     <?php endif; ?>
@@ -516,7 +690,7 @@ function loadMeaning(force = false) {
         });
 }
 
-function loadComments() {
+function loadCommentsLegacyUnused() {
     fetch("includes/api_get_comments.php?song_id=<?= (int) $song['song_id'] ?>")
         .then(r => r.json())
         .then(data => {
@@ -548,7 +722,7 @@ function loadComments() {
         });
 }
 
-function deleteComment(id) {
+function deleteCommentLegacyUnused(id) {
     if (!confirm("Xóa bình luận?")) return;
 
     const fd = new FormData();
@@ -558,7 +732,7 @@ function deleteComment(id) {
         .then(() => loadComments());
 }
 
-document.getElementById("btn-comment")?.addEventListener("click", () => {
+document.getElementById("btn-comment-legacy-unused")?.addEventListener("click", () => {
     const input = document.getElementById("comment-input");
     const text = input.value.trim();
     if (!text) return;
@@ -630,7 +804,10 @@ document.getElementById("btn-add-to-playlist")?.addEventListener("click", () => 
         });
 });
 
-document.addEventListener("DOMContentLoaded", loadLyrics);
+document.addEventListener("DOMContentLoaded", () => {
+    initLyricsLanguageSwitch();
+    loadLyricsModern();
+});
 </script>
 
 <script>
@@ -640,7 +817,14 @@ function commentActionButton(label, extraClass, onClick) {
 
 function renderCommentCard(comment, isReply = false) {
     const editedBadge = comment.is_edited ? `<span class="comment-edited">(đã sửa)</span>` : '';
-    const repliesHtml = (comment.replies || []).map((reply) => renderCommentCard(reply, true)).join('');
+    const repliesHtml = (comment.replies || []).map((reply) => `
+        <li class="comment-thread-node">${renderCommentCard(reply, true)}</li>
+    `).join('');
+    const replyCount = (comment.replies || []).length;
+    const isRepliesExpanded = window.expandedReplyThreads.has(comment.comment_id) || window.activeReplyParentId === comment.comment_id;
+    const replyToggleLabel = isRepliesExpanded
+        ? `Ẩn phản hồi (${replyCount})`
+        : `Xem phản hồi (${replyCount})`;
 
     const replyForm = window.activeReplyParentId === comment.comment_id ? `
         <div class="comment-inline-form">
@@ -680,19 +864,21 @@ function renderCommentCard(comment, isReply = false) {
             <div class="comment-actions-row">
                 ${comment.can_reply ? commentActionButton('Phản hồi', '', `toggleReply(${comment.comment_id})`) : ''}
                 ${comment.can_edit ? commentActionButton('Sửa', '', `toggleEdit(${comment.comment_id})`) : ''}
+                ${replyCount > 0 ? commentActionButton(replyToggleLabel, 'is-secondary', `toggleReplies(${comment.comment_id})`) : ''}
                 ${CURRENT_USER_ID > 0 && CURRENT_USER_ID !== comment.user_id
                     ? `<button type="button" class="comment-action ${comment.liked_by_me ? 'is-liked' : ''}" onclick="toggleLike(${comment.comment_id})"><i class="fas fa-heart me-1"></i>${comment.liked_by_me ? 'Đã thích' : 'Thích'} <span>(${comment.like_count})</span></button>`
                     : `<span class="comment-like-counter"><i class="fas fa-heart me-1"></i>${comment.like_count}</span>`}
             </div>
 
             ${replyForm}
-            ${repliesHtml ? `<div class="comment-replies">${repliesHtml}</div>` : ''}
+            ${repliesHtml ? `<ul class="comment-replies comment-thread-list ${isRepliesExpanded ? 'is-expanded' : 'is-collapsed'}">${repliesHtml}</ul>` : ''}
         </article>
     `;
 }
 
 window.activeReplyParentId = null;
 window.activeEditCommentId = null;
+window.expandedReplyThreads = new Set();
 
 window.loadComments = function () {
     fetch(`includes/api_get_comments.php?song_id=${SONG_ID}`)
@@ -744,6 +930,9 @@ window.submitComment = function (text, parentCommentId = null) {
 window.toggleReply = function (commentId) {
     window.activeEditCommentId = null;
     window.activeReplyParentId = window.activeReplyParentId === commentId ? null : commentId;
+    if (window.activeReplyParentId === commentId) {
+        window.expandedReplyThreads.add(commentId);
+    }
     window.loadComments();
 };
 
@@ -756,6 +945,15 @@ window.submitReply = function (commentId) {
     const input = document.getElementById(`reply-input-${commentId}`);
     if (!input) return;
     window.submitComment(input.value, commentId);
+};
+
+window.toggleReplies = function (commentId) {
+    if (window.expandedReplyThreads.has(commentId)) {
+        window.expandedReplyThreads.delete(commentId);
+    } else {
+        window.expandedReplyThreads.add(commentId);
+    }
+    window.loadComments();
 };
 
 window.toggleEdit = function (commentId) {
@@ -805,20 +1003,15 @@ window.deleteComment = function (commentId) {
 
 document.getElementById("btn-comment")?.addEventListener("click", () => {
     const input = document.getElementById("comment-input");
-    window.submitComment(input.value);
+    const content = input?.value || "";
+
+    if (!content.trim()) {
+        return;
+    }
+
+    window.submitComment(content);
     input.value = "";
 });
-
-const originalCommentButton = document.getElementById("btn-comment");
-if (originalCommentButton) {
-    const freshCommentButton = originalCommentButton.cloneNode(true);
-    originalCommentButton.parentNode.replaceChild(freshCommentButton, originalCommentButton);
-    freshCommentButton.addEventListener("click", () => {
-        const input = document.getElementById("comment-input");
-        window.submitComment(input.value);
-        input.value = "";
-    });
-}
 </script>
 
 <style>
@@ -1047,6 +1240,74 @@ if (originalCommentButton) {
     transform: translateY(0);
 }
 
+.lyrics-toolbar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: .85rem;
+    margin-bottom: .9rem;
+    flex-wrap: wrap;
+}
+
+.lyrics-language-switch {
+    display: inline-flex;
+    align-items: center;
+    gap: .55rem;
+    padding: .35rem;
+    border-radius: 999px;
+    background: #f4f7fb;
+    border: 1px solid rgba(16, 24, 40, .06);
+}
+
+.lyrics-lang-btn {
+    border: 0;
+    border-radius: 999px;
+    padding: .55rem .95rem;
+    background: transparent;
+    color: #607086;
+    font-size: .86rem;
+    font-weight: 800;
+    font-family: "Open Sans", sans-serif;
+    transition: background-color .18s ease, color .18s ease, transform .18s ease, box-shadow .18s ease;
+}
+
+.lyrics-lang-btn.is-active {
+    background: #0d6efd;
+    color: #fff;
+    box-shadow: 0 12px 24px rgba(13, 110, 253, .18);
+}
+
+.lyrics-lang-btn:disabled {
+    opacity: .55;
+    cursor: not-allowed;
+}
+
+.lyrics-translate-status {
+    min-height: 38px;
+}
+
+.lyrics-status-pill {
+    display: inline-flex;
+    align-items: center;
+    border-radius: 999px;
+    padding: .55rem .9rem;
+    background: rgba(15, 23, 42, .05);
+    color: #607086;
+    font-size: .82rem;
+    font-weight: 700;
+    font-family: "Open Sans", sans-serif;
+}
+
+.lyrics-status-pill.is-loading {
+    background: rgba(255, 193, 7, .14);
+    color: #9a6a00;
+}
+
+.lyrics-status-pill.is-ready {
+    background: rgba(25, 135, 84, .12);
+    color: #198754;
+}
+
 .lyrics-source {
     margin-bottom: .9rem;
 }
@@ -1074,6 +1335,14 @@ if (originalCommentButton) {
     font-size: 1rem;
     line-height: 1.9;
     font-family: "Open Sans", sans-serif;
+}
+
+.lyrics-block + .lyrics-block {
+    margin-top: 1rem;
+}
+
+.lyrics-line {
+    display: block;
 }
 
 .lyrics-text p {
@@ -1324,12 +1593,32 @@ if (originalCommentButton) {
 .comment-reply {
     margin-top: .8rem;
     background: linear-gradient(180deg, rgba(13, 110, 253, .04), rgba(13, 110, 253, .01));
+    box-shadow: none;
 }
 
 .comment-replies {
     margin-top: .85rem;
     padding-left: 1rem;
     border-left: 2px solid rgba(13, 110, 253, .12);
+}
+
+.comment-thread-list {
+    list-style: none;
+    margin-bottom: 0;
+}
+
+.comment-replies.is-collapsed {
+    display: none;
+}
+
+.comment-replies.is-expanded {
+    max-height: 340px;
+    overflow-y: auto;
+    padding-right: .4rem;
+}
+
+.comment-thread-node + .comment-thread-node {
+    margin-top: .75rem;
 }
 
 .comment-actions-top,
@@ -1371,6 +1660,11 @@ if (originalCommentButton) {
 .comment-action.is-liked {
     background: rgba(220, 53, 69, .1);
     color: #c43b4d;
+}
+
+.comment-action.is-secondary {
+    background: rgba(13, 110, 253, .08);
+    color: #0d6efd;
 }
 
 .comment-like-counter,

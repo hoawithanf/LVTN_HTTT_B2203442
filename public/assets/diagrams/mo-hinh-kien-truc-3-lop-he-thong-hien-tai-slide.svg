@@ -1,0 +1,115 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1000" viewBox="0 0 1600 1000">
+  <defs>
+    <marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#2f3136" />
+    </marker>
+  </defs>
+  <style>
+    .title { font-family: Arial, Tahoma, "DejaVu Sans", sans-serif; font-size: 29px; font-weight: 700; fill: #1f2328; }
+    .text { font-family: Arial, Tahoma, "DejaVu Sans", sans-serif; fill: #1f2328; }
+    .layer { fill: #ffffff; stroke: #5b6570; stroke-width: 2.1; rx: 18; ry: 18; }
+    .card { fill: #ffffff; stroke: #a0a8b3; stroke-width: 1.6; rx: 12; ry: 12; }
+    .blue { fill: #eef5fd; stroke: #9bb9dd; }
+    .beige { fill: #fffaf0; stroke: #d7c59d; }
+    .layer-title { font-size: 20px; font-weight: 700; }
+    .box-title { font-size: 18px; font-weight: 700; }
+    .box-text { font-size: 15px; fill: #43484e; }
+    .actor { font-size: 22px; font-weight: 700; }
+    .flow { fill: none; stroke: #2f3136; stroke-width: 2.5; marker-end: url(#arrow); }
+  </style>
+
+  <rect x="0" y="0" width="1600" height="1000" fill="#ffffff" />
+  <text class="title" x="800" y="48" text-anchor="middle">Phiên bản tối giản cho slide - Kiến trúc 3 lớp của Musicalisation</text>
+
+  <g transform="translate(55,145)">
+    <circle cx="120" cy="110" r="95" fill="#e8f1fa" />
+    <path d="M88 95 C88 62, 111 43, 143 43 C169 43, 188 61, 188 87 C188 99, 183 109, 176 116 C176 99, 167 82, 151 73 C136 65, 116 70, 104 83 C98 88, 93 91, 88 95 Z" fill="#302624" />
+    <path d="M95 67 C108 49, 132 42, 154 48 C167 52, 178 63, 182 79 C176 64, 167 55, 153 50 C133 44, 109 49, 95 67 Z" fill="#5b463f" />
+    <ellipse cx="122" cy="128" rx="35" ry="50" fill="#d9a16d" />
+    <path d="M92 224 C99 202, 110 191, 122 191 C134 191, 145 202, 152 224 L152 240 L92 240 Z" fill="#69b4ea" />
+    <path d="M46 308 C46 248, 72 216, 122 216 C172 216, 198 248, 198 308 L46 308 Z" fill="#3c97d8" />
+    <text class="text actor" x="120" y="385" text-anchor="middle">Người dùng /</text>
+    <text class="text actor" x="120" y="417" text-anchor="middle">Quản trị viên</text>
+  </g>
+
+  <g>
+    <rect class="layer" x="560" y="100" width="970" height="250" />
+    <text class="text layer-title" x="620" y="135">Lớp giao diện</text>
+
+    <ellipse cx="735" cy="232" rx="95" ry="24" fill="#ffffff" stroke="#5b6570" stroke-width="2" />
+    <rect x="640" y="232" width="190" height="120" fill="#ffffff" stroke="#5b6570" stroke-width="2" />
+    <ellipse cx="735" cy="352" rx="95" ry="24" fill="#ffffff" stroke="#5b6570" stroke-width="2" />
+    <text class="text box-title" x="735" y="262" text-anchor="middle">Trình duyệt web</text>
+    <text class="text box-text" x="735" y="291" text-anchor="middle">HTML / AJAX / Query</text>
+
+    <rect class="card" x="940" y="132" width="500" height="54" />
+    <text class="text box-title" x="1190" y="166" text-anchor="middle">Home / Search / Login</text>
+    <rect class="card" x="940" y="204" width="500" height="54" />
+    <text class="text box-title" x="1190" y="238" text-anchor="middle">Bài hát / Nghệ sĩ / Album / Tin tức</text>
+    <rect class="card" x="940" y="276" width="500" height="54" />
+    <text class="text box-title" x="1190" y="310" text-anchor="middle">Profile / Recap / Persona / Admin</text>
+
+    <path class="flow" d="M830 255 H 910 V 159 H 940" />
+    <path class="flow" d="M830 275 H 910 V 231 H 940" />
+    <path class="flow" d="M830 295 H 910 V 303 H 940" />
+  </g>
+
+  <g>
+    <rect class="layer" x="90" y="595" width="620" height="270" />
+    <text class="text layer-title" x="150" y="630">Lớp dữ liệu</text>
+    <rect class="card beige" x="130" y="665" width="200" height="68" />
+    <text class="text box-title" x="230" y="706" text-anchor="middle">Người dùng &amp; quyền</text>
+    <rect class="card beige" x="130" y="755" width="200" height="68" />
+    <text class="text box-title" x="230" y="796" text-anchor="middle">Nội dung âm nhạc</text>
+    <rect class="card beige" x="480" y="665" width="190" height="68" />
+    <text class="text box-title" x="575" y="706" text-anchor="middle">Tương tác</text>
+    <rect class="card beige" x="480" y="755" width="190" height="68" />
+    <text class="text box-title" x="575" y="796" text-anchor="middle">Phân tích &amp; media</text>
+
+    <ellipse cx="400" cy="706" rx="95" ry="24" fill="#ffffff" stroke="#5b6570" stroke-width="2" />
+    <rect x="305" y="706" width="190" height="92" fill="#ffffff" stroke="#5b6570" stroke-width="2" />
+    <ellipse cx="400" cy="798" rx="95" ry="24" fill="#ffffff" stroke="#5b6570" stroke-width="2" />
+    <text class="text box-title" x="400" y="700" text-anchor="middle">MySQL / MariaDB</text>
+    <text class="text box-title" x="400" y="738" text-anchor="middle">nln_lyrics</text>
+  </g>
+
+  <g>
+    <rect class="layer" x="800" y="595" width="730" height="270" />
+    <text class="text layer-title" x="860" y="630">Lớp nghiệp vụ</text>
+    <rect class="card blue" x="840" y="668" width="220" height="74" />
+    <text class="text box-title" x="950" y="700" text-anchor="middle">PHP public/admin</text>
+    <text class="text box-text" x="950" y="725" text-anchor="middle">Entry pages</text>
+    <rect class="card blue" x="840" y="766" width="220" height="74" />
+    <text class="text box-title" x="950" y="798" text-anchor="middle">API nội bộ / AJAX</text>
+    <text class="text box-text" x="950" y="823" text-anchor="middle">JSON endpoint</text>
+
+    <rect class="card" x="1110" y="650" width="360" height="58" />
+    <text class="text box-title" x="1290" y="686" text-anchor="middle">Auth / Render / Phân quyền</text>
+    <rect class="card" x="1110" y="724" width="360" height="58" />
+    <text class="text box-title" x="1290" y="760" text-anchor="middle">Tra cứu / Bình luận / Theo dõi / Playlist</text>
+    <rect class="card" x="1110" y="798" width="360" height="58" />
+    <text class="text box-title" x="1290" y="834" text-anchor="middle">Recap / Persona / Gợi ý / AI / Export</text>
+
+    <path class="flow" d="M1060 705 H 1090 V 679 H 1110" />
+    <path class="flow" d="M1060 803 H 1090 V 753 H 1110" />
+    <path class="flow" d="M1060 803 H 1090 V 827 H 1110" />
+  </g>
+
+  <path class="flow" d="M270 300 H 640" />
+  <text class="text box-title" x="455" y="280" text-anchor="middle">Thao tác giao diện</text>
+
+  <path class="flow" d="M640 355 H 270" />
+  <text class="text box-title" x="455" y="390" text-anchor="middle">Kết quả / Gợi ý / Dashboard</text>
+
+  <path class="flow" d="M1080 350 V 555" />
+  <text class="text box-title" x="1015" y="455" text-anchor="middle">Request</text>
+
+  <path class="flow" d="M1185 555 V 350" />
+  <text class="text box-title" x="1260" y="455" text-anchor="middle">Response</text>
+
+  <path class="flow" d="M800 715 H 710" />
+  <text class="text box-title" x="755" y="692" text-anchor="middle">Query</text>
+
+  <path class="flow" d="M710 790 H 800" />
+  <text class="text box-title" x="755" y="822" text-anchor="middle">Rows</text>
+</svg>

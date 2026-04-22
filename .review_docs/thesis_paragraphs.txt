@@ -1,0 +1,1361 @@
+﻿ĐẠI HỌC CẦN THƠ
+TRƯỜNG CÔNG NGHỆ THÔNG TIN & TRUYỀN THÔNG
+<w:tab w:val="center" w:pos="4536"/><w:tab w:val="left" w:pos="5124"/></w:tabs><w:rPr><w:color w:val="000000" w:themeColor="text1"/><w:sz w:val="28"/><w:szCs w:val="28"/></w:rPr></w:pPr><w:r><w:rPr><w:color w:val="000000" w:themeColor="text1"/><w:sz w:val="28"/><w:szCs w:val="28"/></w:rPr><w:tab/></w:r><w:r w:rsidRPr="00D964A3"><w:rPr><w:color w:val="000000" w:themeColor="text1"/><w:sz w:val="28"/><w:szCs w:val="28"/></w:rPr><w:t xml:space="preserve">
+LUẬN VĂN TỐT NGHIỆP ĐẠI HỌC
+NGÀNH HỆ THỐNG THÔNG TIN
+Đề tài
+XÂY DỰNG WEBSITE TRA CỨU LỜI VÀ Ý NGHĨA BÀI HÁT VÀ GỢI Ý THÔNG MINH
+(BUILDING A WEBSITE FOR SEARCHING SONG LYRICS AND MEANINGS WITH SMART RECOMMENDATIONS)
+Sinh viên: Trịnh Ngọc Hòa
+Mã số: B2203442
+Khóa: K48
+Cần Thơ, 4/2026
+ĐẠI HỌC CẦN THƠ
+TRƯỜNG CÔNG NGHỆ THÔNG TIN & TRUYỀN THÔNG
+<w:tab w:val="center" w:pos="4536"/><w:tab w:val="left" w:pos="5124"/></w:tabs><w:rPr><w:color w:val="000000" w:themeColor="text1"/><w:sz w:val="28"/><w:szCs w:val="28"/></w:rPr></w:pPr><w:r><w:rPr><w:color w:val="000000" w:themeColor="text1"/><w:sz w:val="28"/><w:szCs w:val="28"/></w:rPr><w:tab/></w:r><w:r w:rsidRPr="00D964A3"><w:rPr><w:color w:val="000000" w:themeColor="text1"/><w:sz w:val="28"/><w:szCs w:val="28"/></w:rPr><w:t xml:space="preserve">
+LUẬN VĂN TỐT NGHIỆP ĐẠI HỌC
+NGÀNH HỆ THỐNG THÔNG TIN
+Đề tài
+XÂY DỰNG WEBSITE TRA CỨU LỜI VÀ Ý NGHĨA BÀI HÁT VÀ GỢI Ý THÔNG MINH
+(BUILDING A WEBSITE FOR SEARCHING SONG LYRICS AND MEANINGS WITH SMART RECOMMENDATIONS)
+Sinh viên: Trịnh Ngọc Hòa
+Mã số: B2203442
+Khóa: K48
+Cần Thơ, 4/2026
+ĐẠI HỌC CẦN THƠ
+TRƯỜNG CÔNG NGHỆ THÔNG TIN & TRUYỀN THÔNG
+<w:tab w:val="center" w:pos="4536"/><w:tab w:val="left" w:pos="5124"/></w:tabs><w:rPr><w:color w:val="000000" w:themeColor="text1"/><w:sz w:val="28"/><w:szCs w:val="28"/></w:rPr></w:pPr><w:r><w:rPr><w:color w:val="000000" w:themeColor="text1"/><w:sz w:val="28"/><w:szCs w:val="28"/></w:rPr><w:tab/></w:r><w:r w:rsidRPr="00D964A3"><w:rPr><w:color w:val="000000" w:themeColor="text1"/><w:sz w:val="28"/><w:szCs w:val="28"/></w:rPr><w:t xml:space="preserve">
+LUẬN VĂN TỐT NGHIỆP ĐẠI HỌC
+NGÀNH HỆ THỐNG THÔNG TIN
+Đề tài
+XÂY DỰNG HỆ THỐNG WEBSITE TRA CỨU LỜI VÀ Ý NGHĨA BÀI HÁT
+(BUILDING A WEBSITE FOR SEARCHING SONG LYRICS AND MEANINGS WITH SMART RECOMMENDATIONS)
+Giảng viên hướng dẫn:
+ThS. Phạm Ngọc Quyền
+Sinh viên: Trịnh Ngọc Hòa
+Mã số: B2203442
+Khóa: K48
+Cần Thơ, 4/2026
+ĐẠI HỌC CẦN THƠ
+TRƯỜNG CÔNG NGHỆ THÔNG TIN & TRUYỀN THÔNG
+<w:tab w:val="center" w:pos="4536"/><w:tab w:val="left" w:pos="5124"/></w:tabs><w:rPr><w:color w:val="000000" w:themeColor="text1"/><w:sz w:val="28"/><w:szCs w:val="28"/></w:rPr></w:pPr><w:r><w:rPr><w:color w:val="000000" w:themeColor="text1"/><w:sz w:val="28"/><w:szCs w:val="28"/></w:rPr><w:tab/></w:r><w:r w:rsidRPr="00D964A3"><w:rPr><w:color w:val="000000" w:themeColor="text1"/><w:sz w:val="28"/><w:szCs w:val="28"/></w:rPr><w:t xml:space="preserve">
+LUẬN VĂN TỐT NGHIỆP ĐẠI HỌC
+NGÀNH HỆ THỐNG THÔNG TIN
+Đề tài
+XÂY DỰNG HỆ THỐNG WEBSITE TRA CỨU LỜI VÀ Ý NGHĨA BÀI HÁT
+(BUILDING A WEBSITE FOR SEARCHING SONG LYRICS AND MEANINGS WITH SMART RECOMMENDATIONS)
+Giảng viên hướng dẫn:
+ThS. Phạm Ngọc Quyền
+Sinh viên: Trịnh Ngọc Hòa
+Mã số: B2203442
+Khóa: K48
+Cần Thơ, 4/2026
+LỜI CẢM ƠN
+Đầu tiên, tôi xin chân thành cảm ơn sâu sắc đến ThS. Phạm Ngọc Quyền, giảng viên khoa Hệ Thống Thông Tin – Trường Công Nghệ Thông Tin & Truyền Thông – Đại học Cần Thơ, người đã tận tình hướng dẫn, chỉ bảo và tạo điều kiện tốt cho tôi trong quá trình thực hiện học phần Luận văn ngành Hệ thống thông tin.
+Tôi xin chân thành cảm ơn Ban Giám Hiệu Đại Học Cần Thơ, các quý thầy cô đặc biệt là toàn thể quý thầy cô trường Công Nghệ Thông Tin & Truyền Thông đã tận tình giảng dạy kiến thức và hỗ trợ tôi trong suốt thời gian qua.
+Đặc biệt, em xin gửi lời cảm ơn chân thành đến Quý Hội đồng phản biện, bao gồm PGS.TS. Nguyễn Thái Nghe, ThS. Bùi Đăng Hà Phương và ThS. Phạm Ngọc Quyền. Các Thầy/Cô đã dành thời gian quý báu để thẩm định, đánh giá và đưa ra những ý kiến phản biện xác đáng. Những đóng góp này đã giúp em nhận ra những điểm cần khắc phục để hoàn thiện ứng dụng một cách tốt nhất
+Mặc dù đã nỗ lực hết sức để hoàn thành luận văn trong phạm vi khả năng cho phép, song do kiến thức và kinh nghiệm thực tế còn hạn chế nên bài làm khó tránh khỏi những thiếu sót. Em kính mong nhận được những ý kiến đóng góp và chỉ bảo quý báu của Quý Thầy/Cô để có thể hoàn thiện hơn vốn kiến thức cũng như tích lũy thêm kinh nghiệm cho công việc sau này
+Em xin chân thành cảm ơn!
+Cần Thơ, ngày 23 tháng 4 năm 2026
+Trịnh Ngọc Hòa
+NHẬN XÉT CỦA GIÁO VIÊN HƯỚNG DẪN
+<w:tab w:val="left" w:leader="dot" w:pos="9072"/><w:tab w:val="left" w:leader="dot" w:pos="9356"/></w:tabs><w:ind w:firstLine="0"/><w:jc w:val="right"/><w:rPr><w:i/><w:iCs/><w:szCs w:val="26"/></w:rPr></w:pPr><w:r w:rsidRPr="00DB36C4"><w:rPr><w:i/><w:iCs/><w:szCs w:val="26"/></w:rPr><w:t>Cần Thơ, ngày …tháng …năm 2026
+Giảng viên hướng dẫn
+Ths. Phạm Ngọc Quyền
+TÓM TẮT
+Trong bối cảnh chuyển đổi số và sự phát triển mạnh mẽ của các nền tảng âm nhạc trực tuyến, nhu cầu tra cứu thông tin bài hát, lời bài hát, nghệ sĩ và các nội dung liên quan ngày càng gia tăng. Tuy nhiên, phần lớn các hệ thống hiện nay chủ yếu chỉ dừng lại ở mức cung cấp thông tin cơ bản, chưa hỗ trợ tốt cho việc phân tích nội dung bài hát, cá nhân hóa trải nghiệm người dùng và tăng cường tương tác giữa người dùng với hệ thống. Bên cạnh đó, việc quản lý dữ liệu bài hát, nghệ sĩ, album và tin tức trên nhiều nền tảng rời rạc cũng gây khó khăn trong quá trình khai thác và sử dụng.
+Để giải quyết các vấn đề trên, đề tài “Xây dựng website tra cứu lời và ý nghĩa bài hát và gợi ý thông minh” đã được nghiên cứu và thực hiện. Hệ thống được xây dựng trên nền tảng web theo mô hình kiến trúc ba lớp (Three-tier Architecture), bao gồm lớp giao diện, lớp xử lý nghiệp vụ và lớp dữ liệu. Về mặt công nghệ, hệ thống sử dụng ngôn ngữ PHP kết hợp với MySQL để quản lý và lưu trữ dữ liệu; đồng thời tích hợp các API bên ngoài như Lyrics API, YouTube Data API và Google Gemini nhằm hỗ trợ lấy lời bài hát, hiển thị video minh họa và phân tích ý nghĩa bài hát bằng trí tuệ nhân tạo.
+Kết quả đạt được của đề tài là xây dựng thành công một hệ thống hoàn chỉnh với các chức năng chính như: tìm kiếm bài hát và nghệ sĩ, xem chi tiết bài hát, hiển thị lời bài hát, ý nghĩa bài hát và video liên quan, bình luận bài hát, theo dõi nghệ sĩ, yêu thích album, nhận thông báo tin tức từ nghệ sĩ, gợi ý bài hát cá nhân hóa, xem recap cá nhân và phân tích gu âm nhạc người dùng. Ngoài ra, hệ thống còn hỗ trợ phân hệ quản trị với các chức năng quản lý người dùng, nghệ sĩ, bài hát, tin tức, lịch sử tìm kiếm và xuất báo cáo dưới dạng CSV/PDF.
+Hệ thống Musicalisation hứa hẹn mang lại một giải pháp tra cứu và trải nghiệm âm nhạc thông minh, hiện đại, góp phần nâng cao khả năng tiếp cận thông tin âm nhạc, tăng tính tương tác và cá nhân hóa cho người dùng trên nền tảng web.
+Từ khóa: tra cứu bài hát, lời bài hát, phân tích ý nghĩa bài hát, cá nhân hóa âm nhạc, trí tuệ nhân tạo, ứng dụng web.
+ABSTRACT
+In the context of digital transformation and the rapid growth of online music platforms, the demand for searching song information, lyrics, artists, and related content is increasing significantly. However, most existing systems mainly provide only basic information and have not effectively supported lyric analysis, personalized user experiences, or enhanced interaction between users and the system. In addition, managing song, artist, album, and news data across separate platforms also creates difficulties in data access and utilization.
+To address these issues, the study titled “Buidling a website for searching song lyrics and meanings with smart recommendations” was conducted. The system is developed as a web application based on the three-tier architecture model, including the presentation layer, business logic layer, and data layer. In terms of technology, the system uses PHP combined with MySQL for data processing and storage, while integrating external services such as Lyrics API, YouTube Data API, and Google Gemini to support lyrics retrieval, music video display, and AI-based lyric meaning analysis.
+The result of this study is a fully functional system with key features such as song and artist search, song detail viewing, lyrics display, meaning analysis, related video display, song commenting, artist following, album favoriting, artist news notifications, personalized song recommendations, personal recap, and user music persona analysis. In addition, the system also provides an administration module for managing users, artists, songs, news, search history, and exporting reports in CSV/PDF format.
+The Musicalisation system is expected to provide an intelligent and modern solution for music information retrieval and user experience enhancement, contributing to improved access to music-related content, higher interaction, and stronger personalization on a web-based platform.
+Keywords: song search, lyrics, lyric meaning analysis, music personalization, artificial intelligence, web application.
+MỤC LỤC
+CHƯƠNG 1. GIỚI THIỆU</w:r><w:r w:rsidR="00275AFC"><w:rPr><w:webHidden/></w:rPr><w:fldChar w:fldCharType="begin"/></w:r><w:r w:rsidR="00275AFC"><w:rPr><w:webHidden/></w:rPr><w:instrText xml:space="preserve"> PAGEREF _Toc227677248 \h </w:instrText></w:r><w:r w:rsidR="00275AFC"><w:rPr><w:webHidden/></w:rPr></w:r><w:r w:rsidR="00275AFC"><w:rPr><w:webHidden/></w:rPr><w:fldChar w:fldCharType="separate"/></w:r><w:r w:rsidR="00275AFC"><w:rPr><w:webHidden/></w:rPr><w:t>1
+<w:tab w:val="left" w:pos="960"/></w:tabs><w:rPr><w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi"/><w:kern w:val="2"/><w:sz w:val="24"/><w:szCs w:val="24"/><w14:ligatures w14:val="standardContextual"/></w:rPr></w:pPr><w:hyperlink w:anchor="_Toc227677250" w:history="1"><w:r w:rsidRPr="00DC2533"><w:rPr><w:rStyle w:val="Hyperlink"/></w:rPr><w:t>1.1.</w:r><w:r w:rsidRPr="00DC2533"><w:rPr><w:rStyle w:val="Hyperlink"/></w:rPr><w:t>Đặt vấn đề</w:r><w:r><w:rPr><w:webHidden/></w:rPr><w:fldChar w:fldCharType="begin"/></w:r><w:r><w:rPr><w:webHidden/></w:rPr><w:instrText xml:space="preserve"> PAGEREF _Toc227677250 \h </w:instrText></w:r><w:r><w:rPr><w:webHidden/></w:rPr></w:r><w:r><w:rPr><w:webHidden/></w:rPr><w:fldChar w:fldCharType="separate"/></w:r><w:r><w:rPr><w:webHidden/></w:rPr><w:t>1
+<w:tab w:val="left" w:pos="960"/></w:tabs><w:rPr><w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi"/><w:kern w:val="2"/><w:sz w:val="24"/><w:szCs w:val="24"/><w14:ligatures w14:val="standardContextual"/></w:rPr></w:pPr><w:hyperlink w:anchor="_Toc227677251" w:history="1"><w:r w:rsidRPr="00DC2533"><w:rPr><w:rStyle w:val="Hyperlink"/></w:rPr><w:t>1.2.</w:r><w:r w:rsidRPr="00DC2533"><w:rPr><w:rStyle w:val="Hyperlink"/></w:rPr><w:t>Các nghiên cứu liên quan</w:r><w:r><w:rPr><w:webHidden/></w:rPr><w:fldChar w:fldCharType="begin"/></w:r><w:r><w:rPr><w:webHidden/></w:rPr><w:instrText xml:space="preserve"> PAGEREF _Toc227677251 \h </w:instrText></w:r><w:r><w:rPr><w:webHidden/></w:rPr></w:r><w:r><w:rPr><w:webHidden/></w:rPr><w:fldChar w:fldCharType="separate"/></w:r><w:r><w:rPr><w:webHidden/></w:rPr><w:t>2
+<w:tab w:val="left" w:pos="960"/></w:tabs><w:rPr><w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi"/><w:kern w:val="2"/><w:sz w:val="24"/><w:szCs w:val="24"/><w14:ligatures w14:val="standardContextual"/></w:rPr></w:pPr><w:hyperlink w:anchor="_Toc227677252" w:history="1"><w:r w:rsidRPr="00DC2533"><w:rPr><w:rStyle w:val="Hyperlink"/></w:rPr><w:t>1.3.</w:r><w:r w:rsidRPr="00DC2533"><w:rPr><w:rStyle w:val="Hyperlink"/></w:rPr><w:t>Mục tiêu đề tài</w:r><w:r><w:rPr><w:webHidden/></w:rPr><w:fldChar w:fldCharType="begin"/></w:r><w:r><w:rPr><w:webHidden/></w:rPr><w:instrText xml:space="preserve"> PAGEREF _Toc227677252 \h </w:instrText></w:r><w:r><w:rPr><w:webHidden/></w:rPr></w:r><w:r><w:rPr><w:webHidden/></w:rPr><w:fldChar w:fldCharType="separate"/></w:r><w:r><w:rPr><w:webHidden/></w:rPr><w:t>3
+<w:tab w:val="left" w:pos="960"/></w:tabs><w:rPr><w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi"/><w:kern w:val="2"/><w:sz w:val="24"/><w:szCs w:val="24"/><w14:ligatures w14:val="standardContextual"/></w:rPr></w:pPr><w:hyperlink w:anchor="_Toc227677253" w:history="1"><w:r w:rsidRPr="00DC2533"><w:rPr><w:rStyle w:val="Hyperlink"/></w:rPr><w:t>1.4.</w:r><w:r w:rsidRPr="00DC2533"><w:rPr><w:rStyle w:val="Hyperlink"/></w:rPr><w:t>Đối tượng và phạm vi đề tài</w:r><w:r><w:rPr><w:webHidden/></w:rPr><w:fldChar w:fldCharType="begin"/></w:r><w:r><w:rPr><w:webHidden/></w:rPr><w:instrText xml:space="preserve"> PAGEREF _Toc227677253 \h </w:instrText></w:r><w:r><w:rPr><w:webHidden/></w:rPr></w:r><w:r><w:rPr><w:webHidden/></w:rPr><w:fldChar w:fldCharType="separate"/></w:r><w:r><w:rPr><w:webHidden/></w:rPr><w:t>3
+<w:tab w:val="left" w:pos="1440"/></w:tabs><w:rPr><w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi"/><w:i w:val="0"/><w:iCs w:val="0"/><w:kern w:val="2"/><w:sz w:val="24"/><w:szCs w:val="24"/><w14:ligatures w14:val="standardContextual"/></w:rPr></w:pPr><w:hyperlink w:anchor="_Toc227677254" w:history="1"><w:r w:rsidRPr="00DC2533"><w:rPr><w:rStyle w:val="Hyperlink"/><w:lang w:eastAsia="ar-SA"/></w:rPr><w:t>1.4.1.</w:r><w:r w:rsidRPr="00DC2533"><w:rPr><w:rStyle w:val="Hyperlink"/><w:lang w:eastAsia="ar-SA"/></w:rPr><w:t>Đối tượng nghiên cứu</w:r><w:r><w:rPr><w:webHidden/></w:rPr><w:fldChar w:fldCharType="begin"/></w:r><w:r><w:rPr><w:webHidden/></w:rPr><w:instrText xml:space="preserve"> PAGEREF _Toc227677254 \h </w:instrText></w:r><w:r><w:rPr><w:webHidden/></w:rPr></w:r><w:r><w:rPr><w:webHidden/></w:rPr><w:fldChar w:fldCharType="separate"/></w:r><w:r><w:rPr><w:webHidden/></w:rPr><w:t>3
+<w:tab w:val="left" w:pos="1440"/></w:tabs><w:rPr><w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi"/><w:i w:val="0"/><w:iCs w:val="0"/><w:kern w:val="2"/><w:sz w:val="24"/><w:szCs w:val="24"/><w14:ligatures w14:val="standardContextual"/></w:rPr></w:pPr><w:hyperlink w:anchor="_Toc227677255" w:history="1"><w:r w:rsidRPr="00DC2533"><w:rPr><w:rStyle w:val="Hyperlink"/><w:lang w:eastAsia="ar-SA"/></w:rPr><w:t>1.4.2.</w:r><w:r w:rsidRPr="00DC2533"><w:rPr><w:rStyle w:val="Hyperlink"/><w:lang w:eastAsia="ar-SA"/></w:rPr><w:t>Phạm vi đề tài</w:r><w:r><w:rPr><w:webHidden/></w:rPr><w:fldChar w:fldCharType="begin"/></w:r><w:r><w:rPr><w:webHidden/></w:rPr><w:instrText xml:space="preserve"> PAGEREF _Toc227677255 \h </w:instrText></w:r><w:r><w:rPr><w:webHidden/></w:rPr></w:r><w:r><w:rPr><w:webHidden/></w:rPr><w:fldChar w:fldCharType="separate"/></w:r><w:r><w:rPr><w:webHidden/></w:rPr><w:t>4
+<w:tab w:val="left" w:pos="960"/></w:tabs><w:rPr><w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi"/><w:kern w:val="2"/><w:sz w:val="24"/><w:szCs w:val="24"/><w14:ligatures w14:val="standardContextual"/></w:rPr></w:pPr><w:hyperlink w:anchor="_Toc227677256" w:history="1"><w:r w:rsidRPr="00DC2533"><w:rPr><w:rStyle w:val="Hyperlink"/></w:rPr><w:t>1.5.</w:r><w:r w:rsidRPr="00DC2533"><w:rPr><w:rStyle w:val="Hyperlink"/></w:rPr><w:t>Nội dung đề tài</w:r><w:r><w:rPr><w:webHidden/></w:rPr><w:fldChar w:fldCharType="begin"/></w:r><w:r><w:rPr><w:webHidden/></w:rPr><w:instrText xml:space="preserve"> PAGEREF _Toc227677256 \h </w:instrText></w:r><w:r><w:rPr><w:webHidden/></w:rPr></w:r><w:r><w:rPr><w:webHidden/></w:rPr><w:fldChar w:fldCharType="separate"/></w:r><w:r><w:rPr><w:webHidden/></w:rPr><w:t>5
+<w:tab w:val="left" w:pos="960"/></w:tabs><w:rPr><w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi"/><w:kern w:val="2"/><w:sz w:val="24"/><w:szCs w:val="24"/><w14:ligatures w14:val="standardContextual"/></w:rPr></w:pPr><w:hyperlink w:anchor="_Toc227677257" w:history="1"><w:r w:rsidRPr="00DC2533"><w:rPr><w:rStyle w:val="Hyperlink"/></w:rPr><w:t>1.6.</w:r><w:r w:rsidRPr="00DC2533"><w:rPr><w:rStyle w:val="Hyperlink"/></w:rPr><w:t>Những đóng góp chính của đề tài</w:r><w:r><w:rPr><w:webHidden/></w:rPr><w:fldChar w:fldCharType="begin"/></w:r><w:r><w:rPr><w:webHidden/></w:rPr><w:instrText xml:space="preserve"> PAGEREF _Toc227677257 \h </w:instrText></w:r><w:r><w:rPr><w:webHidden/></w:rPr></w:r><w:r><w:rPr><w:webHidden/></w:rPr><w:fldChar w:fldCharType="separate"/></w:r><w:r><w:rPr><w:webHidden/></w:rPr><w:t>5
+<w:tab w:val="left" w:pos="960"/></w:tabs><w:rPr><w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi"/><w:kern w:val="2"/><w:sz w:val="24"/><w:szCs w:val="24"/><w14:ligatures w14:val="standardContextual"/></w:rPr></w:pPr><w:hyperlink w:anchor="_Toc227677258" w:history="1"><w:r w:rsidRPr="00DC2533"><w:rPr><w:rStyle w:val="Hyperlink"/></w:rPr><w:t>1.7.</w:r><w:r w:rsidRPr="00DC2533"><w:rPr><w:rStyle w:val="Hyperlink"/></w:rPr><w:t>Bố cục của luận văn</w:r><w:r><w:rPr><w:webHidden/></w:rPr><w:fldChar w:fldCharType="begin"/></w:r><w:r><w:rPr><w:webHidden/></w:rPr><w:instrText xml:space="preserve"> PAGEREF _Toc227677258 \h </w:instrText></w:r><w:r><w:rPr><w:webHidden/></w:rPr></w:r><w:r><w:rPr><w:webHidden/></w:rPr><w:fldChar w:fldCharType="separate"/></w:r><w:r><w:rPr><w:webHidden/></w:rPr><w:t>7
+<w:tab w:val="left" w:pos="960"/></w:tabs><w:rPr><w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi"/><w:kern w:val="2"/><w:sz w:val="24"/><w:szCs w:val="24"/><w14:ligatures w14:val="standardContextual"/></w:rPr></w:pPr><w:hyperlink w:anchor="_Toc227677259" w:history="1"><w:r w:rsidRPr="00DC2533"><w:rPr><w:rStyle w:val="Hyperlink"/></w:rPr><w:t>1.8.</w:r><w:r w:rsidRPr="00DC2533"><w:rPr><w:rStyle w:val="Hyperlink"/></w:rPr><w:t>Tổng kết chương</w:r><w:r><w:rPr><w:webHidden/></w:rPr><w:fldChar w:fldCharType="begin"/></w:r><w:r><w:rPr><w:webHidden/></w:rPr><w:instrText xml:space="preserve"> PAGEREF _Toc227677259 \h </w:instrText></w:r><w:r><w:rPr><w:webHidden/></w:rPr></w:r><w:r><w:rPr><w:webHidden/></w:rPr><w:fldChar w:fldCharType="separate"/></w:r><w:r><w:rPr><w:webHidden/></w:rPr><w:t>7
+CHƯƠNG 2. MÔ TẢ BÀI TOÁN</w:r><w:r><w:rPr><w:webHidden/></w:rPr><w:fldChar w:fldCharType="begin"/></w:r><w:r><w:rPr><w:webHidden/></w:rPr><w:instrText xml:space="preserve"> PAGEREF _Toc227677260 \h </w:instrText></w:r><w:r><w:rPr><w:webHidden/></w:rPr></w:r><w:r><w:rPr><w:webHidden/></w:rPr><w:fldChar w:fldCharType="separate"/></w:r><w:r><w:rPr><w:webHidden/></w:rPr><w:t>8
+<w:tab w:val="left" w:pos="960"/></w:tabs><w:rPr><w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi"/><w:kern w:val="2"/><w:sz w:val="24"/><w:szCs w:val="24"/><w14:ligatures w14:val="standardContextual"/></w:rPr></w:pPr><w:hyperlink w:anchor="_Toc227677262" w:history="1"><w:r w:rsidRPr="00DC2533"><w:rPr><w:rStyle w:val="Hyperlink"/></w:rPr><w:t>2.1.</w:r><w:r w:rsidRPr="00DC2533"><w:rPr><w:rStyle w:val="Hyperlink"/></w:rPr><w:t>Mô tả chi tiết bài toán</w:r><w:r><w:rPr><w:webHidden/></w:rPr><w:fldChar w:fldCharType="begin"/></w:r><w:r><w:rPr><w:webHidden/></w:rPr><w:instrText xml:space="preserve"> PAGEREF _Toc227677262 \h </w:instrText></w:r><w:r><w:rPr><w:webHidden/></w:rPr></w:r><w:r><w:rPr><w:webHidden/></w:rPr><w:fldChar w:fldCharType="separate"/></w:r><w:r><w:rPr><w:webHidden/></w:rPr><w:t>8
+<w:tab w:val="left" w:pos="1440"/></w:tabs><w:rPr><w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi"/><w:i w:val="0"/><w:iCs w:val="0"/><w:kern w:val="2"/><w:sz w:val="24"/><w:szCs w:val="24"/><w14:ligatures w14:val="standardContextual"/></w:rPr></w:pPr><w:hyperlink w:anchor="_Toc227677263" w:history="1"><w:r w:rsidRPr="00DC2533"><w:rPr><w:rStyle w:val="Hyperlink"/><w:lang w:eastAsia="ar-SA"/></w:rPr><w:t>2.1.1.</w:r><w:r w:rsidRPr="00DC2533"><w:rPr><w:rStyle w:val="Hyperlink"/><w:lang w:eastAsia="ar-SA"/></w:rPr><w:t>Đối tượng sử dụng hệ thống</w:r><w:r><w:rPr><w:webHidden/></w:rPr><w:fldChar w:fldCharType="begin"/></w:r><w:r><w:rPr><w:webHidden/></w:rPr><w:instrText xml:space="preserve"> PAGEREF _Toc227677263 \h </w:instrText></w:r><w:r><w:rPr><w:webHidden/></w:rPr></w:r><w:r><w:rPr><w:webHidden/></w:rPr><w:fldChar w:fldCharType="separate"/></w:r><w:r><w:rPr><w:webHidden/></w:rPr><w:t>9
+<w:tab w:val="left" w:pos="1440"/></w:tabs><w:rPr><w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi"/><w:i w:val="0"/><w:iCs w:val="0"/><w:kern w:val="2"/><w:sz w:val="24"/><w:szCs w:val="24"/><w14:ligatures w14:val="standardContextual"/></w:rPr></w:pPr><w:hyperlink w:anchor="_Toc227677264" w:history="1"><w:r w:rsidRPr="00DC2533"><w:rPr><w:rStyle w:val="Hyperlink"/><w:lang w:eastAsia="ar-SA"/></w:rPr><w:t>2.1.2.</w:r><w:r w:rsidRPr="00DC2533"><w:rPr><w:rStyle w:val="Hyperlink"/><w:lang w:eastAsia="ar-SA"/></w:rPr><w:t>Yêu cầu chức năng</w:r><w:r><w:rPr><w:webHidden/></w:rPr><w:fldChar w:fldCharType="begin"/></w:r><w:r><w:rPr><w:webHidden/></w:rPr><w:instrText xml:space="preserve"> PAGEREF _Toc227677264 \h </w:instrText></w:r><w:r><w:rPr><w:webHidden/></w:rPr></w:r><w:r><w:rPr><w:webHidden/></w:rPr><w:fldChar w:fldCharType="separate"/></w:r><w:r><w:rPr><w:webHidden/></w:rPr><w:t>12
+<w:tab w:val="left" w:pos="1440"/></w:tabs><w:rPr><w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi"/><w:i w:val="0"/><w:iCs w:val="0"/><w:kern w:val="2"/><w:sz w:val="24"/><w:szCs w:val="24"/><w14:ligatures w14:val="standardContextual"/></w:rPr></w:pPr><w:hyperlink w:anchor="_Toc227677265" w:history="1"><w:r w:rsidRPr="00DC2533"><w:rPr><w:rStyle w:val="Hyperlink"/></w:rPr><w:t>2.1.3.</w:r><w:r w:rsidRPr="00DC2533"><w:rPr><w:rStyle w:val="Hyperlink"/></w:rPr><w:t>Quy trình nghiệp vụ các luồng chức năng chính</w:r><w:r><w:rPr><w:webHidden/></w:rPr><w:fldChar w:fldCharType="begin"/></w:r><w:r><w:rPr><w:webHidden/></w:rPr><w:instrText xml:space="preserve"> PAGEREF _Toc227677265 \h </w:instrText></w:r><w:r><w:rPr><w:webHidden/></w:rPr></w:r><w:r><w:rPr><w:webHidden/></w:rPr><w:fldChar w:fldCharType="separate"/></w:r><w:r><w:rPr><w:webHidden/></w:rPr><w:t>15
+<w:tab w:val="left" w:pos="960"/></w:tabs><w:rPr><w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi"/><w:kern w:val="2"/><w:sz w:val="24"/><w:szCs w:val="24"/><w14:ligatures w14:val="standardContextual"/></w:rPr></w:pPr><w:hyperlink w:anchor="_Toc227677266" w:history="1"><w:r w:rsidRPr="00DC2533"><w:rPr><w:rStyle w:val="Hyperlink"/></w:rPr><w:t>2.2.</w:r><w:r w:rsidRPr="00DC2533"><w:rPr><w:rStyle w:val="Hyperlink"/></w:rPr><w:t>Hướng tiếp cận giải quyết của đề tài</w:r><w:r><w:rPr><w:webHidden/></w:rPr><w:fldChar w:fldCharType="begin"/></w:r><w:r><w:rPr><w:webHidden/></w:rPr><w:instrText xml:space="preserve"> PAGEREF _Toc227677266 \h </w:instrText></w:r><w:r><w:rPr><w:webHidden/></w:rPr></w:r><w:r><w:rPr><w:webHidden/></w:rPr><w:fldChar w:fldCharType="separate"/></w:r><w:r><w:rPr><w:webHidden/></w:rPr><w:t>22
+<w:tab w:val="left" w:pos="1440"/></w:tabs><w:rPr><w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi"/><w:i w:val="0"/><w:iCs w:val="0"/><w:kern w:val="2"/><w:sz w:val="24"/><w:szCs w:val="24"/><w14:ligatures w14:val="standardContextual"/></w:rPr></w:pPr><w:hyperlink w:anchor="_Toc227677267" w:history="1"><w:r w:rsidRPr="00DC2533"><w:rPr><w:rStyle w:val="Hyperlink"/><w:lang w:val="pt-BR"/></w:rPr><w:t>2.2.1.</w:r><w:r w:rsidRPr="00DC2533"><w:rPr><w:rStyle w:val="Hyperlink"/><w:lang w:val="pt-BR"/></w:rPr><w:t xml:space="preserve">Hướng tiếp cận theo mô hình kiến trúc 3 lớp (Three-tier Architecture)</w:r><w:r><w:rPr><w:webHidden/></w:rPr><w:fldChar w:fldCharType="begin"/></w:r><w:r><w:rPr><w:webHidden/></w:rPr><w:instrText xml:space="preserve"> PAGEREF _Toc227677267 \h </w:instrText></w:r><w:r><w:rPr><w:webHidden/></w:rPr></w:r><w:r><w:rPr><w:webHidden/></w:rPr><w:fldChar w:fldCharType="separate"/></w:r><w:r><w:rPr><w:webHidden/></w:rPr><w:t>22
+<w:tab w:val="left" w:pos="1440"/></w:tabs><w:rPr><w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi"/><w:i w:val="0"/><w:iCs w:val="0"/><w:kern w:val="2"/><w:sz w:val="24"/><w:szCs w:val="24"/><w14:ligatures w14:val="standardContextual"/></w:rPr></w:pPr><w:hyperlink w:anchor="_Toc227677268" w:history="1"><w:r w:rsidRPr="00DC2533"><w:rPr><w:rStyle w:val="Hyperlink"/><w:lang w:val="pt-BR"/></w:rPr><w:t>2.2.2.</w:r><w:r w:rsidRPr="00DC2533"><w:rPr><w:rStyle w:val="Hyperlink"/><w:lang w:val="pt-BR"/></w:rPr><w:t>Hướng tiếp cận theo mô hình Client – Server trên nền tảng web</w:r><w:r><w:rPr><w:webHidden/></w:rPr><w:fldChar w:fldCharType="begin"/></w:r><w:r><w:rPr><w:webHidden/></w:rPr><w:instrText xml:space="preserve"> PAGEREF _Toc227677268 \h </w:instrText></w:r><w:r><w:rPr><w:webHidden/></w:rPr></w:r><w:r><w:rPr><w:webHidden/></w:rPr><w:fldChar w:fldCharType="separate"/></w:r><w:r><w:rPr><w:webHidden/></w:rPr><w:t>22
+<w:tab w:val="left" w:pos="960"/></w:tabs><w:rPr><w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi"/><w:kern w:val="2"/><w:sz w:val="24"/><w:szCs w:val="24"/><w14:ligatures w14:val="standardContextual"/></w:rPr></w:pPr><w:hyperlink w:anchor="_Toc227677269" w:history="1"><w:r w:rsidRPr="00DC2533"><w:rPr><w:rStyle w:val="Hyperlink"/></w:rPr><w:t>2.3.</w:r><w:r w:rsidRPr="00DC2533"><w:rPr><w:rStyle w:val="Hyperlink"/></w:rPr><w:t>Tổng kết chương</w:r><w:r><w:rPr><w:webHidden/></w:rPr><w:fldChar w:fldCharType="begin"/></w:r><w:r><w:rPr><w:webHidden/></w:rPr><w:instrText xml:space="preserve"> PAGEREF _Toc227677269 \h </w:instrText></w:r><w:r><w:rPr><w:webHidden/></w:rPr></w:r><w:r><w:rPr><w:webHidden/></w:rPr><w:fldChar w:fldCharType="separate"/></w:r><w:r><w:rPr><w:webHidden/></w:rPr><w:t>23
+CHƯƠNG 3. THIẾT KẾ VÀ CÀI ĐẶT GIẢI PHÁP</w:r><w:r><w:rPr><w:webHidden/></w:rPr><w:fldChar w:fldCharType="begin"/></w:r><w:r><w:rPr><w:webHidden/></w:rPr><w:instrText xml:space="preserve"> PAGEREF _Toc227677270 \h </w:instrText></w:r><w:r><w:rPr><w:webHidden/></w:rPr></w:r><w:r><w:rPr><w:webHidden/></w:rPr><w:fldChar w:fldCharType="separate"/></w:r><w:r><w:rPr><w:webHidden/></w:rPr><w:t>24
+<w:tab w:val="left" w:pos="960"/></w:tabs><w:rPr><w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi"/><w:kern w:val="2"/><w:sz w:val="24"/><w:szCs w:val="24"/><w14:ligatures w14:val="standardContextual"/></w:rPr></w:pPr><w:hyperlink w:anchor="_Toc227677272" w:history="1"><w:r w:rsidRPr="00DC2533"><w:rPr><w:rStyle w:val="Hyperlink"/></w:rPr><w:t>3.1.</w:r><w:r w:rsidRPr="00DC2533"><w:rPr><w:rStyle w:val="Hyperlink"/></w:rPr><w:t>Kiến trúc tổng quát hệ thống</w:r><w:r><w:rPr><w:webHidden/></w:rPr><w:fldChar w:fldCharType="begin"/></w:r><w:r><w:rPr><w:webHidden/></w:rPr><w:instrText xml:space="preserve"> PAGEREF _Toc227677272 \h </w:instrText></w:r><w:r><w:rPr><w:webHidden/></w:rPr></w:r><w:r><w:rPr><w:webHidden/></w:rPr><w:fldChar w:fldCharType="separate"/></w:r><w:r><w:rPr><w:webHidden/></w:rPr><w:t>24
+<w:tab w:val="left" w:pos="960"/></w:tabs><w:rPr><w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi"/><w:kern w:val="2"/><w:sz w:val="24"/><w:szCs w:val="24"/><w14:ligatures w14:val="standardContextual"/></w:rPr></w:pPr><w:hyperlink w:anchor="_Toc227677273" w:history="1"><w:r w:rsidRPr="00DC2533"><w:rPr><w:rStyle w:val="Hyperlink"/></w:rPr><w:t>3.2.</w:r><w:r w:rsidRPr="00DC2533"><w:rPr><w:rStyle w:val="Hyperlink"/></w:rPr><w:t>Xây dựng các mô hình</w:r><w:r><w:rPr><w:webHidden/></w:rPr><w:fldChar w:fldCharType="begin"/></w:r><w:r><w:rPr><w:webHidden/></w:rPr><w:instrText xml:space="preserve"> PAGEREF _Toc227677273 \h </w:instrText></w:r><w:r><w:rPr><w:webHidden/></w:rPr></w:r><w:r><w:rPr><w:webHidden/></w:rPr><w:fldChar w:fldCharType="separate"/></w:r><w:r><w:rPr><w:webHidden/></w:rPr><w:t>25
+<w:tab w:val="left" w:pos="1440"/></w:tabs><w:rPr><w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi"/><w:i w:val="0"/><w:iCs w:val="0"/><w:kern w:val="2"/><w:sz w:val="24"/><w:szCs w:val="24"/><w14:ligatures w14:val="standardContextual"/></w:rPr></w:pPr><w:hyperlink w:anchor="_Toc227677274" w:history="1"><w:r w:rsidRPr="00DC2533"><w:rPr><w:rStyle w:val="Hyperlink"/><w:lang w:eastAsia="ar-SA"/></w:rPr><w:t>3.2.1.</w:r><w:r w:rsidRPr="00DC2533"><w:rPr><w:rStyle w:val="Hyperlink"/><w:lang w:eastAsia="ar-SA"/></w:rPr><w:t>Mô hình dữ liệu mức quan niệm (CDM)</w:r><w:r><w:rPr><w:webHidden/></w:rPr><w:fldChar w:fldCharType="begin"/></w:r><w:r><w:rPr><w:webHidden/></w:rPr><w:instrText xml:space="preserve"> PAGEREF _Toc227677274 \h </w:instrText></w:r><w:r><w:rPr><w:webHidden/></w:rPr></w:r><w:r><w:rPr><w:webHidden/></w:rPr><w:fldChar w:fldCharType="separate"/></w:r><w:r><w:rPr><w:webHidden/></w:rPr><w:t>25
+<w:tab w:val="left" w:pos="1440"/></w:tabs><w:rPr><w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi"/><w:i w:val="0"/><w:iCs w:val="0"/><w:kern w:val="2"/><w:sz w:val="24"/><w:szCs w:val="24"/><w14:ligatures w14:val="standardContextual"/></w:rPr></w:pPr><w:hyperlink w:anchor="_Toc227677275" w:history="1"><w:r w:rsidRPr="00DC2533"><w:rPr><w:rStyle w:val="Hyperlink"/><w:lang w:eastAsia="ar-SA"/></w:rPr><w:t>3.2.2.</w:r><w:r w:rsidRPr="00DC2533"><w:rPr><w:rStyle w:val="Hyperlink"/><w:lang w:eastAsia="ar-SA"/></w:rPr><w:t>Mô hình dữ liệu mức luận lý (LDM)</w:r><w:r><w:rPr><w:webHidden/></w:rPr><w:fldChar w:fldCharType="begin"/></w:r><w:r><w:rPr><w:webHidden/></w:rPr><w:instrText xml:space="preserve"> PAGEREF _Toc227677275 \h </w:instrText></w:r><w:r><w:rPr><w:webHidden/></w:rPr></w:r><w:r><w:rPr><w:webHidden/></w:rPr><w:fldChar w:fldCharType="separate"/></w:r><w:r><w:rPr><w:webHidden/></w:rPr><w:t>27
+<w:tab w:val="left" w:pos="1440"/></w:tabs><w:rPr><w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi"/><w:i w:val="0"/><w:iCs w:val="0"/><w:kern w:val="2"/><w:sz w:val="24"/><w:szCs w:val="24"/><w14:ligatures w14:val="standardContextual"/></w:rPr></w:pPr><w:hyperlink w:anchor="_Toc227677276" w:history="1"><w:r w:rsidRPr="00DC2533"><w:rPr><w:rStyle w:val="Hyperlink"/><w:lang w:eastAsia="ar-SA"/></w:rPr><w:t>3.2.3.</w:r><w:r w:rsidRPr="00DC2533"><w:rPr><w:rStyle w:val="Hyperlink"/><w:lang w:eastAsia="ar-SA"/></w:rPr><w:t>Lưu đồ dòng dữ liệu (DFD)</w:r><w:r><w:rPr><w:webHidden/></w:rPr><w:fldChar w:fldCharType="begin"/></w:r><w:r><w:rPr><w:webHidden/></w:rPr><w:instrText xml:space="preserve"> PAGEREF _Toc227677276 \h </w:instrText></w:r><w:r><w:rPr><w:webHidden/></w:rPr></w:r><w:r><w:rPr><w:webHidden/></w:rPr><w:fldChar w:fldCharType="separate"/></w:r><w:r><w:rPr><w:webHidden/></w:rPr><w:t>39
+<w:tab w:val="left" w:pos="960"/></w:tabs><w:rPr><w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi"/><w:kern w:val="2"/><w:sz w:val="24"/><w:szCs w:val="24"/><w14:ligatures w14:val="standardContextual"/></w:rPr></w:pPr><w:hyperlink w:anchor="_Toc227677277" w:history="1"><w:r w:rsidRPr="00DC2533"><w:rPr><w:rStyle w:val="Hyperlink"/></w:rPr><w:t>3.3.</w:r><w:r w:rsidRPr="00DC2533"><w:rPr><w:rStyle w:val="Hyperlink"/></w:rPr><w:t>Giải pháp cài đặt</w:r><w:r><w:rPr><w:webHidden/></w:rPr><w:fldChar w:fldCharType="begin"/></w:r><w:r><w:rPr><w:webHidden/></w:rPr><w:instrText xml:space="preserve"> PAGEREF _Toc227677277 \h </w:instrText></w:r><w:r><w:rPr><w:webHidden/></w:rPr></w:r><w:r><w:rPr><w:webHidden/></w:rPr><w:fldChar w:fldCharType="separate"/></w:r><w:r><w:rPr><w:webHidden/></w:rPr><w:t>40
+<w:tab w:val="left" w:pos="960"/></w:tabs><w:rPr><w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi"/><w:kern w:val="2"/><w:sz w:val="24"/><w:szCs w:val="24"/><w14:ligatures w14:val="standardContextual"/></w:rPr></w:pPr><w:hyperlink w:anchor="_Toc227677278" w:history="1"><w:r w:rsidRPr="00DC2533"><w:rPr><w:rStyle w:val="Hyperlink"/></w:rPr><w:t>3.4.</w:r><w:r w:rsidRPr="00DC2533"><w:rPr><w:rStyle w:val="Hyperlink"/></w:rPr><w:t>Tổng kết chương</w:r><w:r><w:rPr><w:webHidden/></w:rPr><w:fldChar w:fldCharType="begin"/></w:r><w:r><w:rPr><w:webHidden/></w:rPr><w:instrText xml:space="preserve"> PAGEREF _Toc227677278 \h </w:instrText></w:r><w:r><w:rPr><w:webHidden/></w:rPr></w:r><w:r><w:rPr><w:webHidden/></w:rPr><w:fldChar w:fldCharType="separate"/></w:r><w:r><w:rPr><w:webHidden/></w:rPr><w:t>41
+CHƯƠNG 4. KIỂM THỬ VÀ ĐÁNH GIÁ</w:r><w:r><w:rPr><w:webHidden/></w:rPr><w:fldChar w:fldCharType="begin"/></w:r><w:r><w:rPr><w:webHidden/></w:rPr><w:instrText xml:space="preserve"> PAGEREF _Toc227677279 \h </w:instrText></w:r><w:r><w:rPr><w:webHidden/></w:rPr></w:r><w:r><w:rPr><w:webHidden/></w:rPr><w:fldChar w:fldCharType="separate"/></w:r><w:r><w:rPr><w:webHidden/></w:rPr><w:t>42
+<w:tab w:val="left" w:pos="960"/></w:tabs><w:rPr><w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi"/><w:kern w:val="2"/><w:sz w:val="24"/><w:szCs w:val="24"/><w14:ligatures w14:val="standardContextual"/></w:rPr></w:pPr><w:hyperlink w:anchor="_Toc227677281" w:history="1"><w:r w:rsidRPr="00DC2533"><w:rPr><w:rStyle w:val="Hyperlink"/></w:rPr><w:t>4.1.</w:r><w:r w:rsidRPr="00DC2533"><w:rPr><w:rStyle w:val="Hyperlink"/></w:rPr><w:t>Kiểm thử và đánh giá chức năng</w:r><w:r><w:rPr><w:webHidden/></w:rPr><w:fldChar w:fldCharType="begin"/></w:r><w:r><w:rPr><w:webHidden/></w:rPr><w:instrText xml:space="preserve"> PAGEREF _Toc227677281 \h </w:instrText></w:r><w:r><w:rPr><w:webHidden/></w:rPr></w:r><w:r><w:rPr><w:webHidden/></w:rPr><w:fldChar w:fldCharType="separate"/></w:r><w:r><w:rPr><w:webHidden/></w:rPr><w:t>42
+<w:tab w:val="left" w:pos="1440"/></w:tabs><w:rPr><w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi"/><w:i w:val="0"/><w:iCs w:val="0"/><w:kern w:val="2"/><w:sz w:val="24"/><w:szCs w:val="24"/><w14:ligatures w14:val="standardContextual"/></w:rPr></w:pPr><w:hyperlink w:anchor="_Toc227677282" w:history="1"><w:r w:rsidRPr="00DC2533"><w:rPr><w:rStyle w:val="Hyperlink"/><w:lang w:eastAsia="ar-SA"/></w:rPr><w:t>4.1.1.</w:r><w:r w:rsidRPr="00DC2533"><w:rPr><w:rStyle w:val="Hyperlink"/><w:lang w:eastAsia="ar-SA"/></w:rPr><w:t>Chức năng “Tìm kiếm bài hát”</w:r><w:r><w:rPr><w:webHidden/></w:rPr><w:fldChar w:fldCharType="begin"/></w:r><w:r><w:rPr><w:webHidden/></w:rPr><w:instrText xml:space="preserve"> PAGEREF _Toc227677282 \h </w:instrText></w:r><w:r><w:rPr><w:webHidden/></w:rPr></w:r><w:r><w:rPr><w:webHidden/></w:rPr><w:fldChar w:fldCharType="separate"/></w:r><w:r><w:rPr><w:webHidden/></w:rPr><w:t>42
+<w:tab w:val="left" w:pos="1440"/></w:tabs><w:rPr><w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi"/><w:i w:val="0"/><w:iCs w:val="0"/><w:kern w:val="2"/><w:sz w:val="24"/><w:szCs w:val="24"/><w14:ligatures w14:val="standardContextual"/></w:rPr></w:pPr><w:hyperlink w:anchor="_Toc227677283" w:history="1"><w:r w:rsidRPr="00DC2533"><w:rPr><w:rStyle w:val="Hyperlink"/></w:rPr><w:t>4.1.2.</w:r><w:r w:rsidRPr="00DC2533"><w:rPr><w:rStyle w:val="Hyperlink"/></w:rPr><w:t>Chức năng “Xem chi tiết bài hát”</w:r><w:r><w:rPr><w:webHidden/></w:rPr><w:fldChar w:fldCharType="begin"/></w:r><w:r><w:rPr><w:webHidden/></w:rPr><w:instrText xml:space="preserve"> PAGEREF _Toc227677283 \h </w:instrText></w:r><w:r><w:rPr><w:webHidden/></w:rPr></w:r><w:r><w:rPr><w:webHidden/></w:rPr><w:fldChar w:fldCharType="separate"/></w:r><w:r><w:rPr><w:webHidden/></w:rPr><w:t>45
+<w:tab w:val="left" w:pos="1440"/></w:tabs><w:rPr><w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi"/><w:i w:val="0"/><w:iCs w:val="0"/><w:kern w:val="2"/><w:sz w:val="24"/><w:szCs w:val="24"/><w14:ligatures w14:val="standardContextual"/></w:rPr></w:pPr><w:hyperlink w:anchor="_Toc227677284" w:history="1"><w:r w:rsidRPr="00DC2533"><w:rPr><w:rStyle w:val="Hyperlink"/></w:rPr><w:t>4.1.3.</w:r><w:r w:rsidRPr="00DC2533"><w:rPr><w:rStyle w:val="Hyperlink"/></w:rPr><w:t>Chức năng “Phân tích lại ý nghĩa bằng AI”</w:r><w:r><w:rPr><w:webHidden/></w:rPr><w:fldChar w:fldCharType="begin"/></w:r><w:r><w:rPr><w:webHidden/></w:rPr><w:instrText xml:space="preserve"> PAGEREF _Toc227677284 \h </w:instrText></w:r><w:r><w:rPr><w:webHidden/></w:rPr></w:r><w:r><w:rPr><w:webHidden/></w:rPr><w:fldChar w:fldCharType="separate"/></w:r><w:r><w:rPr><w:webHidden/></w:rPr><w:t>47
+<w:tab w:val="left" w:pos="1440"/></w:tabs><w:rPr><w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi"/><w:i w:val="0"/><w:iCs w:val="0"/><w:kern w:val="2"/><w:sz w:val="24"/><w:szCs w:val="24"/><w14:ligatures w14:val="standardContextual"/></w:rPr></w:pPr><w:hyperlink w:anchor="_Toc227677285" w:history="1"><w:r w:rsidRPr="00DC2533"><w:rPr><w:rStyle w:val="Hyperlink"/></w:rPr><w:t>4.1.4.</w:r><w:r w:rsidRPr="00DC2533"><w:rPr><w:rStyle w:val="Hyperlink"/></w:rPr><w:t>Chức năng “Xem và làm mới bài hát gợi ý”</w:r><w:r><w:rPr><w:webHidden/></w:rPr><w:fldChar w:fldCharType="begin"/></w:r><w:r><w:rPr><w:webHidden/></w:rPr><w:instrText xml:space="preserve"> PAGEREF _Toc227677285 \h </w:instrText></w:r><w:r><w:rPr><w:webHidden/></w:rPr></w:r><w:r><w:rPr><w:webHidden/></w:rPr><w:fldChar w:fldCharType="separate"/></w:r><w:r><w:rPr><w:webHidden/></w:rPr><w:t>50
+<w:tab w:val="left" w:pos="1440"/></w:tabs><w:rPr><w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi"/><w:i w:val="0"/><w:iCs w:val="0"/><w:kern w:val="2"/><w:sz w:val="24"/><w:szCs w:val="24"/><w14:ligatures w14:val="standardContextual"/></w:rPr></w:pPr><w:hyperlink w:anchor="_Toc227677286" w:history="1"><w:r w:rsidRPr="00DC2533"><w:rPr><w:rStyle w:val="Hyperlink"/></w:rPr><w:t>4.1.5.</w:r><w:r w:rsidRPr="00DC2533"><w:rPr><w:rStyle w:val="Hyperlink"/></w:rPr><w:t>Chức năng “Theo dõi và nhận thông báo tin tức từ nghệ sĩ”</w:r><w:r><w:rPr><w:webHidden/></w:rPr><w:fldChar w:fldCharType="begin"/></w:r><w:r><w:rPr><w:webHidden/></w:rPr><w:instrText xml:space="preserve"> PAGEREF _Toc227677286 \h </w:instrText></w:r><w:r><w:rPr><w:webHidden/></w:rPr></w:r><w:r><w:rPr><w:webHidden/></w:rPr><w:fldChar w:fldCharType="separate"/></w:r><w:r><w:rPr><w:webHidden/></w:rPr><w:t>55
+<w:tab w:val="left" w:pos="1440"/></w:tabs><w:rPr><w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi"/><w:i w:val="0"/><w:iCs w:val="0"/><w:kern w:val="2"/><w:sz w:val="24"/><w:szCs w:val="24"/><w14:ligatures w14:val="standardContextual"/></w:rPr></w:pPr><w:hyperlink w:anchor="_Toc227677287" w:history="1"><w:r w:rsidRPr="00DC2533"><w:rPr><w:rStyle w:val="Hyperlink"/></w:rPr><w:t>4.1.6.</w:r><w:r w:rsidRPr="00DC2533"><w:rPr><w:rStyle w:val="Hyperlink"/></w:rPr><w:t>Chức năng “Xem recap cá nhân theo tháng”</w:r><w:r><w:rPr><w:webHidden/></w:rPr><w:fldChar w:fldCharType="begin"/></w:r><w:r><w:rPr><w:webHidden/></w:rPr><w:instrText xml:space="preserve"> PAGEREF _Toc227677287 \h </w:instrText></w:r><w:r><w:rPr><w:webHidden/></w:rPr></w:r><w:r><w:rPr><w:webHidden/></w:rPr><w:fldChar w:fldCharType="separate"/></w:r><w:r><w:rPr><w:webHidden/></w:rPr><w:t>57
+<w:tab w:val="left" w:pos="1440"/></w:tabs><w:rPr><w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi"/><w:i w:val="0"/><w:iCs w:val="0"/><w:kern w:val="2"/><w:sz w:val="24"/><w:szCs w:val="24"/><w14:ligatures w14:val="standardContextual"/></w:rPr></w:pPr><w:hyperlink w:anchor="_Toc227677288" w:history="1"><w:r w:rsidRPr="00DC2533"><w:rPr><w:rStyle w:val="Hyperlink"/></w:rPr><w:t>4.1.7.</w:r><w:r w:rsidRPr="00DC2533"><w:rPr><w:rStyle w:val="Hyperlink"/></w:rPr><w:t>Chức năng “Xem phân tích cá nhân hóa theo gu âm nhạc”</w:r><w:r><w:rPr><w:webHidden/></w:rPr><w:fldChar w:fldCharType="begin"/></w:r><w:r><w:rPr><w:webHidden/></w:rPr><w:instrText xml:space="preserve"> PAGEREF _Toc227677288 \h </w:instrText></w:r><w:r><w:rPr><w:webHidden/></w:rPr></w:r><w:r><w:rPr><w:webHidden/></w:rPr><w:fldChar w:fldCharType="separate"/></w:r><w:r><w:rPr><w:webHidden/></w:rPr><w:t>59
+<w:tab w:val="left" w:pos="1440"/></w:tabs><w:rPr><w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi"/><w:i w:val="0"/><w:iCs w:val="0"/><w:kern w:val="2"/><w:sz w:val="24"/><w:szCs w:val="24"/><w14:ligatures w14:val="standardContextual"/></w:rPr></w:pPr><w:hyperlink w:anchor="_Toc227677289" w:history="1"><w:r w:rsidRPr="00DC2533"><w:rPr><w:rStyle w:val="Hyperlink"/></w:rPr><w:t>4.1.8.</w:r><w:r w:rsidRPr="00DC2533"><w:rPr><w:rStyle w:val="Hyperlink"/></w:rPr><w:t>Chức năng “Yêu thích và đánh giá album”</w:r><w:r><w:rPr><w:webHidden/></w:rPr><w:fldChar w:fldCharType="begin"/></w:r><w:r><w:rPr><w:webHidden/></w:rPr><w:instrText xml:space="preserve"> PAGEREF _Toc227677289 \h </w:instrText></w:r><w:r><w:rPr><w:webHidden/></w:rPr></w:r><w:r><w:rPr><w:webHidden/></w:rPr><w:fldChar w:fldCharType="separate"/></w:r><w:r><w:rPr><w:webHidden/></w:rPr><w:t>62
+<w:tab w:val="left" w:pos="1440"/></w:tabs><w:rPr><w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi"/><w:i w:val="0"/><w:iCs w:val="0"/><w:kern w:val="2"/><w:sz w:val="24"/><w:szCs w:val="24"/><w14:ligatures w14:val="standardContextual"/></w:rPr></w:pPr><w:hyperlink w:anchor="_Toc227677290" w:history="1"><w:r w:rsidRPr="00DC2533"><w:rPr><w:rStyle w:val="Hyperlink"/></w:rPr><w:t>4.1.9.</w:r><w:r w:rsidRPr="00DC2533"><w:rPr><w:rStyle w:val="Hyperlink"/></w:rPr><w:t>Chức năng “Bình luận bài hát và phản hồi bình luận”</w:r><w:r><w:rPr><w:webHidden/></w:rPr><w:fldChar w:fldCharType="begin"/></w:r><w:r><w:rPr><w:webHidden/></w:rPr><w:instrText xml:space="preserve"> PAGEREF _Toc227677290 \h </w:instrText></w:r><w:r><w:rPr><w:webHidden/></w:rPr></w:r><w:r><w:rPr><w:webHidden/></w:rPr><w:fldChar w:fldCharType="separate"/></w:r><w:r><w:rPr><w:webHidden/></w:rPr><w:t>66
+<w:tab w:val="left" w:pos="1680"/></w:tabs><w:rPr><w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi"/><w:i w:val="0"/><w:iCs w:val="0"/><w:kern w:val="2"/><w:sz w:val="24"/><w:szCs w:val="24"/><w14:ligatures w14:val="standardContextual"/></w:rPr></w:pPr><w:hyperlink w:anchor="_Toc227677291" w:history="1"><w:r w:rsidRPr="00DC2533"><w:rPr><w:rStyle w:val="Hyperlink"/></w:rPr><w:t>4.1.10.</w:r><w:r w:rsidRPr="00DC2533"><w:rPr><w:rStyle w:val="Hyperlink"/></w:rPr><w:t>Chức năng “Lọc và xuất file báo cáo CSV lịch sử tìm kiếm”</w:r><w:r><w:rPr><w:webHidden/></w:rPr><w:fldChar w:fldCharType="begin"/></w:r><w:r><w:rPr><w:webHidden/></w:rPr><w:instrText xml:space="preserve"> PAGEREF _Toc227677291 \h </w:instrText></w:r><w:r><w:rPr><w:webHidden/></w:rPr></w:r><w:r><w:rPr><w:webHidden/></w:rPr><w:fldChar w:fldCharType="separate"/></w:r><w:r><w:rPr><w:webHidden/></w:rPr><w:t>69
+<w:tab w:val="left" w:pos="960"/></w:tabs><w:rPr><w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi"/><w:kern w:val="2"/><w:sz w:val="24"/><w:szCs w:val="24"/><w14:ligatures w14:val="standardContextual"/></w:rPr></w:pPr><w:hyperlink w:anchor="_Toc227677292" w:history="1"><w:r w:rsidRPr="00DC2533"><w:rPr><w:rStyle w:val="Hyperlink"/></w:rPr><w:t>4.2.</w:r><w:r w:rsidRPr="00DC2533"><w:rPr><w:rStyle w:val="Hyperlink"/></w:rPr><w:t>Tổng kết chương</w:r><w:r><w:rPr><w:webHidden/></w:rPr><w:fldChar w:fldCharType="begin"/></w:r><w:r><w:rPr><w:webHidden/></w:rPr><w:instrText xml:space="preserve"> PAGEREF _Toc227677292 \h </w:instrText></w:r><w:r><w:rPr><w:webHidden/></w:rPr></w:r><w:r><w:rPr><w:webHidden/></w:rPr><w:fldChar w:fldCharType="separate"/></w:r><w:r><w:rPr><w:webHidden/></w:rPr><w:t>72
+CHƯƠNG 5. KẾT LUẬN VÀ HƯỚNG PHÁT TRIỂN</w:r><w:r><w:rPr><w:webHidden/></w:rPr><w:fldChar w:fldCharType="begin"/></w:r><w:r><w:rPr><w:webHidden/></w:rPr><w:instrText xml:space="preserve"> PAGEREF _Toc227677293 \h </w:instrText></w:r><w:r><w:rPr><w:webHidden/></w:rPr></w:r><w:r><w:rPr><w:webHidden/></w:rPr><w:fldChar w:fldCharType="separate"/></w:r><w:r><w:rPr><w:webHidden/></w:rPr><w:t>73
+<w:tab w:val="left" w:pos="960"/></w:tabs><w:rPr><w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi"/><w:kern w:val="2"/><w:sz w:val="24"/><w:szCs w:val="24"/><w14:ligatures w14:val="standardContextual"/></w:rPr></w:pPr><w:hyperlink w:anchor="_Toc227677295" w:history="1"><w:r w:rsidRPr="00DC2533"><w:rPr><w:rStyle w:val="Hyperlink"/></w:rPr><w:t>5.1.</w:r><w:r w:rsidRPr="00DC2533"><w:rPr><w:rStyle w:val="Hyperlink"/></w:rPr><w:t>Kết luận</w:r><w:r><w:rPr><w:webHidden/></w:rPr><w:fldChar w:fldCharType="begin"/></w:r><w:r><w:rPr><w:webHidden/></w:rPr><w:instrText xml:space="preserve"> PAGEREF _Toc227677295 \h </w:instrText></w:r><w:r><w:rPr><w:webHidden/></w:rPr></w:r><w:r><w:rPr><w:webHidden/></w:rPr><w:fldChar w:fldCharType="separate"/></w:r><w:r><w:rPr><w:webHidden/></w:rPr><w:t>73
+<w:tab w:val="left" w:pos="960"/></w:tabs><w:rPr><w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi"/><w:kern w:val="2"/><w:sz w:val="24"/><w:szCs w:val="24"/><w14:ligatures w14:val="standardContextual"/></w:rPr></w:pPr><w:hyperlink w:anchor="_Toc227677296" w:history="1"><w:r w:rsidRPr="00DC2533"><w:rPr><w:rStyle w:val="Hyperlink"/></w:rPr><w:t>5.2.</w:r><w:r w:rsidRPr="00DC2533"><w:rPr><w:rStyle w:val="Hyperlink"/></w:rPr><w:t>Hướng phát triển</w:r><w:r><w:rPr><w:webHidden/></w:rPr><w:fldChar w:fldCharType="begin"/></w:r><w:r><w:rPr><w:webHidden/></w:rPr><w:instrText xml:space="preserve"> PAGEREF _Toc227677296 \h </w:instrText></w:r><w:r><w:rPr><w:webHidden/></w:rPr></w:r><w:r><w:rPr><w:webHidden/></w:rPr><w:fldChar w:fldCharType="separate"/></w:r><w:r><w:rPr><w:webHidden/></w:rPr><w:t>74
+TÀI LIỆU THAM KHẢO</w:r><w:r><w:rPr><w:webHidden/></w:rPr><w:fldChar w:fldCharType="begin"/></w:r><w:r><w:rPr><w:webHidden/></w:rPr><w:instrText xml:space="preserve"> PAGEREF _Toc227677297 \h </w:instrText></w:r><w:r><w:rPr><w:webHidden/></w:rPr></w:r><w:r><w:rPr><w:webHidden/></w:rPr><w:fldChar w:fldCharType="separate"/></w:r><w:r><w:rPr><w:webHidden/></w:rPr><w:t>75
+PHỤ LỤC: README HƯỚNG DẪN CÀI ĐẶT HỆ THỐNG</w:r><w:r><w:rPr><w:webHidden/></w:rPr><w:fldChar w:fldCharType="begin"/></w:r><w:r><w:rPr><w:webHidden/></w:rPr><w:instrText xml:space="preserve"> PAGEREF _Toc227677298 \h </w:instrText></w:r><w:r><w:rPr><w:webHidden/></w:rPr></w:r><w:r><w:rPr><w:webHidden/></w:rPr><w:fldChar w:fldCharType="separate"/></w:r><w:r><w:rPr><w:webHidden/></w:rPr><w:t>76
+DANH MỤC HÌNH
+<w:tab w:val="right" w:leader="dot" w:pos="9345"/></w:tabs><w:ind w:firstLine="0"/><w:rPr><w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi"/><w:noProof/><w:kern w:val="2"/><w:sz w:val="24"/><w14:ligatures w14:val="standardContextual"/></w:rPr></w:pPr><w:r><w:rPr><w:b/><w:bCs/><w:szCs w:val="26"/></w:rPr><w:fldChar w:fldCharType="begin"/></w:r><w:r><w:rPr><w:b/><w:bCs/><w:szCs w:val="26"/></w:rPr><w:instrText xml:space="preserve"> TOC \h \z \c "Hình" </w:instrText></w:r><w:r><w:rPr><w:b/><w:bCs/><w:szCs w:val="26"/></w:rPr><w:fldChar w:fldCharType="separate"/></w:r><w:hyperlink w:anchor="_Toc227677299" w:history="1"><w:r w:rsidR="00275AFC" w:rsidRPr="00C06FB7"><w:rPr><w:rStyle w:val="Hyperlink"/><w:noProof/></w:rPr><w:t>Hình 1. Sơ đồ hoạt vụ tổng quát của hệ thống</w:r><w:r w:rsidR="00275AFC"><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:fldChar w:fldCharType="begin"/></w:r><w:r w:rsidR="00275AFC"><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:instrText xml:space="preserve"> PAGEREF _Toc227677299 \h </w:instrText></w:r><w:r w:rsidR="00275AFC"><w:rPr><w:noProof/><w:webHidden/></w:rPr></w:r><w:r w:rsidR="00275AFC"><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:fldChar w:fldCharType="separate"/></w:r><w:r w:rsidR="00275AFC"><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:t>9
+<w:tab w:val="right" w:leader="dot" w:pos="9345"/></w:tabs><w:ind w:firstLine="0"/><w:rPr><w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi"/><w:noProof/><w:kern w:val="2"/><w:sz w:val="24"/><w14:ligatures w14:val="standardContextual"/></w:rPr></w:pPr><w:hyperlink w:anchor="_Toc227677300" w:history="1"><w:r w:rsidRPr="00C06FB7"><w:rPr><w:rStyle w:val="Hyperlink"/><w:noProof/></w:rPr><w:t>Hình 2. Sơ đồ hoạt vụ người dùng đã đăng ký tài khoản</w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:fldChar w:fldCharType="begin"/></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:instrText xml:space="preserve"> PAGEREF _Toc227677300 \h </w:instrText></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:fldChar w:fldCharType="separate"/></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:t>10
+<w:tab w:val="right" w:leader="dot" w:pos="9345"/></w:tabs><w:ind w:firstLine="0"/><w:rPr><w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi"/><w:noProof/><w:kern w:val="2"/><w:sz w:val="24"/><w14:ligatures w14:val="standardContextual"/></w:rPr></w:pPr><w:hyperlink w:anchor="_Toc227677301" w:history="1"><w:r w:rsidRPr="00C06FB7"><w:rPr><w:rStyle w:val="Hyperlink"/><w:noProof/></w:rPr><w:t>Hình 3. Sơ đồ hoạt vụ của khách chưa đăng ký tài khoản</w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:fldChar w:fldCharType="begin"/></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:instrText xml:space="preserve"> PAGEREF _Toc227677301 \h </w:instrText></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:fldChar w:fldCharType="separate"/></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:t>11
+<w:tab w:val="right" w:leader="dot" w:pos="9345"/></w:tabs><w:ind w:firstLine="0"/><w:rPr><w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi"/><w:noProof/><w:kern w:val="2"/><w:sz w:val="24"/><w14:ligatures w14:val="standardContextual"/></w:rPr></w:pPr><w:hyperlink w:anchor="_Toc227677302" w:history="1"><w:r w:rsidRPr="00C06FB7"><w:rPr><w:rStyle w:val="Hyperlink"/><w:noProof/></w:rPr><w:t>Hình 4. Sơ đồ hoạt vụ của quản trị viên</w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:fldChar w:fldCharType="begin"/></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:instrText xml:space="preserve"> PAGEREF _Toc227677302 \h </w:instrText></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:fldChar w:fldCharType="separate"/></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:t>12
+<w:tab w:val="right" w:leader="dot" w:pos="9345"/></w:tabs><w:ind w:firstLine="0"/><w:rPr><w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi"/><w:noProof/><w:kern w:val="2"/><w:sz w:val="24"/><w14:ligatures w14:val="standardContextual"/></w:rPr></w:pPr><w:hyperlink w:anchor="_Toc227677303" w:history="1"><w:r w:rsidRPr="00C06FB7"><w:rPr><w:rStyle w:val="Hyperlink"/><w:noProof/></w:rPr><w:t>Hình 5. Quy trình tra cứu và xem thông tin bài hát</w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:fldChar w:fldCharType="begin"/></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:instrText xml:space="preserve"> PAGEREF _Toc227677303 \h </w:instrText></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:fldChar w:fldCharType="separate"/></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:t>16
+<w:tab w:val="right" w:leader="dot" w:pos="9345"/></w:tabs><w:ind w:firstLine="0"/><w:rPr><w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi"/><w:noProof/><w:kern w:val="2"/><w:sz w:val="24"/><w14:ligatures w14:val="standardContextual"/></w:rPr></w:pPr><w:hyperlink w:anchor="_Toc227677304" w:history="1"><w:r w:rsidRPr="00C06FB7"><w:rPr><w:rStyle w:val="Hyperlink"/><w:noProof/></w:rPr><w:t>Hình 6. Quy trình tương tác với nội dung</w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:fldChar w:fldCharType="begin"/></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:instrText xml:space="preserve"> PAGEREF _Toc227677304 \h </w:instrText></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:fldChar w:fldCharType="separate"/></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:t>17
+<w:tab w:val="right" w:leader="dot" w:pos="9345"/></w:tabs><w:ind w:firstLine="0"/><w:rPr><w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi"/><w:noProof/><w:kern w:val="2"/><w:sz w:val="24"/><w14:ligatures w14:val="standardContextual"/></w:rPr></w:pPr><w:hyperlink w:anchor="_Toc227677305" w:history="1"><w:r w:rsidRPr="00C06FB7"><w:rPr><w:rStyle w:val="Hyperlink"/><w:noProof/></w:rPr><w:t>Hình 7. Quy trình theo dõi nghệ sĩ và nhận thông báo</w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:fldChar w:fldCharType="begin"/></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:instrText xml:space="preserve"> PAGEREF _Toc227677305 \h </w:instrText></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:fldChar w:fldCharType="separate"/></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:t>18
+<w:tab w:val="right" w:leader="dot" w:pos="9345"/></w:tabs><w:ind w:firstLine="0"/><w:rPr><w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi"/><w:noProof/><w:kern w:val="2"/><w:sz w:val="24"/><w14:ligatures w14:val="standardContextual"/></w:rPr></w:pPr><w:hyperlink w:anchor="_Toc227677306" w:history="1"><w:r w:rsidRPr="00C06FB7"><w:rPr><w:rStyle w:val="Hyperlink"/><w:noProof/></w:rPr><w:t>Hình 8. Quy trình cá nhân hóa nội dung</w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:fldChar w:fldCharType="begin"/></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:instrText xml:space="preserve"> PAGEREF _Toc227677306 \h </w:instrText></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:fldChar w:fldCharType="separate"/></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:t>19
+<w:tab w:val="right" w:leader="dot" w:pos="9345"/></w:tabs><w:ind w:firstLine="0"/><w:rPr><w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi"/><w:noProof/><w:kern w:val="2"/><w:sz w:val="24"/><w14:ligatures w14:val="standardContextual"/></w:rPr></w:pPr><w:hyperlink w:anchor="_Toc227677307" w:history="1"><w:r w:rsidRPr="00C06FB7"><w:rPr><w:rStyle w:val="Hyperlink"/><w:noProof/></w:rPr><w:t>Hình 9. Quy trình phân tích ý nghĩa bài hát bằng AI</w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:fldChar w:fldCharType="begin"/></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:instrText xml:space="preserve"> PAGEREF _Toc227677307 \h </w:instrText></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:fldChar w:fldCharType="separate"/></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:t>20
+<w:tab w:val="right" w:leader="dot" w:pos="9345"/></w:tabs><w:ind w:firstLine="0"/><w:rPr><w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi"/><w:noProof/><w:kern w:val="2"/><w:sz w:val="24"/><w14:ligatures w14:val="standardContextual"/></w:rPr></w:pPr><w:hyperlink w:anchor="_Toc227677308" w:history="1"><w:r w:rsidRPr="00C06FB7"><w:rPr><w:rStyle w:val="Hyperlink"/><w:noProof/></w:rPr><w:t>Hình 10. Quy trình quản trị hệ thống</w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:fldChar w:fldCharType="begin"/></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:instrText xml:space="preserve"> PAGEREF _Toc227677308 \h </w:instrText></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:fldChar w:fldCharType="separate"/></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:t>21
+<w:tab w:val="right" w:leader="dot" w:pos="9345"/></w:tabs><w:ind w:firstLine="0"/><w:rPr><w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi"/><w:noProof/><w:kern w:val="2"/><w:sz w:val="24"/><w14:ligatures w14:val="standardContextual"/></w:rPr></w:pPr><w:hyperlink w:anchor="_Toc227677309" w:history="1"><w:r w:rsidRPr="00C06FB7"><w:rPr><w:rStyle w:val="Hyperlink"/><w:noProof/></w:rPr><w:t>Hình 11. Mô hình kiến trúc 3 lớp (Three-tier Architecture)</w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:fldChar w:fldCharType="begin"/></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:instrText xml:space="preserve"> PAGEREF _Toc227677309 \h </w:instrText></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:fldChar w:fldCharType="separate"/></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:t>22
+<w:tab w:val="right" w:leader="dot" w:pos="9345"/></w:tabs><w:ind w:firstLine="0"/><w:rPr><w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi"/><w:noProof/><w:kern w:val="2"/><w:sz w:val="24"/><w14:ligatures w14:val="standardContextual"/></w:rPr></w:pPr><w:hyperlink w:anchor="_Toc227677310" w:history="1"><w:r w:rsidRPr="00C06FB7"><w:rPr><w:rStyle w:val="Hyperlink"/><w:noProof/></w:rPr><w:t>Hình 12. Mô hình kiến trúc Client – Server trên nền tảng web</w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:fldChar w:fldCharType="begin"/></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:instrText xml:space="preserve"> PAGEREF _Toc227677310 \h </w:instrText></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:fldChar w:fldCharType="separate"/></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:t>23
+<w:tab w:val="right" w:leader="dot" w:pos="9345"/></w:tabs><w:ind w:firstLine="0"/><w:rPr><w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi"/><w:noProof/><w:kern w:val="2"/><w:sz w:val="24"/><w14:ligatures w14:val="standardContextual"/></w:rPr></w:pPr><w:hyperlink w:anchor="_Toc227677311" w:history="1"><w:r w:rsidRPr="00C06FB7"><w:rPr><w:rStyle w:val="Hyperlink"/><w:noProof/></w:rPr><w:t>Hình 13. Mô hình kiến trúc xử lý dữ liệu</w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:fldChar w:fldCharType="begin"/></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:instrText xml:space="preserve"> PAGEREF _Toc227677311 \h </w:instrText></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:fldChar w:fldCharType="separate"/></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:t>24
+<w:tab w:val="right" w:leader="dot" w:pos="9345"/></w:tabs><w:ind w:firstLine="0"/><w:rPr><w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi"/><w:noProof/><w:kern w:val="2"/><w:sz w:val="24"/><w14:ligatures w14:val="standardContextual"/></w:rPr></w:pPr><w:hyperlink w:anchor="_Toc227677312" w:history="1"><w:r w:rsidRPr="00C06FB7"><w:rPr><w:rStyle w:val="Hyperlink"/><w:noProof/></w:rPr><w:t>Hình 14. Mô hình dữ liệu mức quan niệm (CDM)</w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:fldChar w:fldCharType="begin"/></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:instrText xml:space="preserve"> PAGEREF _Toc227677312 \h </w:instrText></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:fldChar w:fldCharType="separate"/></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:t>26
+<w:tab w:val="right" w:leader="dot" w:pos="9345"/></w:tabs><w:ind w:firstLine="0"/><w:rPr><w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi"/><w:noProof/><w:kern w:val="2"/><w:sz w:val="24"/><w14:ligatures w14:val="standardContextual"/></w:rPr></w:pPr><w:hyperlink w:anchor="_Toc227677313" w:history="1"><w:r w:rsidRPr="00C06FB7"><w:rPr><w:rStyle w:val="Hyperlink"/><w:noProof/></w:rPr><w:t>Hình 15. Mô hình dữ liệu mức luận lý (LDM)</w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:fldChar w:fldCharType="begin"/></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:instrText xml:space="preserve"> PAGEREF _Toc227677313 \h </w:instrText></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:fldChar w:fldCharType="separate"/></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:t>28
+<w:tab w:val="right" w:leader="dot" w:pos="9345"/></w:tabs><w:ind w:firstLine="0"/><w:rPr><w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi"/><w:noProof/><w:kern w:val="2"/><w:sz w:val="24"/><w14:ligatures w14:val="standardContextual"/></w:rPr></w:pPr><w:hyperlink w:anchor="_Toc227677314" w:history="1"><w:r w:rsidRPr="00C06FB7"><w:rPr><w:rStyle w:val="Hyperlink"/><w:noProof/></w:rPr><w:t>Hình 16. Lưu đồ dòng dữ liệu (DFD cấp 0)</w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:fldChar w:fldCharType="begin"/></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:instrText xml:space="preserve"> PAGEREF _Toc227677314 \h </w:instrText></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:fldChar w:fldCharType="separate"/></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:t>39
+<w:tab w:val="right" w:leader="dot" w:pos="9345"/></w:tabs><w:ind w:firstLine="0"/><w:rPr><w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi"/><w:noProof/><w:kern w:val="2"/><w:sz w:val="24"/><w14:ligatures w14:val="standardContextual"/></w:rPr></w:pPr><w:hyperlink w:anchor="_Toc227677315" w:history="1"><w:r w:rsidRPr="00C06FB7"><w:rPr><w:rStyle w:val="Hyperlink"/><w:noProof/></w:rPr><w:t>Hình 17. Giao diện tìm kiếm bài hát</w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:fldChar w:fldCharType="begin"/></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:instrText xml:space="preserve"> PAGEREF _Toc227677315 \h </w:instrText></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:fldChar w:fldCharType="separate"/></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:t>43
+<w:tab w:val="right" w:leader="dot" w:pos="9345"/></w:tabs><w:ind w:firstLine="0"/><w:rPr><w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi"/><w:noProof/><w:kern w:val="2"/><w:sz w:val="24"/><w14:ligatures w14:val="standardContextual"/></w:rPr></w:pPr><w:hyperlink w:anchor="_Toc227677316" w:history="1"><w:r w:rsidRPr="00C06FB7"><w:rPr><w:rStyle w:val="Hyperlink"/><w:noProof/></w:rPr><w:t>Hình 18. Giao diện tìm kiếm bài hát khi nhập từ khóa</w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:fldChar w:fldCharType="begin"/></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:instrText xml:space="preserve"> PAGEREF _Toc227677316 \h </w:instrText></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:fldChar w:fldCharType="separate"/></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:t>44
+<w:tab w:val="right" w:leader="dot" w:pos="9345"/></w:tabs><w:ind w:firstLine="0"/><w:rPr><w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi"/><w:noProof/><w:kern w:val="2"/><w:sz w:val="24"/><w14:ligatures w14:val="standardContextual"/></w:rPr></w:pPr><w:hyperlink w:anchor="_Toc227677317" w:history="1"><w:r w:rsidRPr="00C06FB7"><w:rPr><w:rStyle w:val="Hyperlink"/><w:noProof/></w:rPr><w:t>Hình 19. Kết quả kiểm thử tìm kiếm bài hát</w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:fldChar w:fldCharType="begin"/></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:instrText xml:space="preserve"> PAGEREF _Toc227677317 \h </w:instrText></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:fldChar w:fldCharType="separate"/></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:t>44
+<w:tab w:val="right" w:leader="dot" w:pos="9345"/></w:tabs><w:ind w:firstLine="0"/><w:rPr><w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi"/><w:noProof/><w:kern w:val="2"/><w:sz w:val="24"/><w14:ligatures w14:val="standardContextual"/></w:rPr></w:pPr><w:hyperlink w:anchor="_Toc227677318" w:history="1"><w:r w:rsidRPr="00C06FB7"><w:rPr><w:rStyle w:val="Hyperlink"/><w:noProof/></w:rPr><w:t>Hình 20. Giao diện xem chi tiết bài hát</w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:fldChar w:fldCharType="begin"/></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:instrText xml:space="preserve"> PAGEREF _Toc227677318 \h </w:instrText></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:fldChar w:fldCharType="separate"/></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:t>46
+<w:tab w:val="right" w:leader="dot" w:pos="9345"/></w:tabs><w:ind w:firstLine="0"/><w:rPr><w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi"/><w:noProof/><w:kern w:val="2"/><w:sz w:val="24"/><w14:ligatures w14:val="standardContextual"/></w:rPr></w:pPr><w:hyperlink w:anchor="_Toc227677319" w:history="1"><w:r w:rsidRPr="00C06FB7"><w:rPr><w:rStyle w:val="Hyperlink"/><w:noProof/></w:rPr><w:t>Hình 21. Giao diện thực hiện chức năng bình luận và thêm vào playlist</w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:fldChar w:fldCharType="begin"/></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:instrText xml:space="preserve"> PAGEREF _Toc227677319 \h </w:instrText></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:fldChar w:fldCharType="separate"/></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:t>47
+<w:tab w:val="right" w:leader="dot" w:pos="9345"/></w:tabs><w:ind w:firstLine="0"/><w:rPr><w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi"/><w:noProof/><w:kern w:val="2"/><w:sz w:val="24"/><w14:ligatures w14:val="standardContextual"/></w:rPr></w:pPr><w:hyperlink w:anchor="_Toc227677320" w:history="1"><w:r w:rsidRPr="00C06FB7"><w:rPr><w:rStyle w:val="Hyperlink"/><w:noProof/></w:rPr><w:t>Hình 22. Giao diện phân tích lại ý nghĩa bài hát bằng AI</w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:fldChar w:fldCharType="begin"/></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:instrText xml:space="preserve"> PAGEREF _Toc227677320 \h </w:instrText></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:fldChar w:fldCharType="separate"/></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:t>48
+<w:tab w:val="right" w:leader="dot" w:pos="9345"/></w:tabs><w:ind w:firstLine="0"/><w:rPr><w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi"/><w:noProof/><w:kern w:val="2"/><w:sz w:val="24"/><w14:ligatures w14:val="standardContextual"/></w:rPr></w:pPr><w:hyperlink w:anchor="_Toc227677321" w:history="1"><w:r w:rsidRPr="00C06FB7"><w:rPr><w:rStyle w:val="Hyperlink"/><w:noProof/></w:rPr><w:t>Hình 23. Giao diện khi nhấn phân tích lại</w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:fldChar w:fldCharType="begin"/></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:instrText xml:space="preserve"> PAGEREF _Toc227677321 \h </w:instrText></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:fldChar w:fldCharType="separate"/></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:t>49
+<w:tab w:val="right" w:leader="dot" w:pos="9345"/></w:tabs><w:ind w:firstLine="0"/><w:rPr><w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi"/><w:noProof/><w:kern w:val="2"/><w:sz w:val="24"/><w14:ligatures w14:val="standardContextual"/></w:rPr></w:pPr><w:hyperlink w:anchor="_Toc227677322" w:history="1"><w:r w:rsidRPr="00C06FB7"><w:rPr><w:rStyle w:val="Hyperlink"/><w:noProof/></w:rPr><w:t>Hình 24. Kết quả kiểm thử phân tích lại ý nghĩa bằng AI</w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:fldChar w:fldCharType="begin"/></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:instrText xml:space="preserve"> PAGEREF _Toc227677322 \h </w:instrText></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:fldChar w:fldCharType="separate"/></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:t>50
+<w:tab w:val="right" w:leader="dot" w:pos="9345"/></w:tabs><w:ind w:firstLine="0"/><w:rPr><w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi"/><w:noProof/><w:kern w:val="2"/><w:sz w:val="24"/><w14:ligatures w14:val="standardContextual"/></w:rPr></w:pPr><w:hyperlink w:anchor="_Toc227677323" w:history="1"><w:r w:rsidRPr="00C06FB7"><w:rPr><w:rStyle w:val="Hyperlink"/><w:noProof/></w:rPr><w:t>Hình 25. Giao diện xem và làm mới bài hát gợi ý</w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:fldChar w:fldCharType="begin"/></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:instrText xml:space="preserve"> PAGEREF _Toc227677323 \h </w:instrText></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:fldChar w:fldCharType="separate"/></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:t>51
+<w:tab w:val="right" w:leader="dot" w:pos="9345"/></w:tabs><w:ind w:firstLine="0"/><w:rPr><w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi"/><w:noProof/><w:kern w:val="2"/><w:sz w:val="24"/><w14:ligatures w14:val="standardContextual"/></w:rPr></w:pPr><w:hyperlink w:anchor="_Toc227677324" w:history="1"><w:r w:rsidRPr="00C06FB7"><w:rPr><w:rStyle w:val="Hyperlink"/><w:noProof/></w:rPr><w:t>Hình 26. Giao diện làm mới danh sách bài hát gợi ý</w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:fldChar w:fldCharType="begin"/></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:instrText xml:space="preserve"> PAGEREF _Toc227677324 \h </w:instrText></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:fldChar w:fldCharType="separate"/></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:t>53
+<w:tab w:val="right" w:leader="dot" w:pos="9345"/></w:tabs><w:ind w:firstLine="0"/><w:rPr><w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi"/><w:noProof/><w:kern w:val="2"/><w:sz w:val="24"/><w14:ligatures w14:val="standardContextual"/></w:rPr></w:pPr><w:hyperlink w:anchor="_Toc227677325" w:history="1"><w:r w:rsidRPr="00C06FB7"><w:rPr><w:rStyle w:val="Hyperlink"/><w:noProof/></w:rPr><w:t>Hình 27. Kết quả kiểm thử làm mới danh sách gợi ý bài hát</w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:fldChar w:fldCharType="begin"/></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:instrText xml:space="preserve"> PAGEREF _Toc227677325 \h </w:instrText></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:fldChar w:fldCharType="separate"/></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:t>54
+<w:tab w:val="right" w:leader="dot" w:pos="9345"/></w:tabs><w:ind w:firstLine="0"/><w:rPr><w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi"/><w:noProof/><w:kern w:val="2"/><w:sz w:val="24"/><w14:ligatures w14:val="standardContextual"/></w:rPr></w:pPr><w:hyperlink w:anchor="_Toc227677326" w:history="1"><w:r w:rsidRPr="00C06FB7"><w:rPr><w:rStyle w:val="Hyperlink"/><w:noProof/></w:rPr><w:t>Hình 28. Giao diện theo dõi nghệ sĩ</w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:fldChar w:fldCharType="begin"/></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:instrText xml:space="preserve"> PAGEREF _Toc227677326 \h </w:instrText></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:fldChar w:fldCharType="separate"/></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:t>55
+<w:tab w:val="right" w:leader="dot" w:pos="9345"/></w:tabs><w:ind w:firstLine="0"/><w:rPr><w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi"/><w:noProof/><w:kern w:val="2"/><w:sz w:val="24"/><w14:ligatures w14:val="standardContextual"/></w:rPr></w:pPr><w:hyperlink w:anchor="_Toc227677327" w:history="1"><w:r w:rsidRPr="00C06FB7"><w:rPr><w:rStyle w:val="Hyperlink"/><w:noProof/></w:rPr><w:t>Hình 29. Giao diện thêm tin tức về nghệ sĩ được theo dõi</w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:fldChar w:fldCharType="begin"/></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:instrText xml:space="preserve"> PAGEREF _Toc227677327 \h </w:instrText></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:fldChar w:fldCharType="separate"/></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:t>56
+<w:tab w:val="right" w:leader="dot" w:pos="9345"/></w:tabs><w:ind w:firstLine="0"/><w:rPr><w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi"/><w:noProof/><w:kern w:val="2"/><w:sz w:val="24"/><w14:ligatures w14:val="standardContextual"/></w:rPr></w:pPr><w:hyperlink w:anchor="_Toc227677328" w:history="1"><w:r w:rsidRPr="00C06FB7"><w:rPr><w:rStyle w:val="Hyperlink"/><w:noProof/></w:rPr><w:t>Hình 30. Giao diện xuất hiện thông báo khi tin tức được thêm</w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:fldChar w:fldCharType="begin"/></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:instrText xml:space="preserve"> PAGEREF _Toc227677328 \h </w:instrText></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:fldChar w:fldCharType="separate"/></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:t>56
+<w:tab w:val="right" w:leader="dot" w:pos="9345"/></w:tabs><w:ind w:firstLine="0"/><w:rPr><w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi"/><w:noProof/><w:kern w:val="2"/><w:sz w:val="24"/><w14:ligatures w14:val="standardContextual"/></w:rPr></w:pPr><w:hyperlink w:anchor="_Toc227677329" w:history="1"><w:r w:rsidRPr="00C06FB7"><w:rPr><w:rStyle w:val="Hyperlink"/><w:noProof/></w:rPr><w:t>Hình 31. Kết quả kiểm thử xem thông báo và đánh dấu đã đọc</w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:fldChar w:fldCharType="begin"/></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:instrText xml:space="preserve"> PAGEREF _Toc227677329 \h </w:instrText></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:fldChar w:fldCharType="separate"/></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:t>57
+<w:tab w:val="right" w:leader="dot" w:pos="9345"/></w:tabs><w:ind w:firstLine="0"/><w:rPr><w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi"/><w:noProof/><w:kern w:val="2"/><w:sz w:val="24"/><w14:ligatures w14:val="standardContextual"/></w:rPr></w:pPr><w:hyperlink w:anchor="_Toc227677330" w:history="1"><w:r w:rsidRPr="00C06FB7"><w:rPr><w:rStyle w:val="Hyperlink"/><w:noProof/></w:rPr><w:t>Hình 32. Giao diện xem recap cá nhân theo tháng</w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:fldChar w:fldCharType="begin"/></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:instrText xml:space="preserve"> PAGEREF _Toc227677330 \h </w:instrText></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:fldChar w:fldCharType="separate"/></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:t>57
+<w:tab w:val="right" w:leader="dot" w:pos="9345"/></w:tabs><w:ind w:firstLine="0"/><w:rPr><w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi"/><w:noProof/><w:kern w:val="2"/><w:sz w:val="24"/><w14:ligatures w14:val="standardContextual"/></w:rPr></w:pPr><w:hyperlink w:anchor="_Toc227677331" w:history="1"><w:r w:rsidRPr="00C06FB7"><w:rPr><w:rStyle w:val="Hyperlink"/><w:noProof/></w:rPr><w:t>Hình 33. Kết quả kiểm thử xem recap cá nhân theo tháng</w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:fldChar w:fldCharType="begin"/></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:instrText xml:space="preserve"> PAGEREF _Toc227677331 \h </w:instrText></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:fldChar w:fldCharType="separate"/></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:t>59
+<w:tab w:val="right" w:leader="dot" w:pos="9345"/></w:tabs><w:ind w:firstLine="0"/><w:rPr><w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi"/><w:noProof/><w:kern w:val="2"/><w:sz w:val="24"/><w14:ligatures w14:val="standardContextual"/></w:rPr></w:pPr><w:hyperlink w:anchor="_Toc227677332" w:history="1"><w:r w:rsidRPr="00C06FB7"><w:rPr><w:rStyle w:val="Hyperlink"/><w:noProof/></w:rPr><w:t>Hình 34. Giao diện xem phân tích cá nhân hóa theo gu âm nhạc</w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:fldChar w:fldCharType="begin"/></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:instrText xml:space="preserve"> PAGEREF _Toc227677332 \h </w:instrText></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:fldChar w:fldCharType="separate"/></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:t>59
+<w:tab w:val="right" w:leader="dot" w:pos="9345"/></w:tabs><w:ind w:firstLine="0"/><w:rPr><w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi"/><w:noProof/><w:kern w:val="2"/><w:sz w:val="24"/><w14:ligatures w14:val="standardContextual"/></w:rPr></w:pPr><w:hyperlink w:anchor="_Toc227677333" w:history="1"><w:r w:rsidRPr="00C06FB7"><w:rPr><w:rStyle w:val="Hyperlink"/><w:noProof/></w:rPr><w:t>Hình 35. Giao diện phân tích gu âm nhạc</w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:fldChar w:fldCharType="begin"/></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:instrText xml:space="preserve"> PAGEREF _Toc227677333 \h </w:instrText></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:fldChar w:fldCharType="separate"/></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:t>61
+<w:tab w:val="right" w:leader="dot" w:pos="9345"/></w:tabs><w:ind w:firstLine="0"/><w:rPr><w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi"/><w:noProof/><w:kern w:val="2"/><w:sz w:val="24"/><w14:ligatures w14:val="standardContextual"/></w:rPr></w:pPr><w:hyperlink w:anchor="_Toc227677334" w:history="1"><w:r w:rsidRPr="00C06FB7"><w:rPr><w:rStyle w:val="Hyperlink"/><w:noProof/></w:rPr><w:t>Hình 36. Kết quả kiểm thử đưa ra gợi ý dựa vào phân tích</w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:fldChar w:fldCharType="begin"/></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:instrText xml:space="preserve"> PAGEREF _Toc227677334 \h </w:instrText></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:fldChar w:fldCharType="separate"/></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:t>62
+<w:tab w:val="right" w:leader="dot" w:pos="9345"/></w:tabs><w:ind w:firstLine="0"/><w:rPr><w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi"/><w:noProof/><w:kern w:val="2"/><w:sz w:val="24"/><w14:ligatures w14:val="standardContextual"/></w:rPr></w:pPr><w:hyperlink w:anchor="_Toc227677335" w:history="1"><w:r w:rsidRPr="00C06FB7"><w:rPr><w:rStyle w:val="Hyperlink"/><w:noProof/></w:rPr><w:t>Hình 37. Giao diện xem chi tiết album để yêu thích và đánh giá</w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:fldChar w:fldCharType="begin"/></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:instrText xml:space="preserve"> PAGEREF _Toc227677335 \h </w:instrText></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:fldChar w:fldCharType="separate"/></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:t>63
+<w:tab w:val="right" w:leader="dot" w:pos="9345"/></w:tabs><w:ind w:firstLine="0"/><w:rPr><w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi"/><w:noProof/><w:kern w:val="2"/><w:sz w:val="24"/><w14:ligatures w14:val="standardContextual"/></w:rPr></w:pPr><w:hyperlink w:anchor="_Toc227677336" w:history="1"><w:r w:rsidRPr="00C06FB7"><w:rPr><w:rStyle w:val="Hyperlink"/><w:noProof/></w:rPr><w:t>Hình 38. Giao diện yêu thích album</w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:fldChar w:fldCharType="begin"/></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:instrText xml:space="preserve"> PAGEREF _Toc227677336 \h </w:instrText></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:fldChar w:fldCharType="separate"/></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:t>64
+<w:tab w:val="right" w:leader="dot" w:pos="9345"/></w:tabs><w:ind w:firstLine="0"/><w:rPr><w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi"/><w:noProof/><w:kern w:val="2"/><w:sz w:val="24"/><w14:ligatures w14:val="standardContextual"/></w:rPr></w:pPr><w:hyperlink w:anchor="_Toc227677337" w:history="1"><w:r w:rsidRPr="00C06FB7"><w:rPr><w:rStyle w:val="Hyperlink"/><w:noProof/></w:rPr><w:t>Hình 39. Kết quả kiểm thử yêu thích album</w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:fldChar w:fldCharType="begin"/></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:instrText xml:space="preserve"> PAGEREF _Toc227677337 \h </w:instrText></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:fldChar w:fldCharType="separate"/></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:t>64
+<w:tab w:val="right" w:leader="dot" w:pos="9345"/></w:tabs><w:ind w:firstLine="0"/><w:rPr><w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi"/><w:noProof/><w:kern w:val="2"/><w:sz w:val="24"/><w14:ligatures w14:val="standardContextual"/></w:rPr></w:pPr><w:hyperlink w:anchor="_Toc227677338" w:history="1"><w:r w:rsidRPr="00C06FB7"><w:rPr><w:rStyle w:val="Hyperlink"/><w:noProof/></w:rPr><w:t>Hình 40. Giao diện đánh giá album</w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:fldChar w:fldCharType="begin"/></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:instrText xml:space="preserve"> PAGEREF _Toc227677338 \h </w:instrText></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:fldChar w:fldCharType="separate"/></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:t>65
+<w:tab w:val="right" w:leader="dot" w:pos="9345"/></w:tabs><w:ind w:firstLine="0"/><w:rPr><w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi"/><w:noProof/><w:kern w:val="2"/><w:sz w:val="24"/><w14:ligatures w14:val="standardContextual"/></w:rPr></w:pPr><w:hyperlink w:anchor="_Toc227677339" w:history="1"><w:r w:rsidRPr="00C06FB7"><w:rPr><w:rStyle w:val="Hyperlink"/><w:noProof/></w:rPr><w:t>Hình 41. Kết quả kiểm thử đánh giá album</w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:fldChar w:fldCharType="begin"/></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:instrText xml:space="preserve"> PAGEREF _Toc227677339 \h </w:instrText></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:fldChar w:fldCharType="separate"/></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:t>66
+<w:tab w:val="right" w:leader="dot" w:pos="9345"/></w:tabs><w:ind w:firstLine="0"/><w:rPr><w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi"/><w:noProof/><w:kern w:val="2"/><w:sz w:val="24"/><w14:ligatures w14:val="standardContextual"/></w:rPr></w:pPr><w:hyperlink w:anchor="_Toc227677340" w:history="1"><w:r w:rsidRPr="00C06FB7"><w:rPr><w:rStyle w:val="Hyperlink"/><w:noProof/></w:rPr><w:t>Hình 42. Giao diện bình luận bài hát</w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:fldChar w:fldCharType="begin"/></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:instrText xml:space="preserve"> PAGEREF _Toc227677340 \h </w:instrText></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:fldChar w:fldCharType="separate"/></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:t>67
+<w:tab w:val="right" w:leader="dot" w:pos="9345"/></w:tabs><w:ind w:firstLine="0"/><w:rPr><w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi"/><w:noProof/><w:kern w:val="2"/><w:sz w:val="24"/><w14:ligatures w14:val="standardContextual"/></w:rPr></w:pPr><w:hyperlink w:anchor="_Toc227677341" w:history="1"><w:r w:rsidRPr="00C06FB7"><w:rPr><w:rStyle w:val="Hyperlink"/><w:noProof/></w:rPr><w:t>Hình 43. Kết quả kiểm thử nhập bình luận bài hát</w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:fldChar w:fldCharType="begin"/></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:instrText xml:space="preserve"> PAGEREF _Toc227677341 \h </w:instrText></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:fldChar w:fldCharType="separate"/></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:t>67
+<w:tab w:val="right" w:leader="dot" w:pos="9345"/></w:tabs><w:ind w:firstLine="0"/><w:rPr><w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi"/><w:noProof/><w:kern w:val="2"/><w:sz w:val="24"/><w14:ligatures w14:val="standardContextual"/></w:rPr></w:pPr><w:hyperlink w:anchor="_Toc227677342" w:history="1"><w:r w:rsidRPr="00C06FB7"><w:rPr><w:rStyle w:val="Hyperlink"/><w:noProof/></w:rPr><w:t>Hình 44. Kết quả kiểm thử yêu thích bình luận</w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:fldChar w:fldCharType="begin"/></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:instrText xml:space="preserve"> PAGEREF _Toc227677342 \h </w:instrText></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:fldChar w:fldCharType="separate"/></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:t>68
+<w:tab w:val="right" w:leader="dot" w:pos="9345"/></w:tabs><w:ind w:firstLine="0"/><w:rPr><w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi"/><w:noProof/><w:kern w:val="2"/><w:sz w:val="24"/><w14:ligatures w14:val="standardContextual"/></w:rPr></w:pPr><w:hyperlink w:anchor="_Toc227677343" w:history="1"><w:r w:rsidRPr="00C06FB7"><w:rPr><w:rStyle w:val="Hyperlink"/><w:noProof/></w:rPr><w:t>Hình 45. Kết quả kiểm thử phản hồi bình luận</w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:fldChar w:fldCharType="begin"/></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:instrText xml:space="preserve"> PAGEREF _Toc227677343 \h </w:instrText></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:fldChar w:fldCharType="separate"/></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:t>68
+<w:tab w:val="right" w:leader="dot" w:pos="9345"/></w:tabs><w:ind w:firstLine="0"/><w:rPr><w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi"/><w:noProof/><w:kern w:val="2"/><w:sz w:val="24"/><w14:ligatures w14:val="standardContextual"/></w:rPr></w:pPr><w:hyperlink w:anchor="_Toc227677344" w:history="1"><w:r w:rsidRPr="00C06FB7"><w:rPr><w:rStyle w:val="Hyperlink"/><w:noProof/></w:rPr><w:t>Hình 46. Giao diện quản lý lịch sử tìm kiếm phía admin</w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:fldChar w:fldCharType="begin"/></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:instrText xml:space="preserve"> PAGEREF _Toc227677344 \h </w:instrText></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:fldChar w:fldCharType="separate"/></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:t>69
+<w:tab w:val="right" w:leader="dot" w:pos="9345"/></w:tabs><w:ind w:firstLine="0"/><w:rPr><w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi"/><w:noProof/><w:kern w:val="2"/><w:sz w:val="24"/><w14:ligatures w14:val="standardContextual"/></w:rPr></w:pPr><w:hyperlink w:anchor="_Toc227677345" w:history="1"><w:r w:rsidRPr="00C06FB7"><w:rPr><w:rStyle w:val="Hyperlink"/><w:noProof/></w:rPr><w:t>Hình 47. Kết quả lọc dữ liệu lịch sử tìm kiếm theo yêu cầu</w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:fldChar w:fldCharType="begin"/></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:instrText xml:space="preserve"> PAGEREF _Toc227677345 \h </w:instrText></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:fldChar w:fldCharType="separate"/></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:t>70
+<w:tab w:val="right" w:leader="dot" w:pos="9345"/></w:tabs><w:ind w:firstLine="0"/><w:rPr><w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi"/><w:noProof/><w:kern w:val="2"/><w:sz w:val="24"/><w14:ligatures w14:val="standardContextual"/></w:rPr></w:pPr><w:hyperlink w:anchor="_Toc227677346" w:history="1"><w:r w:rsidRPr="00C06FB7"><w:rPr><w:rStyle w:val="Hyperlink"/><w:noProof/></w:rPr><w:t>Hình 48. Tiến hành xuất file báo cáo CSV dựa vào kết quả lọc lịch sử tìm kiếm</w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:fldChar w:fldCharType="begin"/></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:instrText xml:space="preserve"> PAGEREF _Toc227677346 \h </w:instrText></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:fldChar w:fldCharType="separate"/></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:t>71
+<w:tab w:val="right" w:leader="dot" w:pos="9345"/></w:tabs><w:ind w:firstLine="0"/><w:rPr><w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi"/><w:noProof/><w:kern w:val="2"/><w:sz w:val="24"/><w14:ligatures w14:val="standardContextual"/></w:rPr></w:pPr><w:hyperlink w:anchor="_Toc227677347" w:history="1"><w:r w:rsidRPr="00C06FB7"><w:rPr><w:rStyle w:val="Hyperlink"/><w:noProof/></w:rPr><w:t>Hình 49. Kết quả kiểm thử xuất file CSV sau khi lọc lịch sử tìm kiếm</w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:fldChar w:fldCharType="begin"/></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:instrText xml:space="preserve"> PAGEREF _Toc227677347 \h </w:instrText></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:fldChar w:fldCharType="separate"/></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:t>72
+DANH MỤC BẢNG
+<w:tab w:val="right" w:leader="dot" w:pos="9345"/></w:tabs><w:ind w:firstLine="0"/><w:rPr><w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi"/><w:noProof/><w:kern w:val="2"/><w:sz w:val="24"/><w14:ligatures w14:val="standardContextual"/></w:rPr></w:pPr><w:r><w:rPr><w:b/><w:bCs/><w:sz w:val="28"/><w:szCs w:val="26"/></w:rPr><w:fldChar w:fldCharType="begin"/></w:r><w:r><w:rPr><w:b/><w:bCs/><w:sz w:val="28"/><w:szCs w:val="26"/></w:rPr><w:instrText xml:space="preserve"> TOC \h \z \c "Bảng" </w:instrText></w:r><w:r><w:rPr><w:b/><w:bCs/><w:sz w:val="28"/><w:szCs w:val="26"/></w:rPr><w:fldChar w:fldCharType="separate"/></w:r><w:hyperlink w:anchor="_Toc227677348" w:history="1"><w:r w:rsidR="00275AFC" w:rsidRPr="00000A30"><w:rPr><w:rStyle w:val="Hyperlink"/><w:noProof/></w:rPr><w:t>Bảng 1. Bảng NGHE_SI</w:r><w:r w:rsidR="00275AFC"><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:fldChar w:fldCharType="begin"/></w:r><w:r w:rsidR="00275AFC"><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:instrText xml:space="preserve"> PAGEREF _Toc227677348 \h </w:instrText></w:r><w:r w:rsidR="00275AFC"><w:rPr><w:noProof/><w:webHidden/></w:rPr></w:r><w:r w:rsidR="00275AFC"><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:fldChar w:fldCharType="separate"/></w:r><w:r w:rsidR="00275AFC"><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:t>29
+<w:tab w:val="right" w:leader="dot" w:pos="9345"/></w:tabs><w:ind w:firstLine="0"/><w:rPr><w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi"/><w:noProof/><w:kern w:val="2"/><w:sz w:val="24"/><w14:ligatures w14:val="standardContextual"/></w:rPr></w:pPr><w:hyperlink w:anchor="_Toc227677349" w:history="1"><w:r w:rsidRPr="00000A30"><w:rPr><w:rStyle w:val="Hyperlink"/><w:noProof/></w:rPr><w:t>Bảng 2. Bảng TIN_TUC</w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:fldChar w:fldCharType="begin"/></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:instrText xml:space="preserve"> PAGEREF _Toc227677349 \h </w:instrText></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:fldChar w:fldCharType="separate"/></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:t>30
+<w:tab w:val="right" w:leader="dot" w:pos="9345"/></w:tabs><w:ind w:firstLine="0"/><w:rPr><w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi"/><w:noProof/><w:kern w:val="2"/><w:sz w:val="24"/><w14:ligatures w14:val="standardContextual"/></w:rPr></w:pPr><w:hyperlink w:anchor="_Toc227677350" w:history="1"><w:r w:rsidRPr="00000A30"><w:rPr><w:rStyle w:val="Hyperlink"/><w:noProof/></w:rPr><w:t>Bảng 3. Bảng ALBUM</w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:fldChar w:fldCharType="begin"/></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:instrText xml:space="preserve"> PAGEREF _Toc227677350 \h </w:instrText></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:fldChar w:fldCharType="separate"/></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:t>31
+<w:tab w:val="right" w:leader="dot" w:pos="9345"/></w:tabs><w:ind w:firstLine="0"/><w:rPr><w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi"/><w:noProof/><w:kern w:val="2"/><w:sz w:val="24"/><w14:ligatures w14:val="standardContextual"/></w:rPr></w:pPr><w:hyperlink w:anchor="_Toc227677351" w:history="1"><w:r w:rsidRPr="00000A30"><w:rPr><w:rStyle w:val="Hyperlink"/><w:noProof/></w:rPr><w:t>Bảng 4. Bảng THE_LOAI</w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:fldChar w:fldCharType="begin"/></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:instrText xml:space="preserve"> PAGEREF _Toc227677351 \h </w:instrText></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:fldChar w:fldCharType="separate"/></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:t>31
+<w:tab w:val="right" w:leader="dot" w:pos="9345"/></w:tabs><w:ind w:firstLine="0"/><w:rPr><w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi"/><w:noProof/><w:kern w:val="2"/><w:sz w:val="24"/><w14:ligatures w14:val="standardContextual"/></w:rPr></w:pPr><w:hyperlink w:anchor="_Toc227677352" w:history="1"><w:r w:rsidRPr="00000A30"><w:rPr><w:rStyle w:val="Hyperlink"/><w:noProof/></w:rPr><w:t>Bảng 5. Bảng BAI_HAT</w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:fldChar w:fldCharType="begin"/></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:instrText xml:space="preserve"> PAGEREF _Toc227677352 \h </w:instrText></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:fldChar w:fldCharType="separate"/></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:t>32
+<w:tab w:val="right" w:leader="dot" w:pos="9345"/></w:tabs><w:ind w:firstLine="0"/><w:rPr><w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi"/><w:noProof/><w:kern w:val="2"/><w:sz w:val="24"/><w14:ligatures w14:val="standardContextual"/></w:rPr></w:pPr><w:hyperlink w:anchor="_Toc227677353" w:history="1"><w:r w:rsidRPr="00000A30"><w:rPr><w:rStyle w:val="Hyperlink"/><w:noProof/></w:rPr><w:t>Bảng 6. Bảng NGUOI_DUNG</w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:fldChar w:fldCharType="begin"/></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:instrText xml:space="preserve"> PAGEREF _Toc227677353 \h </w:instrText></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:fldChar w:fldCharType="separate"/></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:t>33
+<w:tab w:val="right" w:leader="dot" w:pos="9345"/></w:tabs><w:ind w:firstLine="0"/><w:rPr><w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi"/><w:noProof/><w:kern w:val="2"/><w:sz w:val="24"/><w14:ligatures w14:val="standardContextual"/></w:rPr></w:pPr><w:hyperlink w:anchor="_Toc227677354" w:history="1"><w:r w:rsidRPr="00000A30"><w:rPr><w:rStyle w:val="Hyperlink"/><w:noProof/></w:rPr><w:t>Bảng 7. Bảng NHAN_XET</w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:fldChar w:fldCharType="begin"/></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:instrText xml:space="preserve"> PAGEREF _Toc227677354 \h </w:instrText></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:fldChar w:fldCharType="separate"/></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:t>34
+<w:tab w:val="right" w:leader="dot" w:pos="9345"/></w:tabs><w:ind w:firstLine="0"/><w:rPr><w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi"/><w:noProof/><w:kern w:val="2"/><w:sz w:val="24"/><w14:ligatures w14:val="standardContextual"/></w:rPr></w:pPr><w:hyperlink w:anchor="_Toc227677355" w:history="1"><w:r w:rsidRPr="00000A30"><w:rPr><w:rStyle w:val="Hyperlink"/><w:noProof/></w:rPr><w:t>Bảng 8. Bảng LICH_SU_TIM_KIEM</w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:fldChar w:fldCharType="begin"/></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:instrText xml:space="preserve"> PAGEREF _Toc227677355 \h </w:instrText></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:fldChar w:fldCharType="separate"/></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:t>35
+<w:tab w:val="right" w:leader="dot" w:pos="9345"/></w:tabs><w:ind w:firstLine="0"/><w:rPr><w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi"/><w:noProof/><w:kern w:val="2"/><w:sz w:val="24"/><w14:ligatures w14:val="standardContextual"/></w:rPr></w:pPr><w:hyperlink w:anchor="_Toc227677356" w:history="1"><w:r w:rsidRPr="00000A30"><w:rPr><w:rStyle w:val="Hyperlink"/><w:noProof/></w:rPr><w:t>Bảng 9. Bảng THONG_BAO</w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:fldChar w:fldCharType="begin"/></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:instrText xml:space="preserve"> PAGEREF _Toc227677356 \h </w:instrText></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:fldChar w:fldCharType="separate"/></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:t>36
+<w:tab w:val="right" w:leader="dot" w:pos="9345"/></w:tabs><w:ind w:firstLine="0"/><w:rPr><w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi"/><w:noProof/><w:kern w:val="2"/><w:sz w:val="24"/><w14:ligatures w14:val="standardContextual"/></w:rPr></w:pPr><w:hyperlink w:anchor="_Toc227677357" w:history="1"><w:r w:rsidRPr="00000A30"><w:rPr><w:rStyle w:val="Hyperlink"/><w:noProof/></w:rPr><w:t>Bảng 10. Bảng THEO_DOI</w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:fldChar w:fldCharType="begin"/></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:instrText xml:space="preserve"> PAGEREF _Toc227677357 \h </w:instrText></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:fldChar w:fldCharType="separate"/></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:t>37
+<w:tab w:val="right" w:leader="dot" w:pos="9345"/></w:tabs><w:ind w:firstLine="0"/><w:rPr><w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi"/><w:noProof/><w:kern w:val="2"/><w:sz w:val="24"/><w14:ligatures w14:val="standardContextual"/></w:rPr></w:pPr><w:hyperlink w:anchor="_Toc227677358" w:history="1"><w:r w:rsidRPr="00000A30"><w:rPr><w:rStyle w:val="Hyperlink"/><w:noProof/></w:rPr><w:t>Bảng 11. Bảng YEU_THICH</w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:fldChar w:fldCharType="begin"/></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:instrText xml:space="preserve"> PAGEREF _Toc227677358 \h </w:instrText></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:fldChar w:fldCharType="separate"/></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:t>37
+<w:tab w:val="right" w:leader="dot" w:pos="9345"/></w:tabs><w:ind w:firstLine="0"/><w:rPr><w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi"/><w:noProof/><w:kern w:val="2"/><w:sz w:val="24"/><w14:ligatures w14:val="standardContextual"/></w:rPr></w:pPr><w:hyperlink w:anchor="_Toc227677359" w:history="1"><w:r w:rsidRPr="00000A30"><w:rPr><w:rStyle w:val="Hyperlink"/><w:noProof/></w:rPr><w:t>Bảng 12. Ràng buộc tham chiếu</w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:fldChar w:fldCharType="begin"/></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:instrText xml:space="preserve"> PAGEREF _Toc227677359 \h </w:instrText></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:fldChar w:fldCharType="separate"/></w:r><w:r><w:rPr><w:noProof/><w:webHidden/></w:rPr><w:t>38
+DANH MỤC TỪ VIẾT TẮT
+STT
+Viết tắt
+Giải thích
+1
+API
+Giao diện lập trình ứng dụng, phương thức kết nối giữa các thành phần phần mềm.
+2
+AJAX
+Kỹ thuật gửi và nhận dữ liệu bất đồng bộ trên ứng dụng web mà không cần tải lại toàn bộ trang.
+3
+CDM
+Mô hình dữ liệu mức quan niệm.
+3
+CSDL
+Tập hợp dữ liệu có tổ chức, thường được lưu trữ và truy cập điện tử.
+4
+CSV
+Định dạng tệp dữ liệu dạng bảng, trong đó các giá trị được phân tách bằng dấu phẩy (Comma-Separated Values).
+5
+DFD
+Biểu đồ luồng dữ liệu, mô tả dòng chảy của dữ liệu trong hệ thống.
+6
+MVC
+Mô hình kiến trúc phần mềm tách biệt dữ liệu, giao diện và điều khiển.
+7
+PDM
+Mô hình dữ liệu mức vật lý
+8
+SQL
+Ngôn ngữ truy vấn mang tính cấu trúc dùng để quản lý CSDL quan hệ.
+9
+LDM
+Mô hình dữ liệu mức luận lý.
+10
+JSON
+Định dạng dữ liệu văn bản nhẹ dùng để trao đổi dữ liệu (JavaScript Object Notation).
+GIỚI THIỆU
+Đặt vấn đề
+Trong những năm gần đây, sự phát triển mạnh mẽ của công nghệ thông tin và Internet đã thúc đẩy sự bùng nổ của các nền tảng âm nhạc trực tuyến. Người dùng ngày càng có xu hướng tiếp cận âm nhạc không chỉ để giải trí mà còn để tìm hiểu sâu hơn về nội dung, ý nghĩa và bối cảnh của các tác phẩm âm nhạc. Tuy nhiên, phần lớn các hệ thống hiện nay chủ yếu tập trung vào chức năng phát nhạc trực tuyến (streaming), trong khi các nhu cầu như tra cứu lời bài hát (lyrics), phân tích ý nghĩa (meaning) và cá nhân hóa trải nghiệm người dùng vẫn chưa được khai thác một cách đầy đủ và hiệu quả.
+Bên cạnh đó, sự phát triển của trí tuệ nhân tạo (Artificial Intelligence – AI) đã mở ra nhiều hướng tiếp cận mới trong việc nâng cao trải nghiệm người dùng thông qua việc phân tích dữ liệu hành vi và hỗ trợ cá nhân hóa nội dung. Tuy nhiên, việc ứng dụng AI trong các hệ thống web truyền thống, đặc biệt là các hệ thống phục vụ mục đích tra cứu và khám phá nội dung, vẫn còn nhiều hạn chế, chủ yếu do thiếu sự kết hợp hợp lý giữa dữ liệu thực tế và các kỹ thuật xử lý thông minh.
+Xuất phát từ thực tiễn đó, đề tài “Musicalisation” được đề xuất nhằm xây dựng một hệ thống web hỗ trợ tra cứu và khám phá âm nhạc theo hướng lấy người dùng làm trung tâm. Hệ thống không chỉ cung cấp thông tin cơ bản như bài hát, nghệ sĩ, album và tin tức mà còn tập trung vào việc nâng cao trải nghiệm thông qua các chức năng như hiển thị lời bài hát, phân tích ý nghĩa, gợi ý nội dung dựa trên hành vi và xây dựng hồ sơ âm nhạc cá nhân (music persona).
+Điểm đặc biệt của hệ thống nằm ở việc kết hợp giữa mô hình quản lý nội dung truyền thống với các kỹ thuật hỗ trợ từ AI. Trong đó, dữ liệu hành vi người dùng như lịch sử tìm kiếm, theo dõi nghệ sĩ và tương tác sẽ đóng vai trò nền tảng cho việc gợi ý nội dung, trong khi AI được sử dụng như một công cụ hỗ trợ để diễn giải và nâng cao tính tự nhiên của thông tin hiển thị. Cách tiếp cận này giúp đảm bảo tính chính xác của dữ liệu, đồng thời tận dụng được ưu điểm của AI trong việc cải thiện trải nghiệm người dùng.
+Thông qua việc xây dựng hệ thống Musicalisation, đề tài hướng đến việc đề xuất một mô hình ứng dụng web trong lĩnh vực âm nhạc có khả năng tích hợp hiệu quả giữa dữ liệu thực và các kỹ thuật hỗ trợ thông minh, từ đó góp phần nâng cao chất lượng trải nghiệm tra cứu và khám phá nội dung âm nhạc trong môi trường trực tuyến.
+Các nghiên cứu liên quan
+Trong lĩnh vực ứng dụng công nghệ thông tin vào âm nhạc, nhiều hệ thống và nền tảng đã được phát triển nhằm phục vụ nhu cầu nghe nhạc, tra cứu thông tin và cá nhân hóa trải nghiệm người dùng. Các nghiên cứu và sản phẩm hiện có có thể được phân thành ba nhóm chính: hệ thống phát nhạc trực tuyến, hệ thống tra cứu nội dung âm nhạc và các hệ thống ứng dụng trí tuệ nhân tạo trong phân tích và gợi ý nội dung.
+Thứ nhất, các nền tảng phát nhạc trực tuyến (music streaming platforms) như Spotify, Apple Music hay YouTube Music đã đạt được nhiều thành công trong việc cung cấp trải nghiệm nghe nhạc tiện lợi và cá nhân hóa. Các hệ thống này sử dụng các thuật toán gợi ý dựa trên hành vi người dùng, bao gồm collaborative filtering và content-based filtering, nhằm đề xuất bài hát phù hợp. Tuy nhiên, các nền tảng này chủ yếu tập trung vào trải nghiệm nghe nhạc và quản lý danh sách phát (playlist), trong khi các chức năng liên quan đến tra cứu lời bài hát và phân tích ý nghĩa nội dung chưa được phát triển sâu hoặc không phải là trọng tâm chính.
+Thứ hai, các website tra cứu lời bài hát như Genius, AZLyrics hay Musixmatch cung cấp khả năng tìm kiếm và hiển thị lyrics cho người dùng. Một số hệ thống như Genius còn tích hợp chức năng chú thích (annotation) giúp giải thích ý nghĩa từng đoạn lời bài hát. Tuy nhiên, phần lớn các hệ thống này vẫn mang tính chất tĩnh, phụ thuộc nhiều vào nội dung do cộng đồng đóng góp và chưa tận dụng hiệu quả dữ liệu hành vi người dùng để cá nhân hóa trải nghiệm.
+Thứ ba, trong các nghiên cứu học thuật, việc ứng dụng trí tuệ nhân tạo vào lĩnh vực âm nhạc ngày càng được quan tâm. Các hướng nghiên cứu phổ biến bao gồm phân tích nội dung bài hát (lyrics analysis), phân loại thể loại (genre classification), xây dựng hệ thống gợi ý (recommendation system) và mô hình hóa sở thích người dùng. Một số nghiên cứu sử dụng các mô hình học máy và xử lý ngôn ngữ tự nhiên (Natural Language Processing – NLP) để phân tích cảm xúc, chủ đề và ý nghĩa của lời bài hát. Tuy nhiên, các nghiên cứu này thường được triển khai độc lập hoặc trong môi trường thử nghiệm, chưa được tích hợp hoàn chỉnh vào một hệ thống web phục vụ người dùng cuối.
+Đề tài Musicalisation được thực hiện nhằm kế thừa và kết hợp các hướng tiếp cận nêu trên. Hệ thống tập trung vào việc xây dựng một website tra cứu và khám phá âm nhạc, trong đó dữ liệu từ cơ sở dữ liệu đóng vai trò nền tảng, còn trí tuệ nhân tạo được sử dụng như một công cụ hỗ trợ để diễn giải nội dung và nâng cao trải nghiệm người dùng. Cách tiếp cận này không chỉ đảm bảo tính chính xác của dữ liệu mà còn tận dụng được ưu điểm của AI trong việc cải thiện tính cá nhân hóa và khả năng tương tác của hệ thống.
+Mục tiêu đề tài
+Đề tài Musicalisation được thực hiện với mục tiêu xây dựng một hệ thống web hỗ trợ tra cứu và khám phá âm nhạc theo hướng nâng cao trải nghiệm người dùng thông qua việc kết hợp giữa quản lý nội dung và cá nhân hóa.
+Trọng tâm của đề tài là phát triển một nền tảng cho phép người dùng dễ dàng tiếp cận các thông tin liên quan đến bài hát, nghệ sĩ và album, đồng thời cung cấp các chức năng hỗ trợ như hiển thị lời bài hát và nội dung phân tích ý nghĩa. Thay vì chỉ dừng lại ở việc cung cấp dữ liệu tĩnh, hệ thống hướng đến việc khai thác các hành vi tương tác của người dùng để cải thiện chất lượng nội dung hiển thị.
+Bên cạnh đó, đề tài đặt mục tiêu xây dựng một cơ chế gợi ý nội dung dựa trên dữ liệu thu thập được trong quá trình sử dụng, chẳng hạn như lịch sử tìm kiếm và các tương tác với hệ thống. Cách tiếp cận này giúp hệ thống có khả năng thích nghi với từng người dùng cụ thể, từ đó tạo ra trải nghiệm cá nhân hóa ở mức phù hợp với quy mô của đề tài.
+Một mục tiêu quan trọng khác là thử nghiệm việc tích hợp trí tuệ nhân tạo vào hệ thống web ở mức hỗ trợ. AI được sử dụng nhằm cải thiện cách diễn giải nội dung, cụ thể trong việc phân tích ý nghĩa bài hát và xây dựng hồ sơ âm nhạc của người dùng. Việc ứng dụng AI theo hướng này giúp tận dụng được lợi thế của công nghệ mà vẫn đảm bảo tính kiểm soát của hệ thống.
+Thông qua các mục tiêu trên, đề tài hướng đến việc xây dựng một hệ thống có tính ứng dụng thực tiễn, đồng thời tạo nền tảng cho các hướng nghiên cứu và phát triển sâu hơn trong lĩnh vực cá nhân hóa nội dung âm nhạc trên nền tảng web.
+Đối tượng và phạm vi đề tài
+Đối tượng nghiên cứu
+Đối tượng nghiên cứu của đề tài Musicalisation tập trung vào các thành phần và phương pháp liên quan đến việc xây dựng một hệ thống web phục vụ cho việc tra cứu và khám phá âm nhạc.
+Trước hết, đề tài quan tâm đến cách thức thiết kế và triển khai một ứng dụng web theo mô hình client–server, trong đó các chức năng được phân chia hợp lý giữa phía người dùng và phía quản trị. Việc tổ chức hệ thống theo hướng này không chỉ giúp đảm bảo khả năng vận hành ổn định mà còn tạo điều kiện thuận lợi cho việc mở rộng và bảo trì.
+Bên cạnh đó, đề tài nghiên cứu việc xây dựng và quản lý cơ sở dữ liệu nhằm lưu trữ các thông tin liên quan đến bài hát, nghệ sĩ, album và các dữ liệu phát sinh từ hành vi người dùng. Đây là yếu tố nền tảng quyết định khả năng truy xuất thông tin và hỗ trợ các chức năng nâng cao của hệ thống.
+Một nội dung quan trọng khác là việc khai thác dữ liệu hành vi người dùng. Các dữ liệu như lịch sử tìm kiếm, tương tác và mức độ quan tâm đến nội dung được xem là cơ sở để phân tích thói quen sử dụng và phục vụ cho việc cá nhân hóa trải nghiệm.
+Ngoài ra, đề tài cũng xem xét các phương pháp xây dựng hệ thống gợi ý nội dung ở mức cơ bản, phù hợp với điều kiện triển khai thực tế. Thay vì sử dụng các mô hình phức tạp, đề tài tập trung vào các cách tiếp cận đơn giản nhưng hiệu quả, tận dụng dữ liệu sẵn có trong hệ thống.
+Cuối cùng, việc ứng dụng trí tuệ nhân tạo trong xử lý ngôn ngữ tự nhiên cũng là một đối tượng nghiên cứu quan trọng. AI được sử dụng nhằm hỗ trợ diễn giải nội dung và nâng cao chất lượng thông tin hiển thị, đặc biệt trong việc phân tích ý nghĩa bài hát và mô tả đặc điểm âm nhạc của người dùng.
+Phạm vi đề tài
+Đề tài Musicalisation được thực hiện trong phạm vi xây dựng một hệ thống web phục vụ cho việc tra cứu và khám phá thông tin âm nhạc, với các chức năng được lựa chọn phù hợp với quy mô của một luận văn tốt nghiệp.
+Về mặt chức năng, hệ thống tập trung vào các nội dung cốt lõi như quản lý dữ liệu âm nhạc, hỗ trợ tìm kiếm và hiển thị thông tin bài hát, cho phép người dùng tương tác với nội dung và khai thác dữ liệu hành vi để phục vụ cho việc gợi ý. Các chức năng này được triển khai ở mức hoàn chỉnh cơ bản, đảm bảo đáp ứng được nhu cầu sử dụng thực tế trong môi trường thử nghiệm.
+Về mặt công nghệ, hệ thống được xây dựng dưới dạng một ứng dụng web sử dụng các công nghệ phổ biến như PHP, MySQL và các công cụ hỗ trợ giao diện phía người dùng. Việc triển khai được thực hiện trong môi trường cục bộ nhằm đảm bảo tính ổn định và khả năng kiểm soát trong quá trình phát triển.
+Đối với dữ liệu, hệ thống sử dụng các thông tin được lưu trữ trong cơ sở dữ liệu quan hệ, bao gồm dữ liệu nội dung và dữ liệu hành vi người dùng. Đây là nguồn dữ liệu chính phục vụ cho các chức năng tra cứu và gợi ý trong hệ thống.
+Trong phạm vi đề tài, trí tuệ nhân tạo chỉ được áp dụng ở mức hỗ trợ, chủ yếu trong việc diễn giải nội dung và nâng cao trải nghiệm người dùng. Đề tài không đi sâu vào việc xây dựng hoặc huấn luyện các mô hình AI phức tạp, cũng như không xử lý các bài toán yêu cầu dữ liệu lớn hoặc tài nguyên tính toán cao.
+Bên cạnh đó, đề tài không bao gồm các nội dung như xây dựng hệ thống phát nhạc trực tuyến, xử lý dữ liệu âm thanh thời gian thực hoặc triển khai hệ thống ở quy mô lớn trên môi trường thực tế. Việc giới hạn phạm vi như vậy nhằm đảm bảo tính khả thi và tập trung vào các mục tiêu chính của đề tài.
+Nội dung đề tài
+Để đạt được các mục tiêu đã đề ra, đề tài Musicalisation được triển khai thông qua một chuỗi các nội dung liên kết chặt chẽ với nhau, từ giai đoạn phân tích đến thiết kế và xây dựng hệ thống.
+Quá trình thực hiện bắt đầu từ việc khảo sát và phân tích yêu cầu, trong đó các nhu cầu của người dùng được xác định dựa trên thực tế sử dụng các hệ thống tra cứu âm nhạc hiện có. Việc phân tích này giúp định hình các chức năng cần thiết cũng như xác định phạm vi triển khai phù hợp.
+Trên cơ sở đó, đề tài tiến hành thiết kế tổng thể hệ thống, bao gồm kiến trúc ứng dụng và mô hình dữ liệu. Việc thiết kế được thực hiện theo hướng đảm bảo tính rõ ràng trong tổ chức, đồng thời hỗ trợ tốt cho việc mở rộng và bảo trì về sau.
+Tiếp theo, hệ thống được xây dựng và cài đặt với các chức năng chính như quản lý nội dung âm nhạc, tìm kiếm và hiển thị thông tin, cũng như hỗ trợ các tương tác cơ bản của người dùng. Trong quá trình này, các thành phần của hệ thống được phát triển đồng bộ nhằm đảm bảo khả năng hoạt động ổn định.
+Song song với việc xây dựng chức năng cơ bản, đề tài cũng triển khai các cơ chế gợi ý nội dung dựa trên dữ liệu hành vi. Dữ liệu thu thập được trong quá trình sử dụng được xử lý để hỗ trợ đề xuất các nội dung phù hợp, góp phần nâng cao trải nghiệm người dùng.
+Một nội dung quan trọng khác là việc tích hợp trí tuệ nhân tạo vào hệ thống. AI được sử dụng như một công cụ hỗ trợ trong việc phân tích và diễn giải nội dung, giúp hệ thống trở nên linh hoạt và thân thiện hơn với người dùng.
+Cuối cùng, hệ thống được kiểm thử và đánh giá trong môi trường triển khai nhằm xác định mức độ đáp ứng các mục tiêu ban đầu. Kết quả đánh giá được sử dụng làm cơ sở để rút ra nhận xét và định hướng cho các bước phát triển tiếp theo.
+Những đóng góp chính của đề tài
+Đề tài Musicalisation hướng đến việc xây dựng một hệ thống web hỗ trợ tra cứu và khám phá âm nhạc, đồng thời tạo ra một số đóng góp có ý nghĩa cả về mặt triển khai kỹ thuật lẫn giá trị ứng dụng thực tiễn.
+Trước hết, đề tài đã xây dựng được một hệ thống tương đối hoàn chỉnh phục vụ cho nhu cầu tra cứu nội dung âm nhạc trên nền tảng web. Hệ thống cho phép tổ chức và quản lý các dữ liệu liên quan đến bài hát, nghệ sĩ, album và tin tức, đồng thời hỗ trợ người dùng truy cập, tìm kiếm và khai thác thông tin theo một cách trực quan và thuận tiện. Việc phân tách rõ khu vực người dùng và khu vực quản trị cũng góp phần làm cho hệ thống có cấu trúc hợp lý, dễ vận hành và thuận lợi cho việc mở rộng về sau.
+Một đóng góp đáng chú ý khác của đề tài là khả năng khai thác dữ liệu hành vi người dùng để phục vụ cho việc cá nhân hóa trải nghiệm. Thay vì chỉ dừng lại ở việc hiển thị thông tin tĩnh, hệ thống còn lưu trữ và sử dụng các dữ liệu như lịch sử tìm kiếm, hành vi theo dõi nghệ sĩ và các tương tác liên quan nhằm hỗ trợ đề xuất nội dung phù hợp hơn với từng người dùng. Cách tiếp cận này giúp tăng giá trị sử dụng của hệ thống, đồng thời cho thấy khả năng ứng dụng dữ liệu hành vi trong các bài toán gợi ý nội dung ở quy mô thực tiễn.
+Bên cạnh đó, đề tài còn thử nghiệm việc tích hợp trí tuệ nhân tạo vào hệ thống theo hướng hỗ trợ thay vì phụ thuộc hoàn toàn vào AI. Cụ thể, AI được sử dụng trong các chức năng như phân tích ý nghĩa bài hát và xây dựng hồ sơ âm nhạc cá nhân của người dùng. Cách triển khai này cho phép tận dụng ưu điểm của AI trong việc diễn giải nội dung và làm cho thông tin trở nên tự nhiên, dễ tiếp cận hơn, trong khi dữ liệu gốc và các thành phần cốt lõi của hệ thống vẫn được kiểm soát bởi cơ sở dữ liệu và các quy tắc xử lý nội bộ.
+Ngoài giá trị kỹ thuật, đề tài còn có ý nghĩa ở phương diện ứng dụng. Musicalisation không chỉ là một website quản lý nội dung âm nhạc đơn thuần mà còn thể hiện một hướng phát triển kết hợp giữa tra cứu thông tin, tương tác người dùng và hỗ trợ cá nhân hóa trên cùng một nền tảng. Điều này góp phần tạo ra trải nghiệm sử dụng phong phú hơn so với các hệ thống chỉ tập trung vào một chức năng riêng lẻ.
+Một điểm quan trọng khác là đề tài đã tạo được nền tảng ban đầu cho các hướng phát triển tiếp theo. Với cấu trúc dữ liệu và chức năng hiện có, hệ thống có thể tiếp tục được mở rộng theo các hướng như nâng cao chất lượng gợi ý nội dung, bổ sung playlist cá nhân, xây dựng khu vực khám phá âm nhạc hoặc tích hợp sâu hơn các công nghệ AI trong tương lai. Nhờ đó, đề tài không chỉ dừng lại ở kết quả triển khai hiện tại mà còn có khả năng phát triển thành một hệ thống hoàn thiện hơn trong các giai đoạn tiếp theo.
+Nhìn chung, đóng góp của đề tài nằm ở việc xây dựng một hệ thống web âm nhạc có tính ứng dụng thực tế, đồng thời thử nghiệm một cách hợp lý việc kết hợp giữa quản lý dữ liệu truyền thống và các kỹ thuật hỗ trợ thông minh. Đây là cơ sở quan trọng để tiếp tục nghiên cứu và phát triển các ứng dụng web cá nhân hóa trong lĩnh vực âm nhạc.
+Bố cục của luận văn
+Luận văn được tổ chức thành các chương với nội dung được sắp xếp theo trình tự logic, nhằm đảm bảo quá trình trình bày từ cơ sở lý thuyết đến triển khai và đánh giá hệ thống được rõ ràng và dễ theo dõi.
+Chương 1 trình bày tổng quan về đề tài, bao gồm lý do lựa chọn đề tài, các nghiên cứu liên quan, mục tiêu, phạm vi, nội dung thực hiện và những đóng góp chính. Đây là phần định hướng chung, giúp người đọc hiểu được bối cảnh và ý nghĩa của đề tài.
+Chương 2 tập trung vào cơ sở lý thuyết và các công nghệ nền tảng được sử dụng trong quá trình thực hiện. Nội dung chương này làm rõ các khái niệm liên quan đến hệ thống web, cơ sở dữ liệu, cơ chế gợi ý nội dung và các kỹ thuật hỗ trợ từ trí tuệ nhân tạo.
+Chương 3 trình bày phân tích và thiết kế hệ thống. Trong chương này, các yêu cầu chức năng và phi chức năng được xác định, đồng thời kiến trúc hệ thống và mô hình dữ liệu cũng được xây dựng nhằm làm cơ sở cho việc triển khai.
+Chương 4 mô tả quá trình xây dựng và cài đặt hệ thống. Các chức năng chính được hiện thực hóa và minh họa thông qua giao diện và các thành phần cụ thể của hệ thống.
+Chương 5 trình bày kết quả thực nghiệm và đánh giá hệ thống. Nội dung chương này tập trung vào việc kiểm thử, phân tích mức độ đáp ứng yêu cầu và đánh giá hiệu quả của các chức năng đã triển khai.
+Cuối cùng, chương 6 đưa ra kết luận và định hướng phát triển trong tương lai. Phần này tổng kết những kết quả đạt được, đồng thời đề xuất các hướng mở rộng nhằm hoàn thiện hệ thống hơn trong các nghiên cứu tiếp theo.
+Tổng kết chương
+Chương 1 đã trình bày tổng quan về đề tài Musicalisation, qua đó làm rõ bối cảnh hình thành, ý nghĩa và định hướng phát triển của hệ thống. Các nội dung như đặt vấn đề, mục tiêu nghiên cứu, phạm vi thực hiện và những đóng góp chính đã được phân tích nhằm xác định rõ hướng tiếp cận của đề tài.
+Bên cạnh đó, việc khảo sát các nghiên cứu liên quan cũng giúp làm nổi bật khoảng trống mà đề tài hướng đến, đồng thời khẳng định tính cần thiết của việc xây dựng một hệ thống hỗ trợ tra cứu và cá nhân hóa nội dung âm nhạc trong bối cảnh hiện nay. Những nội dung được trình bày trong chương này đóng vai trò làm nền tảng cho các bước triển khai tiếp theo.
+MÔ TẢ BÀI TOÁN
+Mô tả chi tiết bài toán
+Trong bối cảnh sự phát triển mạnh mẽ của các nền tảng âm nhạc trực tuyến, nhu cầu tra cứu và tiếp cận thông tin liên quan đến bài hát, nghệ sĩ và nội dung âm nhạc ngày càng gia tăng. Người dùng không chỉ quan tâm đến việc nghe nhạc mà còn mong muốn tìm hiểu sâu hơn về lời bài hát, ý nghĩa nội dung, cũng như các thông tin liên quan đến nghệ sĩ và xu hướng âm nhạc.
+Tuy nhiên, trên thực tế, các hệ thống hiện có thường phân tán thông tin ở nhiều nguồn khác nhau. Người dùng phải thực hiện nhiều thao tác để tìm kiếm và tổng hợp dữ liệu, dẫn đến trải nghiệm chưa thực sự thuận tiện. Bên cạnh đó, phần lớn các hệ thống chỉ dừng lại ở việc cung cấp thông tin tĩnh, chưa tận dụng hiệu quả dữ liệu hành vi người dùng để cá nhân hóa nội dung hiển thị.
+Từ thực tế đó, bài toán được đặt ra trong đề tài Musicalisation là xây dựng một hệ thống web có khả năng tích hợp và quản lý tập trung các dữ liệu âm nhạc, đồng thời hỗ trợ người dùng tra cứu thông tin một cách nhanh chóng và hiệu quả. Hệ thống cần đảm bảo khả năng lưu trữ và xử lý các dữ liệu như bài hát, nghệ sĩ, album và tin tức, cũng như các dữ liệu phát sinh trong quá trình tương tác của người dùng.
+Ngoài yêu cầu về quản lý dữ liệu, bài toán còn đặt ra mục tiêu nâng cao trải nghiệm người dùng thông qua việc cá nhân hóa nội dung. Điều này đòi hỏi hệ thống phải có khả năng thu thập và phân tích các hành vi như tìm kiếm, theo dõi nghệ sĩ và tương tác với nội dung, từ đó đưa ra các đề xuất phù hợp với sở thích của từng người dùng.
+Một khía cạnh quan trọng khác của bài toán là việc tích hợp trí tuệ nhân tạo vào hệ thống nhằm hỗ trợ xử lý và diễn giải nội dung. Cụ thể, AI được sử dụng để phân tích ý nghĩa lời bài hát, giúp người dùng hiểu rõ hơn về nội dung và thông điệp của tác phẩm. Việc áp dụng AI cần được thực hiện theo hướng hỗ trợ, đảm bảo tính ổn định và khả năng kiểm soát của hệ thống.
+Từ các yêu cầu trên, bài toán của đề tài không chỉ dừng lại ở việc xây dựng một hệ thống quản lý nội dung âm nhạc, mà còn hướng đến việc phát triển một nền tảng có khả năng cá nhân hóa và hỗ trợ người dùng trong việc khám phá âm nhạc. Điều này đòi hỏi sự kết hợp giữa thiết kế hệ thống, quản lý dữ liệu và ứng dụng các kỹ thuật xử lý thông tin hiện đại.
+Đối tượng sử dụng hệ thống
+Hệ thống Musicalisation được xây dựng nhằm phục vụ các nhóm người dùng khác nhau với các vai trò và quyền hạn riêng biệt. Cụ thể, các đối tượng sử dụng hệ thống bao gồm:
+Khách (chưa đăng ký): Là những người truy cập hệ thống mà không cần tài khoản. Nhóm này có thể thực hiện các chức năng cơ bản như tìm kiếm bài hát, xem lời bài hát, xem thông tin nghệ sĩ và tin tức. Tuy nhiên, các chức năng mang tính cá nhân hóa sẽ bị hạn chế.
+Người dùng (đã đăng ký): Là những người đã tạo tài khoản và đăng nhập vào hệ thống. Ngoài các chức năng cơ bản, nhóm người dùng này có thể thực hiện thêm các thao tác như theo dõi nghệ sĩ yêu thích, nhận thông báo khi có tin tức mới, và lưu lại lịch sử tìm kiếm.
+Quản trị viên (Admin): Là những người chịu trách nhiệm quản lý và vận hành hệ thống. Nhóm này có quyền truy cập vào khu vực quản trị để thực hiện các chức năng như quản lý người dùng, nghệ sĩ, bài hát, album và tin tức. Ngoài ra, quản trị viên còn có thể theo dõi thống kê, xuất báo cáo và kiểm soát nội dung hệ thống.
+Việc phân chia các đối tượng sử dụng theo vai trò giúp hệ thống đảm bảo tính bảo mật, kiểm soát truy cập hợp lý, đồng thời tạo nền tảng cho việc thiết kế các chức năng phù hợp với từng nhóm người dùng qua Hình 1.
+Hình 1. Sơ đồ hoạt vụ tổng quát của hệ thống
+- Người dùng (User) là tác nhân chính của hệ thống, bao gồm những người đã đăng ký tài khoản và đăng nhập vào hệ thống. Sau khi xác thực, người dùng có thể thực hiện các chức năng như tìm kiếm và tra cứu thông tin âm nhạc (bài hát, nghệ sĩ, album, tin tức), tương tác với nội dung thông qua bình luận, theo dõi nghệ sĩ và yêu thích album. Ngoài ra, người dùng còn có thể quản lý hồ sơ cá nhân, xem thông báo, theo dõi lịch sử tìm kiếm và sử dụng các tính năng cá nhân hóa như gợi ý bài hát, recap và music persona. Các chức năng này giúp nâng cao trải nghiệm người dùng và phản ánh đúng hành vi sử dụng thực tế trong hệ thống được thể hiện qua Hình 2.
+Hình 2. Sơ đồ hoạt vụ người dùng đã đăng ký tài khoản
+- Khách truy cập (Guest) là những người chưa đăng nhập vào hệ thống nhưng vẫn có thể sử dụng các chức năng cơ bản. Cụ thể, khách có thể đăng ký tài khoản, đăng nhập và thực hiện tìm kiếm thông tin bài hát hoặc nghệ sĩ. Ngoài ra, khách còn có thể xem các nội dung công khai như chi tiết bài hát (bao gồm lời bài hát, ý nghĩa và video), thông tin nghệ sĩ, bảng xếp hạng và tin tức. Các chức năng này giúp người dùng trải nghiệm hệ thống trước khi quyết định đăng ký và sử dụng đầy đủ các tính năng nâng cao được thể hiện qua Hình 3.
+Hình 3. Sơ đồ hoạt vụ của khách chưa đăng ký tài khoản
+- Quản trị viên (Admin) là tác nhân chịu trách nhiệm quản lý và vận hành toàn bộ hệ thống Musicalisation. Sau khi đăng nhập, quản trị viên có thể thực hiện các chức năng như quản lý người dùng, nghệ sĩ, bài hát và tin tức thông qua các thao tác thêm, chỉnh sửa và xóa dữ liệu. Bên cạnh đó, quản trị viên còn có thể theo dõi lịch sử tìm kiếm, xem dashboard thống kê và xuất các báo cáo dưới dạng CSV hoặc PDF. Các chức năng này giúp đảm bảo dữ liệu hệ thống luôn được cập nhật, chính xác và hỗ trợ việc phân tích, giám sát hoạt động của hệ thống được thể hiện qua Hình 4.
+Hình 4. Sơ đồ hoạt vụ của quản trị viên
+Yêu cầu chức năng
+Hệ thống Musicalisation được xây dựng nhằm cung cấp các chức năng hỗ trợ người dùng tra cứu thông tin âm nhạc, tương tác với nội dung và hỗ trợ quản trị dữ liệu hệ thống. Các yêu cầu chức năng của hệ thống được chia theo từng nhóm tác nhân như sau::
+Phân hệ chức năng đối với Khách truy cập
+Khách truy cập là những người chưa đăng nhập vào hệ thống, tuy nhiên vẫn có thể sử dụng một số chức năng cơ bản để trải nghiệm dịch vụ. Các chức năng chính bao gồm:
+Đăng ký và đăng nhập hệ thống: Hệ thống cho phép khách truy cập tạo tài khoản mới bằng cách cung cấp các thông tin cần thiết như tên đăng nhập, email và mật khẩu. Sau khi đăng ký thành công, người dùng có thể đăng nhập để truy cập các chức năng nâng cao.
+Tìm kiếm thông tin âm nhạc: Khách truy cập có thể tìm kiếm bài hát hoặc nghệ sĩ thông qua từ khóa. Hệ thống sẽ trả về danh sách kết quả phù hợp dựa trên tiêu đề bài hát, tên nghệ sĩ hoặc các thông tin liên quan.
+Xem chi tiết bài hát: Người dùng có thể xem thông tin chi tiết của một bài hát, bao gồm:
+Lời bài hát (lyrics)
+Ý nghĩa bài hát (meaning)
+Video minh họa (nếu có)
+Xem thông tin nghệ sĩ và album: Hệ thống cho phép khách truy cập xem thông tin chi tiết của nghệ sĩ như tên, quốc gia, năm sinh và danh sách album hoặc bài hát liên quan.
+Xem bảng xếp hạng: Khách truy cập có thể xem danh sách các bài hát nổi bật hoặc phổ biến theo tiêu chí nhất định, giúp khám phá các nội dung đang được quan tâm.
+Xem tin tức âm nhạc: Hệ thống cung cấp danh sách tin tức liên quan đến nghệ sĩ và lĩnh vực âm nhạc. Người dùng có thể xem chi tiết nội dung từng bài viết để cập nhật thông tin mới nhất.
+Phân hệ chức năng đối với Người dùng
+Người dùng là những người đã đăng nhập vào hệ thống và được cấp quyền truy cập đầy đủ các chức năng. Ngoài các chức năng của khách truy cập, người dùng còn có thể sử dụng các chức năng nâng cao như sau:
+Tra cứu và khám phá nội dung: Người dùng có thể tìm kiếm và xem chi tiết các thông tin về bài hát, nghệ sĩ, album và tin tức tương tự như khách truy cập, nhưng với trải nghiệm cá nhân hóa tốt hơn.
+Tương tác với nội dung:
+Đăng bình luận về bài hát
+Trả lời bình luận của người khác
+Chỉnh sửa nội dung bình luận của mình
+Theo dõi và yêu thích nội dung:
+Theo dõi nghệ sĩ yêu thích để nhận thông báo khi có nội dung mới
+Lưu lại các album hoặc bài hát yêu thích để truy cập nhanh
+Quản lý thông báo: Hệ thống gửi thông báo khi có tin tức mới từ nghệ sĩ mà người dùng theo dõi. Người dùng có thể xem và quản lý trạng thái thông báo (đã đọc/chưa đọc).
+Quản lý hồ sơ cá nhân: Người dùng có thể cập nhật thông tin cá nhân, thay đổi mật khẩu và theo dõi lịch sử hoạt động như lịch sử tìm kiếm.
+Chức năng cá nhân hóa:
+Gợi ý bài hát dựa trên hành vi tìm kiếm và tương tác
+Xem recap theo thời gian (thống kê hoạt động nghe nhạc)
+Xem music persona (phân loại phong cách âm nhạc của người dùng)
+Phân tích ý nghĩa bài hát bằng AI: Hệ thống tích hợp trí tuệ nhân tạo để phân tích nội dung và ý nghĩa của bài hát, giúp người dùng hiểu sâu hơn về thông điệp và cảm xúc trong lời nhạc.
+Phân hệ chức năng đối với Quản trị viên
+Quản trị viên là tác nhân có quyền cao nhất trong hệ thống, chịu trách nhiệm quản lý dữ liệu và giám sát hoạt động. Các chức năng chính bao gồm:
+Xác thực quản trị: Quản trị viên phải đăng nhập vào hệ thống với tài khoản có quyền admin để thực hiện các thao tác quản lý.
+Quản lý người dùng:
+- Thêm mới tài khoản người dùng
+- Chỉnh sửa thông tin người dùng
+- Xóa tài khoản khi cần thiết
+Quản lý nội dung âm nhạc:
+- Nghệ sĩ
+- Bài hát
+- Album
+- Tin tức .
+Quản lý lịch sử tìm kiếm: Quản trị viên có thể theo dõi và kiểm tra lịch sử tìm kiếm của người dùng nhằm phục vụ cho việc phân tích hành vi và cải thiện hệ thống.
+Thống kê và dashboard: Hệ thống cung cấp dashboard hiển thị các số liệu thống kê như số lượng người dùng, bài hát, lượt tìm kiếm và mức độ tương tác.
+Xuất báo cáo: theo dạng CSV và PDF.
+Quy trình nghiệp vụ các luồng chức năng chính
+Quy trình tra cứu và xem thông tin bài hát
+Đây là quy trình cơ bản và được sử dụng thường xuyên nhất trong hệ thống.
++ Bước 1: Người dùng hoặc khách truy cập truy cập vào hệ thống.
++ Bước 2: Nhập từ khóa tìm kiếm (tên bài hát hoặc nghệ sĩ).
++ Bước 3: Hệ thống tiếp nhận yêu cầu và truy vấn dữ liệu từ cơ sở dữ liệu.
++ Bước 4: Hệ thống hiển thị danh sách kết quả phù hợp.
++ Bước 5: Người dùng lựa chọn một bài hát từ danh sách kết quả.
++ Bước 6: Hệ thống hiển thị chi tiết bài hát bao gồm lời bài hát, ý nghĩa và video (nếu có).
++ Bước 7 (tùy chọn): Người dùng có thể xem thêm các bài hát liên quan.
+<w:tab w:val="left" w:pos="5529"/></w:tabs><w:rPr><w:lang w:eastAsia="ar-SA"/></w:rPr></w:pPr><w:r><w:rPr><w:lang w:eastAsia="ar-SA"/></w:rPr><w:t>Toàn bộ quy trình được thể hiện qua Hình 5.
+Hình 5. Quy trình tra cứu và xem thông tin bài hát
+Quy trình tương tác với nội dung
+Quy trình này chỉ áp dụng đối với người dùng đã đăng nhập.
++ Bước 1: Người dùng đăng nhập vào hệ thống.
++ Bước 2: Người dùng truy cập trang chi tiết bài hát.
++ Bước 3: Người dùng thực hiện các thao tác tương tác như:
+Đăng bình luận
+Trả lời bình luận
+Chỉnh sửa bình luận của mình
++ Bước 4: Hệ thống lưu trữ thông tin tương tác vào cơ sở dữ liệu.
++ Bước 5: Nội dung bình luận được hiển thị công khai trên hệ thống.
+Toàn bộ quy trình được thể hiện qua Hình 6.
+Hình 6. Quy trình tương tác với nội dung
+Quy trình theo dõi nghệ sĩ và nhận thông báo
+Quy trình này hỗ trợ cá nhân hóa trải nghiệm người dùng.
++ Bước 1: Người dùng đăng nhập vào hệ thống.
++ Bước 2: Người dùng truy cập trang thông tin nghệ sĩ.
++ Bước 3: Người dùng chọn chức năng theo dõi nghệ sĩ.
++ Bước 4: Hệ thống lưu thông tin theo dõi vào cơ sở dữ liệu.
++ Bước 5: Khi có tin tức mới liên quan đến nghệ sĩ, hệ thống tạo thông báo.
++ Bước 6: Người dùng truy cập mục thông báo để xem nội dung mới.
+Toàn bộ quy trình được thể hiện qua Hình 6
+Hình 7. Quy trình theo dõi nghệ sĩ và nhận thông báo
+Quy trình cá nhân hóa nội dung
+Quy trình này giúp hệ thống đưa ra các gợi ý phù hợp với người dùng.
++ Bước 1: Hệ thống thu thập dữ liệu hành vi người dùng (tìm kiếm, xem bài hát, tương tác).
++ Bước 2: Dữ liệu được lưu trữ và xử lý trong hệ thống.
++ Bước 3: Hệ thống phân tích hành vi người dùng.
++ Bước 4: Đưa ra các gợi ý bài hát phù hợp.
++ Bước 5: Hiển thị recap và music persona cho người dùng.
+Toàn bộ quy trình được thể hiện qua Hình 8.
+Hình 8. Quy trình cá nhân hóa nội dung
+Quy trình phân tích ý nghĩa bài hát bằng AI
+Quy trình này hỗ trợ người dùng hiểu nội dung bài hát sâu hơn.
++ Bước 1: Người dùng truy cập trang chi tiết bài hát.
++ Bước 2: Người dùng chọn chức năng phân tích ý nghĩa bằng AI.
++ Bước 3: Hệ thống gửi nội dung bài hát đến dịch vụ AI.
++ Bước 4: AI xử lý và trả về kết quả phân tích.
++ Bước 5: Hệ thống hiển thị nội dung phân tích cho người dùng.
+Toàn bộ quy trình được thể hiện qua Hình 9.
+Hình 9. Quy trình phân tích ý nghĩa bài hát bằng AI
+Quy trình quản trị hệ thống
+Quy trình này áp dụng cho quản trị viên.
++ Bước 1: Quản trị viên đăng nhập vào hệ thống quản trị.
++ Bước 2: Lựa chọn chức năng cần quản lý (người dùng, nghệ sĩ, bài hát, tin tức).
++ Bước 3: Thực hiện các thao tác:
+Thêm mới
+Chỉnh sửa
+Xóa dữ liệu
++ Bước 4: Hệ thống cập nhật dữ liệu vào cơ sở dữ liệu.
++ Bước 5: Quản trị viên có thể xem thống kê tổng quan trên dashboard.
++ Bước 6: Khi cần, quản trị viên xuất báo cáo dưới dạng CSV hoặc PDF.
+Toàn bộ quy trình được thể hiện qua Hình 10.
+Hình 10. Quy trình quản trị hệ thống
+Hướng tiếp cận giải quyết của đề tài
+Để giải quyết bài toán xây dựng hệ thống tra cứu và cá nhân hóa nội dung âm nhạc, đề tài Musicalisation được triển khai theo hướng tiếp cận kết hợp giữa thiết kế hệ thống web truyền thống, quản lý dữ liệu tập trung và tích hợp các kỹ thuật xử lý thông tin hiện đại.
+Hướng tiếp cận theo mô hình kiến trúc 3 lớp (Three-tier Architecture)
+Đối với mô hình kiến trúc 3 lớp (Three-tier Architecture), hệ thống sẽ được xây dựng làm 3 tầng logic độc lập. Mục đích của mô hình nhằm giúp hệ thống tách biệt giao diện người dùng, quy trình nghiệp vụ và dữ liệu một cách rõ ràng, việc phân chia này giúp hệ thống dễ dàng bảo trì, nâng cấp, đảm bảo tính bảo mật. Hệ thống được xây dựng với 3 lớp bao gồm: lớp giao diện được thiết kế bằng ReactJS-Vite, lớp nghiệp vụ được thiết kế bằng Javascript để gọi api lên hệ quản lý dữ liệu Supabase, lớp dữ liệu được xử lý bằng PostgreSQL tại Supabase dashboard. Mô hình kiến trúc được thể hiện tổng thể bằng Hình 11. Đây cũng là mô hình mà đề tài hướng tới.
+Hình 11. Mô hình kiến trúc 3 lớp (Three-tier Architecture)
+Hướng tiếp cận theo mô hình Client – Server trên nền tảng web
+<w:tab w:val="left" w:pos="5570"/></w:tabs><w:rPr><w:lang w:val="pt-BR"/></w:rPr></w:pPr><w:r><w:rPr><w:lang w:val="pt-BR"/></w:rPr><w:t>Một trong những hướng tiếp cận đề tài là xây dựng mô hình theo nền tảng Client – Server trên nền tảng web. Mô hình được thiết kế theo dạng mô hình phân tán trong đó các tác vụ được chia ra thành hai phần chính là :
+<w:tab w:val="left" w:pos="5570"/></w:tabs><w:rPr><w:lang w:val="pt-BR"/></w:rPr></w:pPr><w:r><w:rPr><w:lang w:val="pt-BR"/></w:rPr><w:lastRenderedPageBreak/><w:t xml:space="preserve">+ Client (Máy khách): Là nơi gửi yêu cầu (Request). Trong ngữ cảnh của đề tài là nơi gửi yêu cầu (Request) đến hệ thống. Client là các trình duyệt web của người dùng và quản trị viên khi truy cập vào hệ thống Musicalisation thông qua giao diện Public và Admin. Người dùng thực hiện các thao tác như tìm kiếm bài hát, xem thông tin nghệ sĩ, tương tác nội dung hoặc quản trị dữ liệu..
+<w:tab w:val="left" w:pos="5570"/></w:tabs></w:pPr><w:r><w:rPr><w:lang w:val="pt-BR"/></w:rPr><w:t xml:space="preserve">+ Server (Máy chủ): Là nơi tiếp nhận, xử lý yêu cầu và quản lý dữ liệu. Server được xây dựng bằng ngôn ngữ PHP, chịu trách nhiệm xử lý logic nghiệp vụ, xác thực người dùng, điều phối các chức năng và truy vấn dữ liệu từ hệ quản trị cơ sở dữ liệu MySQL. Ngoài ra, server còn tích hợp các dịch vụ bên ngoài như API lyrics, YouTube và trí tuệ nhân tạo để phân tích nội dung bài hát. Sau khi xử lý, kết quả sẽ được trả về Client dưới dạng phản hồi (Response)..
+<w:tab w:val="left" w:pos="5570"/></w:tabs></w:pPr><w:r w:rsidRPr="008A67F1"><w:t>Hướng tiếp cận này giúp hệ thống tập trung hóa dữ liệu tại máy chủ, đảm bảo tính nhất quán, dễ dàng quản lý và bảo mật thông tin. Đồng thời, mô hình Client – Server cho phép nhiều người dùng truy cập và sử dụng hệ thống đồng thời từ các thiết bị khác nhau thông qua kết nối Internet. Mô hình kiến trúc tổng thể của hệ thống được thể hiện trong Hình 12.
+Hình 12. Mô hình kiến trúc Client – Server trên nền tảng web
+Tổng kết chương
+</w:r><w:r w:rsidRPr="006365C5"><w:t xml:space="preserve">Chương 2 đã trình bày chi tiết bài toán của hệ thống Musicalisation thông qua việc xác định rõ các đối tượng sử dụng và các yêu cầu chức năng cần thiết. Trên cơ sở đó, hệ thống đã được phân tích thành các nhóm chức năng chính tương ứng với từng loại người dùng, bao gồm khách truy cập, người dùng và quản trị viên.
+Bên cạnh đó, các quy trình nghiệp vụ quan trọng cũng đã được mô tả nhằm làm rõ cách hệ thống vận hành trong các tình huống cụ thể như tra cứu nội dung, tương tác người dùng, cá nhân hóa dữ liệu và quản trị hệ thống. Những quy trình này giúp xác định rõ luồng xử lý thông tin và là cơ sở cho việc xây dựng các mô hình hệ thống ở chương tiếp theo.
+Ngoài ra, chương cũng đã đề xuất hướng tiếp cận giải quyết bài toán thông qua mô hình kiến trúc phù hợp, đảm bảo tính khả thi và hiệu quả trong quá trình triển khai. Nhìn chung, nội dung của chương đã xây dựng nền tảng phân tích vững chắc, làm cơ sở cho việc thiết kế và cài đặt hệ thống Musicalisation trong chương tiếp theo.
+THIẾT KẾ VÀ CÀI ĐẶT GIẢI PHÁP
+Kiến trúc tổng quát hệ thống
+Dựa trên các phân tích yêu cầu và hướng tiếp cận đã trình bày ở Chương 2, hệ thống Musicalisation được thiết kế theo hướng phân lớp rõ ràng, đảm bảo tính linh hoạt, dễ mở rộng và phù hợp với mô hình ứng dụng web hiện đại như .
+Hình 13. Mô hình kiến trúc xử lý dữ liệu
+Hệ thống được xây dựng theo mô hình kiến trúc 3 lớp (Three-tier Architecture) kết hợp với mô hình Client – Server, trong đó các thành phần được tổ chức thành ba lớp chính: lớp giao diện, lớp xử lý nghiệp vụ và lớp dữ liệu. Việc phân tách này giúp hệ thống dễ dàng bảo trì, nâng cấp cũng như đảm bảo tính bảo mật trong quá trình vận hành.
+Lớp giao diện (Presentation Layer): Là nơi người dùng và quản trị viên tương tác trực tiếp với hệ thống thông qua trình duyệt web. Lớp này bao gồm các trang giao diện được xây dựng bằng HTML, CSS và JavaScript, kết hợp với Bootstrap và giao diện SB Admin 2 cho phân hệ quản trị. Các trang giao diện có nhiệm vụ hiển thị dữ liệu, tiếp nhận thao tác từ người dùng và gửi yêu cầu đến lớp xử lý nghiệp vụ.
+Lớp xử lý nghiệp vụ (Business Logic Layer): Được xây dựng bằng ngôn ngữ PHP, đây là thành phần trung gian đóng vai trò xử lý toàn bộ logic của hệ thống. Lớp này tiếp nhận các yêu cầu từ giao diện, thực hiện các chức năng như xác thực người dùng, xử lý dữ liệu, điều phối luồng hoạt động và tương tác với các API bên ngoài. Ngoài ra, lớp này còn bao gồm các module xử lý AJAX và các API nội bộ nhằm phục vụ các chức năng động như tìm kiếm, bình luận và phân tích nội dung.
+Lớp dữ liệu (Data Access Layer): Là nơi lưu trữ và quản lý dữ liệu của hệ thống. Hệ thống sử dụng cơ sở dữ liệu MySQL với database nln_lyrics để lưu trữ các thông tin như người dùng, bài hát, nghệ sĩ, album, tin tức và lịch sử tìm kiếm. Bên cạnh đó, hệ thống còn sử dụng bộ nhớ lưu trữ file để quản lý hình ảnh và các tài nguyên media.
+Ngoài ba lớp chính, hệ thống còn tích hợp các dịch vụ bên ngoài như API lyrics, YouTube Data API và công cụ trí tuệ nhân tạo (Gemini) nhằm hỗ trợ phân tích ý nghĩa bài hát và nâng cao trải nghiệm người dùng.
+Nhìn chung, kiến trúc hệ thống được thiết kế theo hướng module hóa, đảm bảo mỗi thành phần có chức năng rõ ràng và có thể hoạt động độc lập, đồng thời vẫn phối hợp chặt chẽ với nhau thông qua các giao thức chuẩn như HTTP và truy vấn SQL. Mô hình tổng thể của hệ thống sẽ được minh họa chi tiết trong các sơ đồ thiết kế ở các mục tiếp theo.
+Xây dựng các mô hình
+Mô hình dữ liệu mức quan niệm (CDM)
+Mô hình dữ liệu khái niệm của hệ thống Musicalisation được xây dựng nhằm mô tả các thực thể chính và mối quan hệ giữa chúng trong hệ thống tra cứu và quản lý nội dung âm nhạc. Các thực thể được thiết kế phản ánh đầy đủ các thành phần dữ liệu cốt lõi, bao gồm người dùng, nghệ sĩ, bài hát, album, tin tức và các hoạt động tương tác được thể hiện rõ qua Hình 14 sau.
+Hình 14. Mô hình dữ liệu mức quan niệm (CDM)
+Trong hệ thống, thực thể NGUOI_DUNG đóng vai trò trung tâm, đại diện cho người sử dụng hệ thống. Người dùng có thể thực hiện nhiều hành vi như viết nhận xét cho bài hát, theo dõi nghệ sĩ, yêu thích album, nhận thông báo và tạo lịch sử tìm kiếm. Mỗi người dùng có thể tạo nhiều bản ghi trong các thực thể liên quan như NHAN_XET, LICH_SU_TIM_KIEM, THEO_DOI_NGHE_SI và YEU_THICH_ALBUM.
+Thực thể NGHE_SI biểu diễn thông tin về các nghệ sĩ trong hệ thống. Mỗi nghệ sĩ có thể phát hành nhiều album và thể hiện nhiều bài hát. Đồng thời, nghệ sĩ cũng có thể được người dùng theo dõi thông qua thực thể kết hợp THEO_DOI_NGHE_SI. Ngoài ra, các nghệ sĩ có thể được đề cập trong các bản tin thuộc thực thể TIN_TUC.
+Thực thể ALBUM đại diện cho các album âm nhạc, mỗi album thuộc về một nghệ sĩ và có thể bao gồm nhiều bài hát. Người dùng có thể đánh dấu yêu thích album thông qua thực thể kết hợp YEU_THICH_ALBUM, thể hiện mối quan hệ nhiều-nhiều giữa người dùng và album.
+Thực thể BAI_HAT là thành phần trung tâm của hệ thống nội dung, chứa thông tin về tên bài hát, lời bài hát và ý nghĩa. Mỗi bài hát được thể hiện bởi một nghệ sĩ, có thể thuộc một album và được phân loại theo một thể loại trong thực thể THE_LOAI. Ngoài ra, bài hát còn là đối tượng của các nhận xét từ người dùng và xuất hiện trong lịch sử tìm kiếm.
+Thực thể NHAN_XET lưu trữ các bình luận của người dùng đối với bài hát. Mỗi nhận xét được viết bởi một người dùng và gắn với một bài hát cụ thể, thể hiện mối quan hệ một-nhiều giữa người dùng và nhận xét, cũng như giữa bài hát và nhận xét.
+Thực thể LICH_SU_TIM_KIEM ghi nhận các hoạt động tìm kiếm của người dùng, bao gồm từ khóa và thời điểm tìm kiếm. Mỗi bản ghi lịch sử tìm kiếm thuộc về một người dùng và có thể liên quan đến một bài hát cụ thể.
+Thực thể TIN_TUC chứa các thông tin bài viết liên quan đến nghệ sĩ. Mỗi tin tức có thể đề cập đến một nghệ sĩ cụ thể và là nguồn phát sinh thông báo cho người dùng.
+Thực thể THONG_BAO biểu diễn các thông báo được gửi đến người dùng. Mỗi thông báo thuộc về một người dùng và có thể phát sinh từ một tin tức liên quan đến nghệ sĩ mà người dùng quan tâm.
+Nhìn chung, mô hình CDM được thiết kế theo hướng chuẩn hóa và thể hiện rõ các mối quan hệ giữa các thực thể, bao gồm cả quan hệ một-nhiều và nhiều-nhiều thông qua các thực thể kết hợp. Điều này giúp hệ thống dễ dàng mở rộng, quản lý dữ liệu hiệu quả và đáp ứng tốt các chức năng đã đề ra.
+Mô hình dữ liệu mức luận lý (LDM)
+Mô hình dữ liệu mức logic (Logical Data Model – LDM) là giai đoạn phát triển tiếp theo sau mô hình dữ liệu mức khái niệm (Conceptual Data Model – CDM), có vai trò quan trọng trong việc cụ thể hóa các thực thể, thuộc tính và mối quan hệ đã được xác định ở mức khái quát thành một cấu trúc dữ liệu logic rõ ràng, chi tiết và phù hợp với mô hình cơ sở dữ liệu quan hệ. LDM đóng vai trò là cầu nối trung gian giữa thiết kế khái niệm và thiết kế dữ liệu vật lý, giúp chuyển đổi các yêu cầu nghiệp vụ thành các cấu trúc dữ liệu có thể triển khai trong môi trường hệ quản trị cơ sở dữ liệu cụ thể.
+Trong phạm vi đề tài, mô hình LDM được xây dựng nhằm xác định đầy đủ các bảng dữ liệu, thuộc tính chi tiết của từng bảng, kiểu dữ liệu tương ứng, độ dài trường dữ liệu cũng như các ràng buộc logic cần thiết. Các thực thể kế thừa từ mô hình CDM như bài hát, album, nghệ sĩ, thể loại, người dùng, tài khoản, nhận xét, lịch sử tìm kiếm và thông báo được biểu diễn dưới dạng các bảng quan hệ, trong đó mỗi bảng được xác định rõ khóa chính (Primary Key – PK) để định danh duy nhất từng bản ghi. Đồng thời, các mối quan hệ giữa các thực thể được hiện thực hóa thông qua các khóa ngoại (Foreign Key – FK), qua đó đảm bảo tính toàn vẹn tham chiếu và sự nhất quán của dữ liệu trong toàn bộ hệ thống được thể hiện qua Hình 15 sau.
+Hình 15. Mô hình dữ liệu mức luận lý (LDM)
+Dựa trên mô hình dữ liệu mức quan niệm, mô hình dữ liệu mức luận lý được xây dựng như sau:
+NGHE_SI (NS_id, NS_ten, NS_quoctich, NS_mota): Mỗi nghệ sĩ sẽ lưu mã nghệ sĩ, tên nghệ sĩ, quốc tịch và mô tả. Mã nghệ sĩ làm khóa chính. Các thuộc tính được thể hiện chi tiết qua Bảng 1 sau.
+Bảng 1. Bảng NGHE_SI
+STT
+Tên thuộc tính
+Kiểu
+dữ liệu
+Kích thước
+Khóa chính
+Duy nhất
+Not null
+GT mặc định
+Khóa ngoại
+Diễn giải
+1
+NS_id
+INT
+11
+✓
+✓
+✓
+Mã nghệ sĩ
+2
+NS_ten
+VARCHAR
+100
+✓
+✓
+Tên nghệ sĩ
+3
+NS_quoctich
+VARCHAR
+50
+NULL
+Quốc tịch nghệ sĩ
+4
+NS_mota
+TEXT
+NULL
+Mô tả nghệ sĩ
+TIN_TUC (TT_id, NS_id, TT_tua, TT_noidung, TT_date): Mỗi tin tức sẽ lưu mã tin tức, mã nghệ sĩ được đề cập, tiêu đề, nội dung và ngày đăng. Mã tin tức làm khóa chính; mã nghệ sĩ làm khóa ngoại. Các thuộc tính được thể hiện chi tiết qua Bảng 2 sau.
+Bảng 2. Bảng TIN_TUC
+STT
+Tên thuộc tính
+Kiểu dữ liệu
+Kích thước
+Khóa chính
+Duy nhất
+Not null
+GT mặc định
+Khóa ngoại
+Diễn giải
+1
+TT_id
+INT
+11
+✓
+✓
+✓
+Mã tin tức
+2
+NS_id
+INT
+11
+NULL
+✓
+Mã nghệ sĩ được đề cập
+3
+TT_tua
+VARCHAR
+255
+✓
+Tiêu đề tin tức
+4
+TT_noidung
+LONGTEXT
+NULL
+Nội dung tin tức
+5
+TT_date
+TIMESTAMP
+✓
+CTS
+Ngày đăng tin
+ALBUM (AB_id, NS_id, AB_ten, AB_date): Mỗi album sẽ lưu mã album, mã nghệ sĩ phát hành, tên album và ngày phát hành. Mã album làm khóa chính; mã nghệ sĩ làm khóa ngoại. Các thuộc tính được thể hiện chi tiết qua Bảng 3 sau.
+Bảng 3. Bảng ALBUM
+STT
+Tên thuộc tính
+Kiểu dữ liệu
+Kích thước
+Khóa chính
+Duy nhất
+Not null
+GT mặc định
+Khóa ngoại
+Diễn giải
+1
+AB_id
+INT
+11
+✓
+✓
+✓
+Mã album
+2
+NS_id
+INT
+11
+✓
+✓
+Mã nghệ sĩ phát hành album
+3
+AB_ten
+VARCHAR
+150
+✓
+Tên album
+4
+AB_date
+YEAR
+4
+NULL
+Năm phát hành album
+THE_LOAI (TL_id, TL_ten): Mỗi thể loại sẽ lưu mã thể loại và tên thể loại. Mã thể loại làm khóa chính. Các thuộc tính được thể hiện chi tiết qua Bảng 4 sau.
+Bảng 4. Bảng THE_LOAI
+STT
+Tên thuộc tính
+Kiểu dữ liệu
+Kích thước
+Khóa chính
+Duy nhất
+Not null
+GT mặc định
+Khóa ngoại
+Diễn giải
+1
+TL_id
+INT
+11
+✓
+✓
+✓
+Mã thể loại
+2
+TL_ten
+VARCHAR
+100
+✓
+✓
+Tên thể loại
+BAI_HAT (BH_id, TL_id, NS_id, AB_id, BH_ten, BH_lyrics, BH_meaning): Mỗi bài hát sẽ lưu mã bài hát, mã thể loại, mã nghệ sĩ thể hiện, mã album, tên bài hát, lời bài hát và ý nghĩa bài hát. Mã bài hát làm khóa chính; mã thể loại, mã nghệ sĩ và mã album làm khóa ngoại. Các thuộc tính được thể hiện chi tiết qua Bảng 5 sau.
+Bảng 5. Bảng BAI_HAT
+STT
+Tên thuộc tính
+Kiểu dữ liệu
+Kích thước
+Khóa chính
+Duy nhất
+Not null
+GT mặc định
+Khóa ngoại
+Diễn giải
+1
+BH_id
+INT
+11
+✓
+✓
+✓
+Mã bài hát
+2
+TL_id
+INT
+11
+NULL
+✓
+Mã thể loại
+3
+NS_id
+INT
+11
+✓
+✓
+Mã nghệ sĩ thể hiện
+4
+AB_id
+INT
+11
+NULL
+✓
+Mã album
+5
+BH_ten
+VARCHAR
+255
+✓
+Tên bài hát
+6
+BH_lyrics
+LONGTEXT
+NULL
+Lời bài hát
+7
+BH_meaning
+LONGTEXT
+NULL
+Ý nghĩa bài hát
+NGUOI_DUNG (ND_id, ND_ten, ND_email, ND_date, ND_role): Mỗi người dùng sẽ lưu mã người dùng, tên người dùng, email, ngày tạo và vai trò. Mã người dùng làm khóa chính. Các thuộc tính được thể hiện chi tiết qua Bảng 6 sau.
+Bảng 6. Bảng NGUOI_DUNG
+STT
+Tên thuộc tính
+Kiểu dữ liệu
+Kích thước
+Khóa chính
+Duy nhất
+Not null
+GT mặc định
+Khóa ngoại
+Diễn giải
+1
+ND_id
+INT
+11
+✓
+✓
+✓
+Mã người dùng
+2
+ND_ten
+VARCHAR
+100
+NULL
+Tên người dùng
+3
+ND_email
+VARCHAR
+100
+✓
+✓
+Email người dùng
+4
+ND_date
+TIMESTAMP
+✓
+CTS
+Ngày tạo tài khoản
+5
+ND_role
+ENUM
+'user'
+Vai trò người dùng
+NHAN_XET (NX_id, BH_id, ND_id, NX_noidung, NX_date): Mỗi nhận xét sẽ lưu mã nhận xét, mã bài hát, mã người dùng, nội dung nhận xét và ngày nhận xét. Mã nhận xét làm khóa chính; mã bài hát và mã người dùng làm khóa ngoại. Các thuộc tính được thể hiện chi tiết qua Bảng 7 sau.
+Bảng 7. Bảng NHAN_XET
+STT
+Tên thuộc tính
+Kiểu dữ liệu
+Kích thước
+Khóa chính
+Duy nhất
+Not null
+GT mặc định
+Khóa ngoại
+Diễn giải
+1
+NX_id
+INT
+11
+✓
+✓
+✓
+Mã nhận xét
+2
+BH_id
+INT
+11
+✓
+✓
+Mã bài hát được nhận xét
+3
+ND_id
+INT
+11
+✓
+✓
+Mã người dùng viết nhận xét
+4
+NX_noidung
+TEXT
+✓
+Nội dung nhận xét
+5
+NX_date
+TIMESTAMP
+✓
+CTS
+Ngày nhận xét
+LICH_SU_TIM_KIEM (LSTK_id, BH_id, ND_id, LSTK_date): Mỗi lịch sử tìm kiếm sẽ lưu mã lịch sử tìm kiếm, mã bài hát được ghi nhận, mã người dùng thực hiện và thời gian tìm kiếm. Mã lịch sử tìm kiếm làm khóa chính; mã bài hát và mã người dùng làm khóa ngoại. Các thuộc tính được thể hiện chi tiết qua Bảng 8 sau.
+Bảng 8. Bảng LICH_SU_TIM_KIEM
+STT
+Tên thuộc tính
+Kiểu dữ liệu
+Kích thước
+Khóa chính
+Duy nhất
+Not null
+GT mặc định
+Khóa ngoại
+Diễn giải
+1
+LSTK_id
+INT
+11
+✓
+✓
+✓
+Mã lịch sử tìm kiếm
+2
+BH_id
+INT
+11
+✓
+✓
+Mã bài hát liên quan
+3
+ND_id
+INT
+11
+✓
+✓
+Mã người dùng thực hiện tìm kiếm
+4
+LSTK_date
+TIMESTAMP
+✓
+CTS
+Thời gian tìm kiếm
+THONG_BAO (TT_id, ND_id, TB_id, TB_date, TB_doc): Mỗi thông báo sẽ lưu mã tin tức liên quan, mã người dùng nhận thông báo, mã thông báo, ngày thông báo và trạng thái đọc thông báo. Mã thông báo làm khóa chính; mã tin tức và mã người dùng làm khóa ngoại. Các thuộc tính được thể hiện chi tiết qua Bảng 9 sau.
+Bảng 9. Bảng THONG_BAO
+STT
+Tên thuộc tính
+Kiểu dữ liệu
+Kích thước
+Khóa chính
+Duy nhất
+Not null
+GT mặc định
+Khóa ngoại
+Diễn giải
+1
+TB_id
+INT
+11
+✓
+✓
+✓
+Mã thông báo
+2
+TT_id
+INT
+11
+✓
+✓
+Mã tin tức liên quan
+3
+ND_id
+INT
+11
+✓
+✓
+Mã người dùng nhận thông báo
+4
+TB_date
+TIMESTAMP
+✓
+CTS
+Ngày tạo thông báo
+5
+TB_doc
+TINYINT
+1
+0
+Trạng thái đã đọc
+THEO_DOI (NS_id, ND_id): Bảng theo dõi lưu thông tin người dùng theo dõi nghệ sĩ. Khóa chính là cặp NS_id, ND_id; đồng thời hai thuộc tính này cũng là khóa ngoại tham chiếu đến bảng nghệ sĩ và bảng người dùng. Các thuộc tính được thể hiện chi tiết qua Bảng 10 sau.
+Bảng 10. Bảng THEO_DOI
+STT
+Tên thuộc tính
+Kiểu dữ liệu
+Kích thước
+Khóa chính
+Duy nhất
+Not null
+GT mặc định
+Khóa ngoại
+Diễn giải
+1
+NS_id
+INT
+11
+✓
+✓
+✓
+Mã nghệ sĩ được theo dõi
+2
+ND_id
+INT
+11
+✓
+✓
+✓
+Mã người dùng theo dõi
+YEU_THICH (AB_id, ND_id): Bảng yêu thích lưu thông tin người dùng yêu thích album. Khóa chính là cặp AB_id, ND_id; đồng thời hai thuộc tính này cũng là khóa ngoại tham chiếu đến bảng album và bảng người dùng. Các thuộc tính được thể hiện chi tiết qua Bảng 11 sau.
+Bảng 11. Bảng YEU_THICH
+STT
+Tên thuộc tính
+Kiểu dữ liệu
+Kích thước
+Khóa chính
+Duy nhất
+Not null
+GT mặc định
+Khóa ngoại
+Diễn giải
+1
+AB_id
+INT
+11
+✓
+✓
+✓
+Mã album được yêu thích
+2
+ND_id
+INT
+11
+✓
+✓
+✓
+Mã người dùng yêu thích album
+Các ràng buộc tham chiếu được trình bày ở Bảng 1 sau:
+Bảng 12. Ràng buộc tham chiếu
+STT
+Bảng Tham Chiếu
+(Reference Table)
+Bảng Chính
+(Primary Table)
+1
+TIN_TUC (NS_id)
+→
+NGHE_SI (NS_id)
+2
+ALBUM (NS_id)
+→
+NGHE_SI (NS_id)
+3
+BAI_HAT (TL_id)
+→
+THE_LOAI (TL_id)
+4
+BAI_HAT (NS_id)
+→
+NGHE_SI (NS_id)
+5
+BAI_HAT (AB_id)
+→
+ALBUM (AB_id)
+6
+NHAN_XET (BH_id)
+→
+BAI_HAT (BH_id)
+7
+NHAN_XET (ND_id)
+→
+NGUOI_DUNG (ND_id)
+8
+LICH_SU_TIM_KIEM (BH_id)
+→
+BAI_HAT (BH_id)
+9
+LICH_SU_TIM_KIEM (ND_id)
+→
+NGUOI_DUNG (ND_id)
+10
+THONG_BAO (ND_id)
+→
+NGUOI_DUNG (ND_id)
+11
+THONG_BAO (TT_id)
+→
+TIN_TUC (TT_id)
+12
+THEO_DOI (NS_id)
+→
+NGHE_SI (NS_id)
+13
+THEO_DOI (ND_id)
+→
+NGUOI_DUNG (ND_id)
+14
+YEU_THICH (AB_id)
+→
+ALBUM (AB_id)
+15
+YEU_THICH (ND_id)
+→
+NGUOI_DUNG (ND_id)
+Lưu đồ dòng dữ liệu (DFD)
+Hình 16 sau thể hiện lưu đồ dòng dữ liệu (DFD cấp 0) của hệ thống Musicalisation, trong đó toàn bộ hệ thống được mô hình hóa như một tiến trình duy nhất, tương tác với ba tác nhân bên ngoài gồm Khách truy cập, Người dùng và Quản trị viên. Các luồng dữ liệu được mô tả chi tiết nhằm thể hiện cách hệ thống tiếp nhận, xử lý và phản hồi thông tin trong các tình huống sử dụng khác nhau.
+Hình 16. Lưu đồ dòng dữ liệu (DFD cấp 0)
+Đối với tác nhân Khách truy cập, hệ thống tiếp nhận các dữ liệu đầu vào bao gồm yêu cầu đăng ký tài khoản, thông tin đăng nhập, từ khóa tìm kiếm và các yêu cầu xem nội dung. Sau khi xử lý, hệ thống trả về các dữ liệu đầu ra tương ứng như kết quả tìm kiếm, thông tin bài hát, thông tin nghệ sĩ và album, cũng như danh sách tin tức. Các luồng dữ liệu này phản ánh chức năng cơ bản của hệ thống trong việc cung cấp thông tin tra cứu cho người dùng chưa đăng nhập.
+Đối với tác nhân Người dùng, ngoài các chức năng tra cứu tương tự khách truy cập, hệ thống còn tiếp nhận thêm các dữ liệu mang tính tương tác như thông tin đăng nhập, nội dung bình luận, các thao tác tương tác (theo dõi nghệ sĩ, yêu thích album), yêu cầu xem thông báo và yêu cầu xem nội dung cá nhân hóa như bài hát gợi ý. Sau khi xử lý, hệ thống trả về các dữ liệu đầu ra bao gồm kết quả xác thực đăng nhập, nội dung bình luận hiển thị, danh sách thông báo, các gợi ý bài hát cá nhân hóa và thông tin recap hoặc music persona. Điều này thể hiện rõ vai trò của hệ thống trong việc cung cấp trải nghiệm cá nhân hóa dựa trên hành vi người dùng.
+Đối với tác nhân Quản trị viên, hệ thống tiếp nhận các dữ liệu đầu vào bao gồm thông tin đăng nhập quản trị, dữ liệu quản lý và các yêu cầu thống kê, báo cáo. Các dữ liệu này được xử lý để thực hiện các chức năng quản trị như cập nhật dữ liệu người dùng, nghệ sĩ, bài hát, album và tin tức. Kết quả xử lý được trả về dưới dạng kết quả xử lý quản lý, dữ liệu danh sách quản lý và các báo cáo thống kê tổng hợp. Các luồng dữ liệu này thể hiện chức năng điều hành và kiểm soát hệ thống từ phía quản trị viên.
+Giải pháp cài đặt
+Hệ thống Musicalisation được xây dựng theo mô hình ứng dụng web với kiến trúc client – server, trong đó toàn bộ quá trình xử lý được thực hiện thông qua sự tương tác giữa trình duyệt người dùng và máy chủ web. Giải pháp cài đặt được thiết kế nhằm đảm bảo tính ổn định, dễ triển khai và phù hợp với môi trường phát triển thực tế.
+Về phía máy khách (Client-side), hệ thống sử dụng các công nghệ cơ bản như HTML, CSS và JavaScript để xây dựng giao diện người dùng. Giao diện được thiết kế theo hướng thân thiện, dễ sử dụng và có khả năng hiển thị tốt trên nhiều thiết bị khác nhau. Các trang chức năng như trang chủ, tìm kiếm, chi tiết bài hát, nghệ sĩ, album và tin tức được tổ chức rõ ràng nhằm hỗ trợ người dùng tra cứu thông tin một cách nhanh chóng. Ngoài ra, các tương tác bất đồng bộ (AJAX) cũng được sử dụng để cải thiện trải nghiệm người dùng, đặc biệt trong các chức năng như tìm kiếm gợi ý, tải lyrics và phân tích ý nghĩa bài hát bằng AI.
+Về phía máy chủ (Server-side), hệ thống được phát triển bằng ngôn ngữ PHP, đóng vai trò xử lý các yêu cầu từ phía người dùng, thực hiện các nghiệp vụ và tương tác với cơ sở dữ liệu. Hệ thống được chia thành hai phân hệ chính là Public (dành cho người dùng) và Admin (dành cho quản trị viên), mỗi phân hệ có cơ chế xử lý và phân quyền riêng biệt thông qua session. Các chức năng quan trọng như đăng nhập, đăng ký, quản lý dữ liệu và xử lý nghiệp vụ đều được triển khai bằng các script PHP, đảm bảo tính bảo mật thông qua việc sử dụng prepared statement trong truy vấn cơ sở dữ liệu.
+Về cơ sở dữ liệu, hệ thống sử dụng MySQL với database tên nln_lyrics để lưu trữ toàn bộ dữ liệu bao gồm người dùng, nghệ sĩ, bài hát, album, tin tức, thông báo và lịch sử tìm kiếm. Cấu trúc dữ liệu được thiết kế theo mô hình quan hệ, đảm bảo tính toàn vẹn và khả năng mở rộng. Các truy vấn dữ liệu được tối ưu nhằm đảm bảo hiệu năng khi hệ thống xử lý lượng lớn dữ liệu.
+Ngoài ra, hệ thống còn tích hợp một số API bên ngoài nhằm mở rộng chức năng. Cụ thể, API Lyrics.ovh và Genius được sử dụng để hỗ trợ lấy lời bài hát và thông tin liên quan, trong khi Google Gemini API được tích hợp để phân tích ý nghĩa bài hát bằng trí tuệ nhân tạo. YouTube Data API cũng được sử dụng để cung cấp video minh họa cho bài hát, giúp nâng cao trải nghiệm người dùng.
+Về môi trường triển khai, hệ thống được cài đặt và chạy trên XAMPP, bao gồm Apache Web Server và MySQL Database Server. Đây là môi trường phù hợp cho việc phát triển và kiểm thử ứng dụng web trong giai đoạn xây dựng. Ngoài ra, hệ thống cũng có thể được triển khai trên các máy chủ thực tế với cấu hình tương tự để phục vụ người dùng cuối.
+Tổng kết chương
+Chương 3 đã trình bày toàn diện các nội dung liên quan đến thiết kế và cài đặt hệ thống Musicalisation. Trước hết, kiến trúc tổng thể của hệ thống đã được xác định theo hướng ứng dụng web, đảm bảo sự phân tách rõ ràng giữa giao diện, xử lý nghiệp vụ và dữ liệu. Trên cơ sở đó, các mô hình hệ thống đã được xây dựng, bao gồm mô hình dữ liệu mức quan niệm (CDM), mô hình dữ liệu mức luận lý (LDM) và lưu đồ dòng dữ liệu (DFD), nhằm mô tả đầy đủ cấu trúc dữ liệu cũng như luồng xử lý thông tin trong hệ thống.
+Bên cạnh đó, chương này cũng đã trình bày giải pháp cài đặt với các công nghệ cụ thể như PHP, MySQL và các API hỗ trợ, đảm bảo hệ thống có thể triển khai và vận hành hiệu quả trong thực tế. Các thành phần của hệ thống được tổ chức hợp lý, đáp ứng yêu cầu về chức năng, tính bảo mật và khả năng mở rộng.
+Nhìn chung, các nội dung trong chương đã xây dựng nền tảng vững chắc cho việc hiện thực hóa và phát triển hệ thống ở các giai đoạn tiếp theo, đồng thời đảm bảo tính khả thi và phù hợp với mục tiêu của đề tài.
+KIỂM THỬ VÀ ĐÁNH GIÁ
+Kiểm thử và đánh giá chức năng
+Dựa trên thiết kế hệ thống đã đề xuất, phần này trình bày các kịch bản kiểm thử nhằm xác minh tính chính xác và độ ổn định của các chức năng chính trong hệ thống Musicalisation. Các kịch bản được xây dựng để kiểm tra khả năng xử lý của hệ thống trong cả trường hợp dữ liệu hợp lệ và không hợp lệ, đồng thời đánh giá mức độ đáp ứng yêu cầu nghiệp vụ đã đặt ra.
+Quá trình kiểm thử tập trung vào các chức năng cốt lõi của hệ thống, bao gồm: tìm kiếm bài hát và nghệ sĩ, xem chi tiết bài hát (lyrics, ý nghĩa, video), tương tác người dùng (bình luận, theo dõi nghệ sĩ, yêu thích album), xem thông báo, cũng như các chức năng cá nhân hóa như gợi ý bài hát và phân tích ý nghĩa bài hát bằng AI. Ngoài ra, các chức năng quản trị như quản lý người dùng, nghệ sĩ, bài hát, tin tức, thống kê và xuất báo cáo cũng được kiểm thử nhằm đảm bảo hệ thống hoạt động chính xác và nhất quán.
+Các kịch bản kiểm thử được thiết kế theo hướng mô phỏng các tình huống sử dụng thực tế của người dùng, từ các thao tác cơ bản đến các tình huống ngoại lệ như nhập sai thông tin đăng nhập, dữ liệu không hợp lệ hoặc thiếu dữ liệu đầu vào. Kết quả kiểm thử được sử dụng để đánh giá mức độ hoàn thiện của hệ thống, phát hiện các lỗi còn tồn tại và đề xuất hướng cải thiện nhằm nâng cao chất lượng hệ thống.
+Chức năng “Tìm kiếm bài hát”
+Chức năng tìm kiếm bài hát ở Hình 17 cho phép người dùng hoặc khách truy cập nhập từ khóa để tra cứu thông tin về bài hát hoặc nghệ sĩ trong hệ thống. Đây là một trong những chức năng quan trọng nhất, giúp người dùng nhanh chóng tiếp cận nội dung mong muốn. Hệ thống sẽ tiếp nhận từ khóa tìm kiếm, thực hiện truy vấn dữ liệu trong cơ sở dữ liệu và trả về danh sách kết quả phù hợp. Ngoài ra, hệ thống cũng hỗ trợ hiển thị gợi ý tìm kiếm nhằm nâng cao trải nghiệm người dùng.
+Kết quả tìm kiếm bao gồm các thông tin cơ bản như tên bài hát, tên nghệ sĩ, ảnh đại diện và các thông tin liên quan. Người dùng có thể lựa chọn một kết quả bất kỳ để chuyển đến trang chi tiết bài hát. Trong quá trình này, hệ thống đồng thời ghi nhận lịch sử tìm kiếm nhằm phục vụ cho việc thống kê và cá nhân hóa nội dung.
+Hình 17. Giao diện tìm kiếm bài hát
+Các bước thực hiện:
+<w:tab w:val="clear" w:pos="1069"/><w:tab w:val="num" w:pos="720"/></w:tabs><w:ind w:left="993" w:hanging="426"/></w:pPr><w:r w:rsidRPr="0007268D"><w:t xml:space="preserve">Người dùng truy cập vào trang tìm kiếm của hệ thống.
+<w:tab w:val="clear" w:pos="1069"/><w:tab w:val="num" w:pos="720"/></w:tabs><w:ind w:left="993" w:hanging="426"/></w:pPr><w:r w:rsidRPr="0007268D"><w:t>Người dùng nhập từ khóa vào ô tìm kiếm (có thể là tên bài hát hoặc tên nghệ sĩ) như trong Hình 18.
+<w:tab w:val="clear" w:pos="1069"/><w:tab w:val="num" w:pos="720"/></w:tabs><w:ind w:left="993" w:hanging="426"/></w:pPr><w:r w:rsidRPr="0007268D"><w:t xml:space="preserve">Hệ thống tiếp nhận từ khóa và kiểm tra tính hợp lệ của dữ liệu đầu vào.
+<w:tab w:val="clear" w:pos="1069"/><w:tab w:val="num" w:pos="720"/></w:tabs><w:ind w:left="993" w:hanging="426"/></w:pPr><w:r w:rsidRPr="0007268D"><w:t xml:space="preserve">Hệ thống thực hiện truy vấn dữ liệu trong cơ sở dữ liệu dựa trên từ khóa đã nhập.
+<w:tab w:val="clear" w:pos="1069"/><w:tab w:val="num" w:pos="720"/></w:tabs><w:ind w:left="993" w:hanging="426"/></w:pPr><w:r w:rsidRPr="0007268D"><w:t xml:space="preserve">Hệ thống xử lý và lọc các kết quả phù hợp với từ khóa tìm kiếm.
+<w:tab w:val="clear" w:pos="1069"/><w:tab w:val="num" w:pos="720"/></w:tabs><w:ind w:left="993" w:hanging="426"/></w:pPr><w:r w:rsidRPr="0007268D"><w:t xml:space="preserve">Kết quả tìm kiếm được hiển thị dạng danh sách bài hát hoặc nghệ sĩ tương ứng.
+<w:tab w:val="clear" w:pos="1069"/></w:tabs><w:ind w:left="993" w:hanging="426"/></w:pPr><w:r w:rsidRPr="0007268D"><w:t xml:space="preserve">Hệ thống ghi nhận từ khóa tìm kiếm vào lịch sử tìm kiếm của người dùng (nếu đã đăng nhập).
+Hình 18. Giao diện tìm kiếm bài hát khi nhập từ khóa
+Kết quả mong đợi:
++ Hiển thị danh sách kết quả chính xác và phù hợp với từ khóa tìm kiếm được thể hiện qua Hình 19.
++ Thời gian phản hồi nhanh, đảm bảo trải nghiệm người dùng.
++ Ghi nhận đúng lịch sử tìm kiếm để phục vụ thống kê và cá nhân hóa.
+Hình 19. Kết quả kiểm thử tìm kiếm bài hát
+Chức năng “Xem chi tiết bài hát”
+Chức năng xem chi tiết bài hát ở Hình 20 cho phép người dùng hoặc khách truy cập truy cập vào trang thông tin đầy đủ của một bài hát sau khi thực hiện tìm kiếm hoặc lựa chọn từ danh sách hiển thị. Đây là chức năng trung tâm của hệ thống, cung cấp các nội dung chính như lời bài hát (lyrics), ý nghĩa bài hát (meaning), video minh họa và các thông tin liên quan đến nghệ sĩ hoặc album.
+Khi người dùng truy cập vào một bài hát cụ thể, hệ thống sẽ truy vấn dữ liệu từ cơ sở dữ liệu và các nguồn API liên quan để hiển thị nội dung. Ngoài ra, hệ thống còn có thể đề xuất các bài hát liên quan nhằm nâng cao trải nghiệm người dùng. Đối với người dùng đã đăng nhập, chức năng này còn hỗ trợ các thao tác tương tác như bình luận.
+Các bước thực hiện
+<w:tab w:val="num" w:pos="720"/></w:tabs><w:rPr><w:lang w:eastAsia="ar-SA"/></w:rPr></w:pPr><w:r w:rsidRPr="001035A7"><w:rPr><w:lang w:eastAsia="ar-SA"/></w:rPr><w:t xml:space="preserve">Người dùng thực hiện tìm kiếm hoặc chọn một bài hát từ danh sách hiển thị.
+<w:tab w:val="num" w:pos="720"/></w:tabs><w:rPr><w:lang w:eastAsia="ar-SA"/></w:rPr></w:pPr><w:r w:rsidRPr="001035A7"><w:rPr><w:lang w:eastAsia="ar-SA"/></w:rPr><w:t xml:space="preserve">Người dùng nhấn vào bài hát để truy cập trang chi tiết.
+<w:tab w:val="num" w:pos="720"/></w:tabs><w:rPr><w:lang w:eastAsia="ar-SA"/></w:rPr></w:pPr><w:r w:rsidRPr="001035A7"><w:rPr><w:lang w:eastAsia="ar-SA"/></w:rPr><w:t xml:space="preserve">Hệ thống tiếp nhận yêu cầu và xác định mã bài hát tương ứng.
+<w:tab w:val="num" w:pos="720"/></w:tabs><w:rPr><w:lang w:eastAsia="ar-SA"/></w:rPr></w:pPr><w:r w:rsidRPr="001035A7"><w:rPr><w:lang w:eastAsia="ar-SA"/></w:rPr><w:t xml:space="preserve">Hệ thống truy vấn dữ liệu bài hát từ cơ sở dữ liệu (tên bài hát, nghệ sĩ, album, ảnh, lyrics, meaning).
+<w:tab w:val="num" w:pos="720"/></w:tabs><w:rPr><w:lang w:eastAsia="ar-SA"/></w:rPr></w:pPr><w:r w:rsidRPr="001035A7"><w:rPr><w:lang w:eastAsia="ar-SA"/></w:rPr><w:t xml:space="preserve">Hệ thống gọi API (nếu cần) để lấy thêm dữ liệu như lyrics hoặc video YouTube.
+<w:tab w:val="num" w:pos="720"/></w:tabs><w:rPr><w:lang w:eastAsia="ar-SA"/></w:rPr></w:pPr><w:r w:rsidRPr="001035A7"><w:rPr><w:lang w:eastAsia="ar-SA"/></w:rPr><w:t xml:space="preserve">Hệ thống xử lý và tổng hợp dữ liệu.
+<w:tab w:val="num" w:pos="720"/></w:tabs><w:rPr><w:lang w:eastAsia="ar-SA"/></w:rPr></w:pPr><w:r w:rsidRPr="001035A7"><w:rPr><w:lang w:eastAsia="ar-SA"/></w:rPr><w:t xml:space="preserve">Trang chi tiết bài hát được hiển thị, bao gồm:
++ Lời bài hát
++ Ý nghĩa bài hát
++ Video minh họa
++ Thông tin nghệ sĩ và album
++ Các bài hát liên quan
+Người dùng có thể tiếp tục thực hiện các thao tác như bình luận, theo dõi nghệ sĩ hoặc yêu thích album (nếu đã đăng nhập).
+Hình 20. Giao diện xem chi tiết bài hát
+Kết quả mong đợi
++ Hiển thị đầy đủ và chính xác thông tin của bài hát được chọn.
++ Nội dung lyrics, meaning và video được tải đúng và đầy đủ.
++ Giao diện hiển thị rõ ràng, dễ theo dõi.
++ Cho phép người dùng thực hiện các tương tác liên quan như bình luận và thêm bài hát vào playlist như Hình 21.
+Hình 21. Giao diện thực hiện chức năng bình luận và thêm vào playlist
+Chức năng “Phân tích lại ý nghĩa bằng AI”
+Chức năng phân tích lại ý nghĩa bài hát bằng AI ở Hình 22 cho phép người dùng nhận được nội dung diễn giải, phân tích sâu về ý nghĩa của lời bài hát thông qua công nghệ trí tuệ nhân tạo. Đây là một trong những chức năng nổi bật của hệ thống Musicalisation, giúp nâng cao giá trị trải nghiệm so với các hệ thống tra cứu lyrics thông thường.
+Khi người dùng truy cập vào trang chi tiết bài hát và yêu cầu phân tích, hệ thống sẽ gửi nội dung lyrics đến dịch vụ AI (Google Gemini API) để xử lý. Kết quả trả về là phần diễn giải ý nghĩa bài hát dưới dạng văn bản, có thể bao gồm nội dung tóm tắt, phân tích chủ đề, cảm xúc và thông điệp mà bài hát truyền tải. Nội dung này được hiển thị trực tiếp trên giao diện người dùng.
+Hình 22. Giao diện phân tích lại ý nghĩa bài hát bằng AI
+Các bước thực hiện
+Người dùng truy cập vào trang chi tiết bài hát.
+Người dùng chọn chức năng “Phân tích ý nghĩa bằng AI”.
+Hệ thống tiếp nhận yêu cầu và lấy nội dung lyrics của bài hát.
+Hệ thống gửi dữ liệu lyrics đến API AI (Google Gemini) qua Hình 23.
+Dịch vụ AI xử lý và trả về kết quả phân tích ý nghĩa bài hát.
+Hệ thống nhận dữ liệu phản hồi và kiểm tra tính hợp lệ của kết quả.
+Kết quả phân tích được hiển thị trên giao diện người dùng.
+Hệ thống có thể lưu kết quả phân tích để tối ưu cho các lần truy cập sau.
+Hình 23. Giao diện khi nhấn phân tích lại
+Kết quả mong đợi
++ Nội dung phân tích ý nghĩa bài hát rõ ràng, dễ hiểu và phù hợp với nội dung lyrics.
++ Thời gian phản hồi hợp lý, đảm bảo trải nghiệm người dùng.
++ Không xảy ra lỗi khi gọi API hoặc xử lý dữ liệu.
++ Hiển thị đúng nội dung phân tích trên giao diện hệ thống qua Hình 24.
+Hình 24. Kết quả kiểm thử phân tích lại ý nghĩa bằng AI
+Chức năng “Xem và làm mới bài hát gợi ý”
+Chức năng xem và làm mới bài hát gợi ý ở Hình 25 cho phép người dùng nhận được danh sách các bài hát được đề xuất dựa trên hành vi sử dụng như lịch sử nghe, tìm kiếm và sở thích cá nhân. Đây là chức năng thể hiện khả năng cá nhân hóa của hệ thống Musicalisation, giúp nâng cao trải nghiệm người dùng bằng cách cung cấp nội dung phù hợp.
+Hệ thống sử dụng dữ liệu từ lịch sử tìm kiếm, nghệ sĩ đã theo dõi, album đã yêu thích và các tương tác trước đó để phân tích và đưa ra danh sách gợi ý. Ngoài ra, người dùng có thể sử dụng chức năng “Làm mới” để yêu cầu hệ thống cập nhật lại danh sách gợi ý, giúp đa dạng hóa nội dung hiển thị.
+Hình 25. Giao diện xem và làm mới bài hát gợi ý
+Các bước thực hiện
+Người dùng truy cập vào trang Hồ sơ cá nhân.
+Hệ thống tự động thu thập dữ liệu hành vi của người dùng (lịch sử tìm kiếm, tương tác, sở thích).
+Hệ thống phân tích dữ liệu và xác định các đặc điểm âm nhạc phù hợp (nghệ sĩ, thể loại, xu hướng nghe).
+Hệ thống truy vấn cơ sở dữ liệu để tìm các bài hát phù hợp với hồ sơ người dùng.
+Danh sách bài hát gợi ý được hiển thị trên giao diện, kèm theo mô tả ngắn về lý do đề xuất ở .
+Người dùng có thể chọn một bài hát bất kỳ để xem chi tiết.
+Khi người dùng nhấn nút “Làm mới”, hệ thống tiếp nhận yêu cầu cập nhật danh sách.
+Hệ thống thực hiện lại quá trình phân tích và truy vấn dữ liệu để tạo danh sách gợi ý mới ở Hình 26.
+Danh sách bài hát gợi ý mới được hiển thị thay thế danh sách cũ.
+Hình 26. Giao diện làm mới danh sách bài hát gợi ý
+Kết quả mong đợi
++ Hiển thị danh sách bài hát phù hợp với sở thích và hành vi của người dùng.
++ Nội dung gợi ý có tính cá nhân hóa cao và có sự đa dạng.
++ Chức năng “Làm mới” hoạt động chính xác, cập nhật danh sách mới mà không lỗi được thể hiện ở Hình 27.
++ Thời gian phản hồi nhanh, đảm bảo trải nghiệm người dùng mượt mà.
+Hình 27. Kết quả kiểm thử làm mới danh sách gợi ý bài hát
+Chức năng “Theo dõi và nhận thông báo tin tức từ nghệ sĩ”
+</w:r><w:r w:rsidRPr="00391B74"><w:t>Chức năng theo dõi nghệ sĩ và nhận thông báo cho phép người dùng cập nhật các tin tức mới nhất liên quan đến những nghệ sĩ mà họ quan tâm. Khi người dùng thực hiện theo dõi một nghệ sĩ ở Hình 28, hệ thống sẽ ghi nhận mối quan hệ này và tự động gửi thông báo mỗi khi có tin tức mới được đăng liên quan đến nghệ sĩ đó.
+Chức năng này giúp tăng mức độ tương tác giữa người dùng và hệ thống, đồng thời hỗ trợ cá nhân hóa nội dung hiển thị. Các thông báo được lưu trữ trong hệ thống và hiển thị trong mục thông báo, cho phép người dùng dễ dàng theo dõi và truy cập lại các tin tức đã nhận.
+Hình 28. Giao diện theo dõi nghệ sĩ
+Các bước thực hiện
+Người dùng truy cập vào trang thông tin nghệ sĩ.
+Người dùng nhấn nút “Theo dõi” nghệ sĩ.
+Hệ thống tiếp nhận yêu cầu và lưu thông tin theo dõi vào cơ sở dữ liệu.
+Khi có tin tức mới liên quan đến nghệ sĩ được đăng (từ phía quản trị viên) ở Hình 29, hệ thống ghi nhận sự kiện này.
+Hệ thống xác định danh sách người dùng đang theo dõi nghệ sĩ đó.
+Hệ thống tạo thông báo tương ứng cho từng người dùng.
+Thông báo được lưu vào bảng dữ liệu thông báo.
+Người dùng truy cập mục “Thông báo” để xem danh sách thông báo ở Hình 30.
+Người dùng có thể nhấn vào thông báo để xem chi tiết tin tức ở .
+Người dùng có thể đánh dấu thông báo là đã đọc.
+Hình 29. Giao diện thêm tin tức về nghệ sĩ được theo dõi
+Hình 30. Giao diện xuất hiện thông báo khi tin tức được thêm
+Kết quả mong đợi
++ Người dùng theo dõi thành công nghệ sĩ.
++ Khi có tin tức mới, hệ thống tự động tạo và gửi thông báo chính xác.
++ Thông báo hiển thị đầy đủ nội dung và liên kết đến tin tức tương ứng.
++ Người dùng có thể quản lý trạng thái đã đọc/chưa đọc của thông báo ở Hình 31.
+Hình 31. Kết quả kiểm thử xem thông báo và đánh dấu đã đọc
+Chức năng “Xem recap cá nhân theo tháng”
+Chức năng xem recap cá nhân ở Hình 32 cho phép người dùng theo dõi và tổng hợp lại hoạt động nghe nhạc của mình trong một khoảng thời gian nhất định (theo tháng hoặc theo khoảng thời gian tùy chọn). Đây là chức năng mang tính cá nhân hóa cao, giúp người dùng hiểu rõ hơn về thói quen nghe nhạc, sở thích âm nhạc cũng như xu hướng sử dụng hệ thống.
+Hệ thống sẽ thu thập và phân tích dữ liệu từ lịch sử tìm kiếm, các bài hát đã xem, nghệ sĩ đã theo dõi và các tương tác khác của người dùng. Dựa trên các dữ liệu này, hệ thống tạo ra bản recap bao gồm các thông tin như bài hát nghe nhiều nhất, nghệ sĩ yêu thích, thể loại phổ biến và tần suất sử dụng. Kết quả được hiển thị dưới dạng trực quan, giúp người dùng dễ dàng theo dõi và đánh giá hành vi của mình.
+Hình 32. Giao diện xem recap cá nhân theo tháng
+Các bước thực hiện
+Người dùng đăng nhập vào hệ thống.
+Người dùng truy cập vào chức năng “Recap cá nhân”.
+Hệ thống tiếp nhận yêu cầu và xác định khoảng thời gian cần tổng hợp dữ liệu.
+Hệ thống truy vấn dữ liệu từ các bảng liên quan như lịch sử tìm kiếm, bài hát đã xem và các tương tác của người dùng.
+Hệ thống phân tích dữ liệu để xác định các thông tin như:
++ Bài hát được xem nhiều nhất
++ Nghệ sĩ được quan tâm nhiều nhất
++ Thể loại nhạc phổ biến
++ Tần suất truy cập hệ thống
+Hệ thống tổng hợp kết quả thành một bản recap hoàn chỉnh.
+Kết quả recap được hiển thị trên giao diện người dùng dưới dạng danh sách hoặc biểu đồ.
+Người dùng có thể xem chi tiết từng nội dung hoặc chuyển sang các chức năng liên quan (ví dụ: xem bài hát, xem nghệ sĩ) ở Hình 33.
+Kết quả mong đợi
+Hiển thị chính xác các thông tin tổng hợp dựa trên dữ liệu thực tế của người dùng.
+Nội dung recap rõ ràng, dễ hiểu và có tính trực quan.
+Thời gian xử lý hợp lý, không gây chậm hệ thống.
+Dữ liệu phản ánh đúng hành vi và sở thích của người dùng trong khoảng thời gian đã chọn.
+Hình 33. Kết quả kiểm thử xem recap cá nhân theo tháng
+Chức năng “Xem phân tích cá nhân hóa theo gu âm nhạc”
+Chức năng xem phân tích cá nhân hóa theo gu âm nhạc ở Hình 34 cho phép người dùng khám phá và hiểu rõ hơn về sở thích âm nhạc của bản thân thông qua việc phân tích dữ liệu hành vi. Đây là một chức năng nâng cao của hệ thống Musicalisation, sử dụng dữ liệu từ lịch sử tìm kiếm, bài hát đã xem, nghệ sĩ đã theo dõi và các tương tác khác để xây dựng hồ sơ âm nhạc cá nhân (music persona).
+Kết quả phân tích được trình bày dưới dạng trực quan, bao gồm các thông tin như xu hướng nghe nhạc, thể loại yêu thích, nghệ sĩ nổi bật, mức độ tương tác và các nhận định tổng quát về gu âm nhạc của người dùng. Ngoài ra, hệ thống còn đưa ra các gợi ý mở rộng như nghệ sĩ hoặc album phù hợp để người dùng tiếp tục khám phá.
+Hình 34. Giao diện xem phân tích cá nhân hóa theo gu âm nhạc
+Các bước thực hiện
+Người dùng đăng nhập vào hệ thống.
+Người dùng truy cập vào trang “Persona” hoặc chọn chức năng phân tích cá nhân hóa.
+Hệ thống tiếp nhận yêu cầu và thu thập dữ liệu hành vi của người dùng từ các nguồn:
++ Lịch sử tìm kiếm
++ Bài hát đã xem
++ Nghệ sĩ đã theo dõi
++ Album đã yêu thích
+Hệ thống tiến hành phân tích dữ liệu để xác định các đặc điểm chính của gu âm nhạc, bao gồm:
++ Thể loại nhạc yêu thích
++ Nghệ sĩ nghe nhiều nhất
++ Xu hướng nghe (nghe lặp lại, khám phá mới, theo album,…)
++ Mức độ tương tác với hệ thống
+Hệ thống tổng hợp kết quả và tạo hồ sơ “music persona” cho người dùng.
+Kết quả được hiển thị trên giao diện ở Hình 35, bao gồm:
++ Mô tả tổng quan về gu âm nhạc (ví dụ: Album Explorer)
++ Các chỉ số thống kê (lượt nghe, tỉ lệ thể loại, mức độ tương tác)
++ Nhận định và giải thích từ hệ thống
+Hệ thống đề xuất thêm các nội dung liên quan như:
++ Bài hát phù hợp hiện tại
++ Nghệ sĩ nên khám phá
++ Album gợi ý
+Người dùng có thể tương tác tiếp bằng cách xem chi tiết hoặc chuyển sang các chức năng liên quan.
+Hình 35. Giao diện phân tích gu âm nhạc
+Kết quả mong đợi
+Hiển thị chính xác và rõ ràng hồ sơ gu âm nhạc của người dùng.
+Nội dung phân tích có tính cá nhân hóa cao, phù hợp với hành vi thực tế.
+Các nhận định và gợi ý có ý nghĩa, hỗ trợ người dùng khám phá thêm nội dung mới ở Hình 36.
+Giao diện trực quan, dễ hiểu và dễ tương tác.
+Hình 36. Kết quả kiểm thử đưa ra gợi ý dựa vào phân tích
+Chức năng “Yêu thích và đánh giá album”
+Chức năng yêu thích và đánh giá album ở Hình 37 cho phép người dùng thể hiện mức độ quan tâm và cảm nhận cá nhân đối với một album cụ thể. Đây là chức năng tương tác quan trọng, giúp hệ thống thu thập dữ liệu hành vi nhằm phục vụ cho việc cá nhân hóa nội dung và cải thiện chất lượng gợi ý.
+Người dùng có thể thêm một album vào danh sách yêu thích để dễ dàng truy cập lại sau này. Đồng thời, người dùng có thể đánh giá album thông qua hệ thống chấm điểm (theo số sao), từ đó hệ thống tính toán điểm trung bình và số lượt đánh giá để hiển thị cho cộng đồng. Các dữ liệu này không chỉ phản ánh xu hướng người dùng mà còn hỗ trợ các chức năng như gợi ý bài hát, recap và music persona.
+Hình 37. Giao diện xem chi tiết album để yêu thích và đánh giá
+Các bước thực hiện
+A. Yêu thích album
+<w:tab w:val="clear" w:pos="720"/><w:tab w:val="num" w:pos="927"/></w:tabs><w:ind w:left="927"/></w:pPr><w:r w:rsidRPr="00E84B2A"><w:t xml:space="preserve">Người dùng đăng nhập vào hệ thống.
+<w:tab w:val="clear" w:pos="720"/><w:tab w:val="num" w:pos="927"/></w:tabs><w:ind w:left="927"/></w:pPr><w:r w:rsidRPr="00E84B2A"><w:t xml:space="preserve">Người dùng truy cập vào trang chi tiết album.
+<w:tab w:val="clear" w:pos="720"/><w:tab w:val="num" w:pos="927"/></w:tabs><w:ind w:left="927"/></w:pPr><w:r w:rsidRPr="00E84B2A"><w:t>Người dùng nhấn vào biểu tượng “Yêu thích” (heart icon) ở Hình 38.
+<w:tab w:val="clear" w:pos="720"/><w:tab w:val="num" w:pos="927"/></w:tabs><w:ind w:left="927"/></w:pPr><w:r w:rsidRPr="00E84B2A"><w:t xml:space="preserve">Hệ thống tiếp nhận yêu cầu và kiểm tra trạng thái yêu thích hiện tại.
+<w:tab w:val="clear" w:pos="720"/><w:tab w:val="num" w:pos="927"/></w:tabs><w:ind w:left="927"/></w:pPr><w:r w:rsidRPr="00E84B2A"><w:t xml:space="preserve">Hệ thống lưu thông tin vào bảng dữ liệu yêu thích (user – album).
+<w:tab w:val="clear" w:pos="720"/><w:tab w:val="num" w:pos="927"/></w:tabs><w:ind w:left="927"/></w:pPr><w:r w:rsidRPr="00E84B2A"><w:t>Giao diện cập nhật trạng thái đã yêu thích (đổi màu biểu tượng) như Hình 39.
+7. Người dùng nhấn lại vào biểu tượng yêu thích.8. Hệ thống xóa dữ liệu yêu thích tương ứng.9. Giao diện cập nhật lại trạng thái ban đầu.
+Hình 38. Giao diện yêu thích album
+Hình 39. Kết quả kiểm thử yêu thích album
+B. Đánh giá album
+Người dùng truy cập trang chi tiết album.
+Người dùng chọn số sao để đánh giá (từ 1 đến 5 sao) như Hình 40.
+Hệ thống tiếp nhận giá trị đánh giá.
+Hệ thống kiểm tra người dùng đã đánh giá trước đó hay chưa:
++ Nếu chưa: thêm mới đánh giá
++ Nếu đã có: cập nhật lại đánh giá
+Hệ thống lưu dữ liệu đánh giá vào cơ sở dữ liệu.
+Hệ thống tính toán lại:
++ Điểm trung bình của album
++ Tổng số lượt đánh giá
+Giao diện hiển thị kết quả cập nhật (điểm trung bình và số lượt đánh giá) như
+Hình 41.
+Hình 40. Giao diện đánh giá album
+Hình 41. Kết quả kiểm thử đánh giá album
+Kết quả mong đợi
++ Người dùng có thể yêu thích hoặc hủy yêu thích album một cách dễ dàng.
++ Hệ thống lưu trữ chính xác trạng thái yêu thích của người dùng.
++ Người dùng có thể đánh giá album và cập nhật đánh giá của mình.
++ Điểm trung bình và số lượt đánh giá được tính toán chính xác.
++ Giao diện phản hồi nhanh và hiển thị đúng trạng thái tương tác.
+Chức năng “Bình luận bài hát và phản hồi bình luận”
+Chức năng bình luận bài hát ở Hình 42 cho phép người dùng chia sẻ cảm nhận, ý kiến cá nhân về bài hát và tương tác với cộng đồng người dùng khác. Đây là một chức năng quan trọng giúp tăng tính tương tác và xây dựng cộng đồng trong hệ thống Musicalisation.
+Người dùng có thể đăng bình luận mới, chỉnh sửa hoặc xóa bình luận của mình. Ngoài ra, hệ thống hỗ trợ các chức năng tương tác nâng cao như thích (like) bình luận và phản hồi (reply) bình luận của người khác. Các dữ liệu này được lưu trữ và hiển thị theo cấu trúc phân cấp, giúp người dùng dễ dàng theo dõi các cuộc thảo luận.
+Hình 42. Giao diện bình luận bài hát
+Các bước thực hiện:
+A. Bình luận bài hát
+Người dùng đăng nhập vào hệ thống.
+Người dùng truy cập trang chi tiết bài hát.
+Người dùng nhập nội dung vào ô “Nhập bình luận”.
+Người dùng nhấn nút “Gửi bình luận”.
+Hệ thống kiểm tra dữ liệu đầu vào (không rỗng, hợp lệ).
+Hệ thống lưu nội dung bình luận vào cơ sở dữ liệu.
+Bình luận mới được hiển thị trong danh sách bình luận như Hình 43.
+Hình 43. Kết quả kiểm thử nhập bình luận bài hát
+B. Yêu thích (Like) bình luận
+Người dùng nhấn vào biểu tượng “Thích” trên một bình luận.
+Hệ thống tiếp nhận yêu cầu và kiểm tra trạng thái trước đó.
+Hệ thống cập nhật số lượt thích (tăng/giảm).
+Giao diện hiển thị số lượt thích mới như Hình 44.
+Hình 44. Kết quả kiểm thử yêu thích bình luận
+C. Phản hồi (Reply) bình luận
+Người dùng chọn chức năng “Phản hồi” trên một bình luận.
+Người dùng nhập nội dung phản hồi.
+Người dùng gửi phản hồi.
+Hệ thống lưu phản hồi vào cơ sở dữ liệu, liên kết với bình luận cha.
+Phản hồi được hiển thị bên dưới bình luận tương ứng (dạng phân cấp) như Hình 45.
+Hình 45. Kết quả kiểm thử phản hồi bình luận
+Kết quả mong đợi
++ Người dùng có thể đăng, sửa và xóa bình luận một cách chính xác.
++ Các bình luận được hiển thị đầy đủ, đúng thứ tự thời gian.
++ Chức năng thích bình luận hoạt động chính xác, cập nhật số lượt thích theo thời gian thực.
++ Phản hồi bình luận được hiển thị đúng cấu trúc, dễ theo dõi.
++ Hệ thống đảm bảo phân quyền đúng (không cho phép sửa/xóa bình luận của người khác).
+Chức năng “Lọc và xuất file báo cáo CSV lịch sử tìm kiếm”
+Chức năng lọc và xuất file báo cáo CSV lịch sử tìm kiếm cho phép quản trị viên theo dõi, phân tích hành vi tìm kiếm của người dùng trong hệ thống. Thông qua chức năng ở giao diện Hình 46 này, quản trị viên có thể lọc dữ liệu theo nhiều tiêu chí khác nhau như nghệ sĩ, người dùng và khoảng thời gian, từ đó phục vụ cho việc đánh giá xu hướng và mức độ quan tâm của người dùng.
+Sau khi áp dụng các bộ lọc, hệ thống sẽ hiển thị danh sách dữ liệu tương ứng và cho phép xuất toàn bộ dữ liệu này ra file CSV. File xuất ra có thể được sử dụng để phân tích bên ngoài, lập báo cáo thống kê hoặc phục vụ các mục đích quản trị khác.
+Hình 46. Giao diện quản lý lịch sử tìm kiếm phía admin
+Các bước thực hiện
+A. Lọc dữ liệu lịch sử tìm kiếm
+Quản trị viên đăng nhập vào hệ thống quản trị.
+Truy cập vào trang “Lịch sử tìm kiếm”.
+Nhập hoặc chọn các tiêu chí lọc, bao gồm:
++ Nghệ sĩ
++ ID người dùng
++ Khoảng thời gian (từ ngày – đến ngày)
+Nhấn nút “Lọc dữ liệu”.
+Hệ thống tiếp nhận yêu cầu và kiểm tra tính hợp lệ của dữ liệu đầu vào.
+Hệ thống truy vấn dữ liệu từ bảng lịch sử tìm kiếm theo các điều kiện đã chọn.
+Kết quả được hiển thị dưới dạng danh sách như Hình 47.
+Hình 47. Kết quả lọc dữ liệu lịch sử tìm kiếm theo yêu cầu
+B. Xuất file CSV
+Sau khi dữ liệu đã được lọc, quản trị viên nhấn nút “Xuất CSV”.
+Hệ thống tiếp nhận yêu cầu xuất dữ liệu như Hình 48.
+Hệ thống lấy dữ liệu hiện tại theo bộ lọc đang áp dụng.
+Hệ thống chuyển đổi dữ liệu sang định dạng CSV.
+File CSV được tạo và gửi về trình duyệt.
+Người dùng tải file về máy để sử dụng.
+Hình 48. Tiến hành xuất file báo cáo CSV dựa vào kết quả lọc lịch sử tìm kiếm
+Kết quả mong đợi
++ Dữ liệu được lọc chính xác theo các tiêu chí đã chọn.
++ Hiển thị danh sách lịch sử tìm kiếm rõ ràng, đầy đủ.
++ File CSV được xuất đúng định dạng, không lỗi font và đầy đủ dữ liệu như Hình 49.
++ Thời gian xử lý nhanh, đảm bảo trải nghiệm quản trị.
+Hình 49. Kết quả kiểm thử xuất file CSV sau khi lọc lịch sử tìm kiếm
+Tổng kết chương
+Chương 4 đã trình bày quá trình kiểm thử và đánh giá các chức năng chính của hệ thống Musicalisation nhằm đảm bảo tính chính xác, ổn định và khả năng đáp ứng yêu cầu thực tế. Thông qua việc xây dựng các kịch bản kiểm thử cụ thể, hệ thống đã được đánh giá trên nhiều khía cạnh khác nhau, bao gồm xử lý dữ liệu đầu vào, phản hồi kết quả và khả năng xử lý các tình huống ngoại lệ.
+Các chức năng tiêu biểu như tìm kiếm bài hát, xem chi tiết nội dung, tương tác bình luận, theo dõi nghệ sĩ, gợi ý cá nhân hóa, phân tích ý nghĩa bằng AI và các chức năng quản trị như lọc dữ liệu, xuất báo cáo CSV đã được kiểm thử và cho kết quả hoạt động đúng với thiết kế ban đầu. Bên cạnh đó, hệ thống cũng đảm bảo tính nhất quán dữ liệu, phân quyền hợp lý và khả năng phản hồi nhanh trong quá trình sử dụng.
+Kết quả kiểm thử cho thấy hệ thống đáp ứng tốt các yêu cầu chức năng đã đề ra, đồng thời đảm bảo trải nghiệm người dùng mượt mà và hiệu quả. Tuy vẫn có thể tiếp tục cải tiến về hiệu năng và tối ưu hóa xử lý dữ liệu trong tương lai, nhưng nhìn chung hệ thống đã đạt được mức độ hoàn thiện cần thiết để triển khai trong môi trường thực tế.
+Như vậy, chương này đã khẳng định tính khả thi và độ tin cậy của hệ thống Musicalisation, tạo tiền đề cho việc kết luận và định hướng phát triển ở chương tiếp theo.
+KẾT LUẬN VÀ HƯỚNG PHÁT TRIỂN
+Kết luận
+Sau quá trình nghiên cứu, phân tích, thiết kế và cài đặt, đề tài “Xây dựng hệ thống Musicalisation – tra cứu lời bài hát và phân tích ý nghĩa kết hợp AI và cá nhân hóa nội dung” đã hoàn thành và đạt được những kết quả quan trọng sau:
++ Thiết kế và xây dựng thành công hệ thống dựa trên kiến trúc web theo hướng phân tách rõ ràng giữa các thành phần giao diện, xử lý nghiệp vụ và dữ liệu, giúp hệ thống dễ dàng bảo trì, nâng cấp và mở rộng trong tương lai.
++ Đưa ra giải pháp hiệu quả cho bài toán tra cứu bài hát: Hệ thống hỗ trợ tìm kiếm nhanh chóng bài hát, nghệ sĩ, album và tin tức, khắc phục các hạn chế của việc tra cứu thủ công như mất thời gian và thiếu tính hệ thống.
++ Tích hợp trí tuệ nhân tạo (AI): Hệ thống sử dụng API AI (Google Gemini) để phân tích ý nghĩa bài hát, giúp người dùng hiểu sâu hơn về nội dung và thông điệp của bài hát, nâng cao trải nghiệm so với các hệ thống tra cứu lyrics truyền thống.
++ Xây dựng các chức năng cá nhân hóa: Hệ thống cung cấp các tính năng như gợi ý bài hát, recap cá nhân và music persona dựa trên hành vi người dùng, giúp tăng tính tương tác và cá nhân hóa nội dung.
++ Phát triển hệ thống quản trị: Hệ thống hỗ trợ quản trị viên quản lý dữ liệu người dùng, nghệ sĩ, bài hát, tin tức, cũng như cung cấp các chức năng thống kê và xuất báo cáo (CSV/PDF), phục vụ cho việc theo dõi và phân tích dữ liệu hệ thống.
+Về các hạn chế của đề tài:
++ Hệ thống phụ thuộc vào các API bên ngoài (lyrics, AI, YouTube), do đó có thể bị ảnh hưởng về tốc độ phản hồi hoặc giới hạn truy cập nếu dịch vụ bên thứ ba gặp sự cố.
++ Chức năng phân tích ý nghĩa bằng AI vẫn còn hạn chế trong việc xử lý các nội dung phức tạp hoặc ngữ cảnh đặc thù, do phụ thuộc vào chất lượng dữ liệu đầu vào và mô hình AI sử dụng.
++ Chức năng cá nhân hóa (gợi ý, persona, recap) hiện chủ yếu dựa trên các luật và dữ liệu hành vi cơ bản, chưa áp dụng các mô hình học máy nâng cao để tối ưu độ chính xác.
++ Hệ thống hiện chỉ triển khai trên nền tảng web, chưa có phiên bản ứng dụng di động, do đó chưa tận dụng tối đa khả năng tiếp cận người dùng trên các thiết bị khác.
+Nhìn chung, hệ thống Musicalisation đã đạt được các mục tiêu đề ra, cung cấp một nền tảng tra cứu và trải nghiệm âm nhạc hiện đại, kết hợp giữa dữ liệu, trí tuệ nhân tạo và cá nhân hóa, đồng thời là cơ sở để tiếp tục nghiên cứu và phát triển trong các hướng tiếp theo.
+Hướng phát triển
+Dựa trên kết quả đã đạt được, hệ thống Musicalisation vẫn còn nhiều tiềm năng để tiếp tục phát triển và hoàn thiện trong tương lai. Một số hướng phát triển đề xuất như sau:
++ Nâng cấp hệ thống cá nhân hóa bằng Machine Learning: Thay vì chỉ dựa trên các luật đơn giản và hành vi cơ bản, hệ thống có thể áp dụng các mô hình học máy như Collaborative Filtering hoặc Deep Learning để nâng cao độ chính xác của gợi ý bài hát, music persona và recap cá nhân.
++ Cải thiện chức năng phân tích ý nghĩa bằng AI: Tích hợp các mô hình AI mạnh hơn hoặc huấn luyện mô hình riêng với dữ liệu âm nhạc để nâng cao chất lượng phân tích, đặc biệt đối với các bài hát có nội dung phức tạp hoặc nhiều tầng ý nghĩa.
++ Phát triển ứng dụng di động (Mobile App): Xây dựng phiên bản ứng dụng trên Android/iOS nhằm mở rộng phạm vi người dùng và tăng tính tiện lợi khi sử dụng hệ thống mọi lúc, mọi nơi.
++ Tối ưu hiệu năng hệ thống: Áp dụng các kỹ thuật caching, tối ưu truy vấn cơ sở dữ liệu và xử lý bất đồng bộ (async) khi gọi API nhằm giảm thời gian phản hồi và nâng cao trải nghiệm người dùng.
++ Mở rộng chức năng cộng đồng: Bổ sung các tính năng như xếp hạng bình luận, chia sẻ bài hát, tạo playlist cá nhân hoặc theo dõi người dùng khác để tăng tính tương tác và xây dựng cộng đồng người dùng.
++ Tích hợp hệ thống đề xuất đa nguồn: Kết hợp thêm dữ liệu từ các nền tảng âm nhạc khác (Spotify, Apple Music, YouTube Music) để đa dạng hóa nguồn dữ liệu và nâng cao chất lượng gợi ý.
++ Tăng cường bảo mật và phân quyền: Cải thiện các cơ chế bảo mật như xác thực nâng cao (2FA), mã hóa dữ liệu nhạy cảm và kiểm soát truy cập nhằm đảm bảo an toàn thông tin người dùng.
++ Mở rộng hệ thống báo cáo và phân tích dữ liệu: Phát triển dashboard nâng cao với các biểu đồ trực quan, hỗ trợ phân tích sâu hơn về hành vi người dùng và xu hướng âm nhạc.
+TÀI LIỆU THAM KHẢO
+1.<w:t>AZLyrics - request for access [Internet]. [cited 2026 Apr 18]. Available from: https://b.azlyrics.com/?u=/
+2.<w:t>Lyrics.ovh API — Free Public API | Public APIs Directory [Internet]. [cited 2025 Dec 23]. Available from: https://publicapis.io/lyrics-ovh-api
+3.<w:t>Song Lyrics APIs [Internet]. [cited 2025 Dec 23]. Available from: https://rapidapi.com/collection/lyrics-apis
+4.<w:t>How to get Song Lyrics with Free API? | OpenAPIHub Community [Internet]. [cited 2025 Dec 23]. Available from: https://blog.openapihub.com/en-us/how-to-get-song-lyrics-with-free-api/
+5.<w:t>Genius [Internet]. [cited 2026 Apr 18]. Genius | Song Lyrics & Knowledge. Available from: https://genius.com/
+6.<w:t>DBMS Tutorial – Learn Database Management System - GeeksforGeeks [Internet]. [cited 2025 Dec 23]. Available from: https://www.geeksforgeeks.org/dbms/dbms/
+7.<w:t>Clean Blog - Bootstrap Blog Theme - Start Bootstrap [Internet]. [cited 2025 Dec 23]. Available from: https://startbootstrap.com/theme/clean-blog
+8.<w:t>SB Admin 2 - Free Bootstrap Admin Theme - Start Bootstrap [Internet]. [cited 2025 Dec 23]. Available from: https://startbootstrap.com/theme/sb-admin-2
+9.<w:t>Singh AP. Client-Server Architecture [Internet]. 2024 [cited 2025 Dec 23]. Available from: https://blog.algomaster.io/p/client-server-architecture-explained
+PHỤ LỤC: README HƯỚNG DẪN CÀI ĐẶT HỆ THỐNG
+1. Giới thiệu
+Musicalisation là hệ thống website âm nhạc được xây dựng bằng PHP thuần kết hợp với MySQL/MariaDB, gồm hai phân hệ chính:
++ Public: dành cho người dùng tra cứu và tương tác
++ Admin: dành cho quản trị viên quản lý dữ liệu
+Hệ thống hỗ trợ các chức năng như tìm kiếm bài hát, nghệ sĩ, album, tin tức, bình luận, theo dõi nghệ sĩ, gợi ý cá nhân hóa, phân tích ý nghĩa bài hát bằng AI và quản trị dữ liệu hệ thống. Nội dung dưới đây được tóm lược từ tài liệu README bàn giao của project.
+2. Repository GitHub
+Repository hiện tại của project:
+https://github.com/hoawithanf/LVTN_HTTT_B2203442
+3. Cấu trúc cơ bản của project
+Project được tổ chức theo dạng website PHP truyền thống, không sử dụng framework MVC hoàn chỉnh. Các thư mục chính gồm:
+Musicalisation/├── public/ ├── admin/ ├── config/ ├── recommendation/├── docker/├── Dockerfile├── docker-compose.yml└── README.md
+Trong đó:
++ public/ chứa các trang giao diện người dùng
++ admin/ chứa các trang quản trị
++ config/ chứa các file helper như kết nối cơ sở dữ liệu, xác thực, xử lý bài hát, bình luận, recommendation, AI, YouTube
+4. Hướng dẫn clone project
+Mở terminal hoặc command prompt và thực hiện:
+git clone https://github.com/hoawithanf/LVTN_HTTT_B2203442.gitcd LVTN_HTTT_B2203442
+Sau khi clone, toàn bộ mã nguồn sẽ được tải về máy.
+5. Chuẩn bị file môi trường
+Tạo file .env tại thư mục gốc của project và khai báo các biến cần thiết, ví dụ:
+OPENAI_API_KEY=...OPENAI_MODEL=gpt-4.1-miniGEMINI_API_KEY=...GENIUS_TOKEN=...YOUTUBE_API_KEY=...
+Lưu ý:
++ Không commit file .env
++ Không hardcode API key vào mã nguồn PHP
+6. Chuẩn bị cơ sở dữ liệu
+Hệ thống sử dụng cơ sở dữ liệu MySQL với tên database: nln_lyrics
+Các bảng chính bao gồm:
+users
+artists
+albums
+songs
+news
+comments
+notifications
+search_logs
+artist_follows
+album_favorites
+genres
+api_logs
+Sau khi tạo database, cần import file SQL backup nếu có.
+7. Cấu hình kết nối database
+Khi chuyển project sang máy khác, cần kiểm tra lại cấu hình kết nối trong các file:
+public/includes/database.php
+config/database.php
+Các thông tin cần rà soát gồm:
++ host
++ port
++ username
++ password
++ database name
++ charset utf8mb4
+8. Cách chạy hệ thống
+8.1. Chạy bằng PHP built-in server
+Nếu máy đã có PHP và MySQL, có thể chạy nhanh bằng lệnh:
+php -S 127.0.0.1:8000 -t public
+Sau đó truy cập:
+http://127.0.0.1:8000
+8.2. Chạy bằng XAMPP
++ Chép project vào thư mục htdocs
++ Bật Apache và MySQL
++ Import database nln_lyrics
++ Truy cập qua localhost
+8.3. Chạy bằng Docker
+Project đã có sẵn cấu hình Docker với:
++ PHP + Apache
++ MySQL
+Thực hiện:
+docker compose up --build
+Sau khi chạy:
++ Web: http://127.0.0.1:8080/public/
++ MySQL: 127.0.0.1:3307
+9. Kết luận:
+Tài liệu này cung cấp các bước cơ bản để clone, cấu hình và chạy hệ thống Musicalisation trên máy mới. Đây là cơ sở hỗ trợ cho việc triển khai, kiểm thử và tiếp tục phát triển hệ thống trong tương lai.

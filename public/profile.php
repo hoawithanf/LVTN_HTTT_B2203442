@@ -120,7 +120,6 @@ $qSong   = trim($_GET['q_song'] ?? '');
 $qArtist = trim($_GET['q_artist'] ?? '');
 $from    = $_GET['from'] ?? '';
 $to      = $_GET['to'] ?? '';
-$refreshRecommendations = isset($_GET['refresh_recommendations']) && $_GET['refresh_recommendations'] === '1';
 
 /* ================= USER INFO ================= */
 $stmtUser = $conn->prepare("
@@ -264,7 +263,7 @@ $stmtFavAlbums->close();
 $userPlaylists = nln_playlist_fetch_user_playlists($conn, $user_id, 8);
 
 /* ================= RECOMMENDATION ================= */
-$recommendationData = nln_profile_recommendations_fresh($conn, $user_id, 6, $refreshRecommendations);
+$recommendationData = nln_profile_recommendations_fresh($conn, $user_id, 6, false);
 $recommendItems = $recommendationData['items'] ?? [];
 $recommendSummary = trim((string) ($recommendationData['summary'] ?? ''));
 
@@ -507,13 +506,15 @@ $summaryCards = [
                                class="btn btn-sm btn-outline-secondary rounded-pill px-3 py-2">
                                 <i class="fas fa-compact-disc me-1"></i>Persona
                             </a>
-                            <a href="<?= h(nln_profile_url(['refresh_recommendations' => '1'])) ?>"
+                            <button type="button"
+                               id="refresh-recommendations-btn"
                                class="btn btn-sm btn-outline-primary rounded-pill px-3 py-2">
                                 <i class="fas fa-rotate-right me-1"></i>Làm mới
-                            </a>
+                            </button>
                         </div>
                     </div>
 
+                    <div id="profile-recommendations-region">
                     <?php if ($recommendItems && $recommendSummary !== ''): ?>
                         <div class="profile-note-box">
                             <?= h($recommendSummary) ?>
@@ -546,6 +547,7 @@ $summaryCards = [
                             <p>Hãy tiếp tục tìm kiếm và tương tác với nội dung để hệ thống đưa ra gợi ý chính xác hơn.</p>
                         </div>
                     <?php endif; ?>
+                    </div>
                 </div>
             </section>
         </div>
@@ -620,6 +622,51 @@ $summaryCards = [
     </section>
 </div>
 
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+    const refreshBtn = document.getElementById('refresh-recommendations-btn');
+    const region = document.getElementById('profile-recommendations-region');
+
+    if (!refreshBtn || !region) {
+        return;
+    }
+
+    const defaultLabel = refreshBtn.innerHTML;
+
+    refreshBtn.addEventListener('click', async function () {
+        if (refreshBtn.disabled) {
+            return;
+        }
+
+        refreshBtn.disabled = true;
+        refreshBtn.innerHTML = '<i class="fas fa-spinner fa-spin me-1"></i>Dang tai';
+        region.classList.add('profile-recommendations-loading');
+
+        try {
+            const response = await fetch('includes/api_profile_recommendations.php?refresh=1', {
+                headers: {
+                    'X-Requested-With': 'XMLHttpRequest'
+                }
+            });
+
+            const data = await response.json();
+
+            if (!response.ok || !data.success || typeof data.html !== 'string') {
+                throw new Error('recommendation_refresh_failed');
+            }
+
+            region.innerHTML = data.html;
+        } catch (error) {
+            console.error(error);
+        } finally {
+            refreshBtn.disabled = false;
+            refreshBtn.innerHTML = defaultLabel;
+            region.classList.remove('profile-recommendations-loading');
+        }
+    });
+});
+</script>
+
 <style>
 .profile-page,
 .profile-page * {
@@ -636,6 +683,11 @@ $summaryCards = [
 .profile-page .profile-follow-copy span,
 .profile-page .profile-recommend-artist {
     margin: 0;
+}
+
+.profile-recommendations-loading {
+    opacity: .65;
+    transition: opacity .2s ease;
 }
 
 .profile-hero {

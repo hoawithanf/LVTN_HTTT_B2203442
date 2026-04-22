@@ -95,7 +95,9 @@ function nln_youtube_validate_video_id(string $videoId): bool
 
     $apiKey = nln_youtube_api_key();
     if ($apiKey === '') {
-        return false;
+        // Without an API key we cannot verify embeddability,
+        // but a syntactically valid saved ID should still be usable.
+        return true;
     }
 
     $url = 'https://www.googleapis.com/youtube/v3/videos?' . http_build_query([

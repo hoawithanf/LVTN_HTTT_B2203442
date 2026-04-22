@@ -1,0 +1,96 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1500" viewBox="0 0 900 1500">
+  <style>
+    .title {
+      font-family: "Times New Roman", "Liberation Serif", "DejaVu Serif", serif;
+      font-size: 32px;
+      font-weight: 700;
+      fill: #1f1f1f;
+    }
+    .step-text {
+      font-family: "Times New Roman", "Liberation Serif", "DejaVu Serif", serif;
+      font-size: 20px;
+      font-weight: 700;
+      fill: #1f1f1f;
+    }
+    .box { fill: #ffffff; stroke: #111111; stroke-width: 5; }
+    .arrow { fill: #c7d8ff; stroke: #c7d8ff; stroke-width: 8; stroke-linecap: round; }
+  </style>
+
+  <rect x="0" y="0" width="900" height="1500" fill="#ffffff" />
+  <text class="title" x="450" y="60" text-anchor="middle">Quy trình quản trị hệ thống</text>
+
+  <g transform="translate(40,100)">
+    <rect class="box" x="0" y="0" width="820" height="120" rx="22" ry="22" />
+    <text class="step-text" x="410" y="50" text-anchor="middle">
+      <tspan x="410" dy="0">Quản trị viên đăng nhập</tspan>
+      <tspan x="410" dy="30">vào hệ thống quản trị</tspan>
+    </text>
+  </g>
+
+  <g class="arrow" transform="translate(450,235)">
+    <line x1="0" y1="0" x2="0" y2="28" />
+    <polygon points="-10,28 10,28 0,42" />
+  </g>
+
+  <g transform="translate(40,290)">
+    <rect class="box" x="0" y="0" width="820" height="120" rx="22" ry="22" />
+    <text class="step-text" x="410" y="50" text-anchor="middle">
+      <tspan x="410" dy="0">Lựa chọn chức năng cần quản lý:</tspan>
+      <tspan x="410" dy="30">người dùng, nghệ sĩ, bài hát, tin tức</tspan>
+    </text>
+  </g>
+
+  <g class="arrow" transform="translate(450,425)">
+    <line x1="0" y1="0" x2="0" y2="28" />
+    <polygon points="-10,28 10,28 0,42" />
+  </g>
+
+  <g transform="translate(40,480)">
+    <rect class="box" x="0" y="0" width="820" height="180" rx="22" ry="22" />
+    <text class="step-text" x="410" y="45" text-anchor="middle">
+      <tspan x="410" dy="0">Thực hiện thao tác quản lý dữ liệu:</tspan>
+      <tspan x="410" dy="30">thêm mới</tspan>
+      <tspan x="410" dy="30">chỉnh sửa</tspan>
+      <tspan x="410" dy="30">xóa dữ liệu</tspan>
+    </text>
+  </g>
+
+  <g class="arrow" transform="translate(450,675)">
+    <line x1="0" y1="0" x2="0" y2="28" />
+    <polygon points="-10,28 10,28 0,42" />
+  </g>
+
+  <g transform="translate(40,730)">
+    <rect class="box" x="0" y="0" width="820" height="120" rx="22" ry="22" />
+    <text class="step-text" x="410" y="50" text-anchor="middle">
+      <tspan x="410" dy="0">Hệ thống cập nhật dữ liệu</tspan>
+      <tspan x="410" dy="30">vào cơ sở dữ liệu</tspan>
+    </text>
+  </g>
+
+  <g class="arrow" transform="translate(450,865)">
+    <line x1="0" y1="0" x2="0" y2="28" />
+    <polygon points="-10,28 10,28 0,42" />
+  </g>
+
+  <g transform="translate(40,920)">
+    <rect class="box" x="0" y="0" width="820" height="120" rx="22" ry="22" />
+    <text class="step-text" x="410" y="50" text-anchor="middle">
+      <tspan x="410" dy="0">Quản trị viên xem thống kê tổng quan</tspan>
+      <tspan x="410" dy="30">trên dashboard</tspan>
+    </text>
+  </g>
+
+  <g class="arrow" transform="translate(450,1055)">
+    <line x1="0" y1="0" x2="0" y2="28" />
+    <polygon points="-10,28 10,28 0,42" />
+  </g>
+
+  <g transform="translate(40,1110)">
+    <rect class="box" x="0" y="0" width="820" height="120" rx="22" ry="22" />
+    <text class="step-text" x="410" y="50" text-anchor="middle">
+      <tspan x="410" dy="0">Khi cần, quản trị viên xuất báo cáo</tspan>
+      <tspan x="410" dy="30">dưới dạng CSV hoặc PDF</tspan>
+    </text>
+  </g>
+</svg>

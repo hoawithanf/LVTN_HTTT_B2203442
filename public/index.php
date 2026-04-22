@@ -153,7 +153,7 @@ $summaryCards = [
     <div class="container position-relative px-4 px-lg-5">
         <div class="site-heading text-center home-heading-shell">
             <span class="home-eyebrow">Music Discovery Platform</span>
-            <h1>NLN Lyrics</h1>
+            <h1>Musicalisation</h1>
             <span class="subheading home-subheading">
                 Khám phá lời nhạc, ý nghĩa bài hát và những nội dung âm nhạc đang được quan tâm nhiều nhất.
             </span>

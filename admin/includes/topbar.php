@@ -1,6 +1,12 @@
 <?php
+require_once __DIR__ . '/../../config/lyric_request_helpers.php';
+
 $adminName = $_SESSION['admin_username'] ?? 'Admin';
 $notiCount = $unreadNotifications ?? 0;
+
+if (isset($conn) && $conn instanceof mysqli) {
+    $notiCount = nln_lyric_request_pending_count($conn);
+}
 ?>
 
 <nav class="navbar navbar-expand navbar-light bg-white topbar mb-4 static-top shadow">
@@ -47,7 +53,7 @@ $notiCount = $unreadNotifications ?? 0;
             <div class="dropdown-menu dropdown-menu-right shadow animated--grow-in">
                 <h6 class="dropdown-header">Notifications</h6>
 
-                <a class="dropdown-item text-center small text-gray-500" href="news.php">
+                <a class="dropdown-item text-center small text-gray-500" href="lyric_requests.php">
                     Xem nguồn thông báo
                 </a>
             </div>
